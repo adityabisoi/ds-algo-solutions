@@ -1,3 +1,3 @@
 ## problem-solving
 
-A collection of solutions for Problem Solving in Hackerrank with Python
+A collection of solutions for Hackerrank data structures and algorithm problems in Python
