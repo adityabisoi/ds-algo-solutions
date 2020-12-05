@@ -51,7 +51,7 @@ public class Solution {
      *
      */
      
-		 // Implementation part
+    // Implementation part
     static void printLinkedList(SinglyLinkedListNode head) {
     
     // traverse the whole linked list, until head pointer becomes null
@@ -59,9 +59,9 @@ public class Solution {
     // increment head pointer in each iteration
       
         while(head!=null){
-		      int val = head.data;
-		      System.out.println(val);
-		      head = head.next;
+		int val = head.data;
+		System.out.println(val);
+		head = head.next;
         }
     }
 
