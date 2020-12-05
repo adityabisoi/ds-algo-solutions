@@ -6,6 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+// Main class 
 public class Solution {
 
     static class SinglyLinkedListNode {
@@ -40,8 +41,6 @@ public class Solution {
         }
     }
 
-    // Complete the printLinkedList function below.
-
     /*
      * For your reference:
      *
@@ -52,18 +51,23 @@ public class Solution {
      *
      */
      
+		 // Implementation part
     static void printLinkedList(SinglyLinkedListNode head) {
+    
+    // traverse the whole linked list, until head pointer becomes null
+    // printing the value of linked list
+    // increment head pointer in each iteration
       
-     // Implementation part
         while(head!=null){
-        int val = head.data;
-        System.out.println(val);
-        head = head.next;
+		      int val = head.data;
+		      System.out.println(val);
+		      head = head.next;
         }
     }
 
     private static final Scanner scanner = new Scanner(System.in);
-
+      
+		// Driver code
     public static void main(String[] args) {
         SinglyLinkedList llist = new SinglyLinkedList();
 
@@ -78,7 +82,6 @@ public class Solution {
         }
 
         printLinkedList(llist.head);
-
         scanner.close();
     }
 }
