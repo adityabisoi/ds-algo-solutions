@@ -1,15 +1,17 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-map<char,string>codes; //These are used to generate huffman tree
+// to map each character its huffman value
+map<char,string>codes; 
+
+// to store the frequency of character of the input data 
 map<char,int>freq;
 
-//node of Huffman tree
+// A Huffman tree node 
 struct node{
-    int freq;
-    char data;
-    node *left;
-    node *right;
+    int freq; 		 // Frequency of the character 
+    char data;      // One of the input characters 
+    node *left,*right; // Left and right child
     node(int freq,char data){
         left=right=NULL;
         this->data=data;
@@ -23,6 +25,8 @@ struct node{
     }
 };
 
+
+// function to comapre the values when inserted in priority queue
 struct compare
 {
     bool operator()(node *l,node *r)
@@ -31,8 +35,10 @@ struct compare
     }
 };
 
-// decode_huff decodes the huffman tree
-
+// function iterates through the encoded string s 
+// if s[i]=='1' then move to node->right 
+// if s[i]=='0' then move to node->left 
+// if leaf node append the node->data to our output string 
 void decode_huff(node * root, string s) {
     struct node* curr=root;
     for(int i=0; i<s.length(); i++){
@@ -41,6 +47,7 @@ void decode_huff(node * root, string s) {
         }else{
             curr=curr->right;
         }
+		// reached leaf node 
         if(curr->left==NULL&&curr->right==NULL){
             cout<<curr->data;
             curr=root;
@@ -48,6 +55,7 @@ void decode_huff(node * root, string s) {
     }
 }
 
+// function to store characters along with there huffman value in a hash table, here we have C++ STL map 
 void storecodes(node * root,string s)
 {
     if(root==NULL){
@@ -60,8 +68,10 @@ void storecodes(node * root,string s)
     storecodes(root->right,s+'1');
 }
 
+// STL priority queue to store heap tree, with respect to their heap root node value 
 priority_queue<node *,vector<node *>,compare>pq_hft; //to store huffman tree
 
+// Function to build the Huffman tree and store it in priority queue declared above
 void huffmancodes(int size) // creates huffman tree
 {
     node *left,*right,*top;
@@ -83,6 +93,7 @@ void huffmancodes(int size) // creates huffman tree
     storecodes(pq_hft.top(),"");
 }
 
+// Function to store map each character with its frequency in input string 
 void calcfreq(string s,int n)
 {
     for(int i=0; i<s.size(); i++){
@@ -90,6 +101,7 @@ void calcfreq(string s,int n)
     }
 }
 
+// Driver program to test above functions 
 int main(){
     string s;
     cin>>s;
