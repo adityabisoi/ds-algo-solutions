@@ -1,6 +1,6 @@
-#We know that the two lists are equal beyond a certain point. 
-#We can scan ahead to the point in the longer list where the length of the remainder matches the length of the shorter list.
-#Now start comparing nodes in each list. Increment both pointers until the two pointers are equal.
+//We know that the two lists are equal beyond a certain point. 
+//We can scan ahead to the point in the longer list where the length of the remainder matches the length of the shorter list.
+//Now start comparing nodes in each list. Increment both pointers until the two pointers are equal.
 
 int getCount(Node* head)
 {
@@ -41,10 +41,8 @@ int getNode(int d, Node* head1, Node* head2)
 }
 
 int FindMergeNode(Node *headA, Node *headB)
-{
-    // Complete this function
-    // Do not write the main method. 
-    int c1 = getCount(headA);
+{ 
+  int c1 = getCount(headA);
   int c2 = getCount(headB);
   int d;
 
