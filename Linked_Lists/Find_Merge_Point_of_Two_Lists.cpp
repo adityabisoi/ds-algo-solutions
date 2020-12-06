@@ -1,6 +1,7 @@
 //We know that the two lists are equal beyond a certain point. 
 //We can scan ahead to the point in the longer list where the length of the remainder matches the length of the shorter list.
 //Now start comparing nodes in each list. Increment both pointers until the two pointers are equal.
+// Problem:- https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem 
 
 int getCount(Node* head)
 {
