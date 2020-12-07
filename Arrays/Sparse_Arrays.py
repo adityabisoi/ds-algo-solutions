@@ -1,6 +1,6 @@
 #!/bin/python3
-
-import math
+#all the header files given already
+import math 
 import os
 import random
 import re
@@ -8,16 +8,16 @@ import sys
 
 # Complete the matchingStrings function below.
 def matchingStrings(strings, queries):
-    results = []
-    for i in queries :
-        count = 0
-        for j in strings :
+    results = []  #the output
+    for i in queries :  #testing for each queries
+        count = 0   
+        for j in strings :   # the string provided
             if i==j :
-                count += 1
+                count += 1   #increment for each match
         results.append(count)
     return results
 
-
+#this segment was provided
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
