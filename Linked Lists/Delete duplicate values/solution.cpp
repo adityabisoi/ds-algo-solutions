@@ -75,6 +75,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
 
 //Finally the linked list becomes : head -> 1 -> 2 -> 3 -> NULL
 
+
 SinglyLinkedListNode* removeDuplicates(SinglyLinkedListNode* head) {
 
     SinglyLinkedListNode* current = head;//Pointer to traverse linked list 
