@@ -4,6 +4,11 @@
 
 A collection of solutions for HackerRank data structures and algorithm problems in Python, JAVA, and CPP. This community-owned project aims to bring together the solutions for the DS & Algo problems across various platforms, along with the resources for learning them. Problems from Leetcode will be included soon in the project.
 
+## Contribution Instructions
+
+Please add your code with proper comments. Add the code into the exact folder category with the name `solution.<extension>` . For example, `solution.py`
+Please add the link to the README as well. The folder structure `Arrays/Left Rotation/solution.java` should look like `Arrays/Left%20Rotation/solution.java`.
+
 ## HackerRank
 
 > HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
