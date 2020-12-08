@@ -52,3 +52,20 @@ int main(int argc, char *argv[]) {
     delete []v;
     return 0;
 }
+#Comments
+#This was very confusing wording of the question. For me, the use of curly braces in the example made me think, wait, should seqList be a set? But he said it was a list? Does the word sequence suggest it should be ordered? I guess this question reflects real life, when the client cannot express accurately what they want!
+#question is not explained well enough to write code..
+#Description
+#For this question You just need to break it down into each part.
+
+#There is a dynamic array of sequences.
+
+#There are two types of queries:
+
+#one adds an element to a sequence at a calculated index
+
+#two finds the sequence at a calculated index and prints the value at the calculated subindex.
+#From my approach
+
+
+
