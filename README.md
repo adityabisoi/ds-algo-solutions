@@ -41,9 +41,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||||
 ||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|||
 ||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium||||
-||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium||||
-||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium||||
-||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium||||
+||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|||[View](Stacks/Largest%20Rectangle/solution.py)|
+||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|
+||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium||||
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium||||
@@ -58,7 +58,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy||||
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy||||
 ||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|||
-||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium||||
+||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium||||
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|||[View](/Algorithms/Grading%20Students/solution.py)|
@@ -66,6 +66,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|||[View](Algorithms/Number%20Line%20Jump/solution.py)|
 ||[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy||[View](/Algorithms/Breaking%20the%20Records/solution.java)||
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy||[View](/Algorithms/Sales%20by%20Match/solution.java)||
+| Contest Problems |
+||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|||                          
 
 #### Contribution Guidelines
 Go to the HackerRank problem-solving section (https://www.hackerrank.com/domains/data-structures), solve a problem such that it passes all test cases, make a Pull Request with the solution in the respective folder. Feel free to suggest any useful resources for studying ds & algo.e 
