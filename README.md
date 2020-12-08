@@ -17,7 +17,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 | ---------- | --------- | ---------- | --- | ----- | ------ |
 | Arrays |   
 ||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/2D%20Array-DS/solution.java)||
-||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy||[View](Arrays/Dynamic%20Array/solution.java)||
+||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)||
 ||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/left_rotation.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/Left%20Rotation/solution.java)||
 ||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/sparse_arrays.cpp)|||
 ||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/array_manipulation.cpp)|||
@@ -59,7 +59,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy||||
 ||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|||
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium||||
-||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium||||
+||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium| [View](Trees/Tree_huffman_decoding.cpp) |||
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|||[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
