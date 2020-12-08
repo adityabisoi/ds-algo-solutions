@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+
 class SinglyLinkedListNode {
     public:
         int data;
@@ -21,7 +22,7 @@ class SinglyLinkedList {
             this->head = nullptr;
             this->tail = nullptr;
         }
-        //Method to print the data of the Linked List.
+
         void insert_node(int node_data) {
             SinglyLinkedListNode* node = new SinglyLinkedListNode(node_data);
 
@@ -34,7 +35,7 @@ class SinglyLinkedList {
             this->tail = node;
         }
 };
-//Method to print the data of Linked List
+//Method to print the data of each node in linked list.
 void print_singly_linked_list(SinglyLinkedListNode* node, string sep, ofstream& fout) {
     while (node) {
         fout << node->data;
@@ -55,60 +56,56 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
         free(temp);
     }
 }
-//Consider an example: Head->1->2->Null
-//Initially current = head , previous = NULL
+// Consider an example : head -> 1 -> 2 -> 2 -> 3 -> NULL
+// Initially current = head 
 
-// IST iteration
-//Next = 1
-//NULL <- head
-//prev = head
-//current = 1
+//IST iteration
+//Check (1 == 2) ? : NO
+//current = 2;
 
-// 2ND iteration
-//Next = 2
-//head <- 1
-//prev = 1
+//2ND iteration
+//Check (2 == 2) ? : YES
+//next1 = 2 (stored in 3rd node)
+//delete the previous node
 //current = 2
 
-// 3RD iteration
-//Next = NULL
-//1 <- 2
-//prev = 2
-//current = NULL
+//3RD iteration
+//Check (2 == 3) ? : NO
+//current = 3;
 
-//Finally head becomes 2
-//head -> 2 -> 1 -> NULL
+//Finally the linked list becomes : head -> 1 -> 2 -> 3 -> NULL
 
+SinglyLinkedListNode* removeDuplicates(SinglyLinkedListNode* head) {
 
-//Method to reverse data of Linked List
-SinglyLinkedListNode* reverse(SinglyLinkedListNode* head) {
-     //Three nodes are created: *Current , *Node , *Next.
-     //Current shows the present node(Initially Head).
-
-     SinglyLinkedListNode *next , *current , *prev;
-     current = head ;
-     prev = NULL;
-
-     while(current != NULL){
-         next = current->next;//Next points to successive node of current node.
-         current->next = prev;//Current node now points to preceeding node.
-         prev = current;//Previous now becomes Current Node.
-         current = next;//Current now becomes the next node.
-     }
-     
-     head = prev;//Previous now becomes the Head node.
-     return head; 
+    SinglyLinkedListNode* current = head;//Pointer to traverse linked list 
+    SinglyLinkedListNode* next1; 
+  
+    while (current->next != NULL){  
+        //Compare the data of current and successive node.
+        if (current->data == current->next->data){  
+        //The sequence of steps is important.If match occurs delete the present node
+        //Assign current to successive node.        
+        next1 = current->next->next;  
+        free(current->next);  
+        current->next = next1;  
+        }  
+    else{ // Advance if no match occurs.
+        current = current->next;  
+        }  
+    }
+    return head;  
 
 }
+
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
 
-    int tests;
-    cin >> tests;
+    int t;
+    cin >> t;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
-    for (int tests_itr = 0; tests_itr < tests; tests_itr++) {
+    for (int t_itr = 0; t_itr < t; t_itr++) {
         SinglyLinkedList* llist = new SinglyLinkedList();
 
         int llist_count;
@@ -123,7 +120,7 @@ int main()
             llist->insert_node(llist_item);
         }
 
-        SinglyLinkedListNode* llist1 = reverse(llist->head);
+        SinglyLinkedListNode* llist1 = removeDuplicates(llist->head);
 
         print_singly_linked_list(llist1, " ", fout);
         fout << "\n";
@@ -135,8 +132,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
