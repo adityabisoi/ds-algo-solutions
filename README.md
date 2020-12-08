@@ -44,7 +44,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium||||
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium||||
 | Trees |
-||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy||||
+||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
 ||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|||
 ||[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Inorder%20Traversal/solution.java)||
 ||[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Postorder%20Traversal/solution.java)                                                             ||
@@ -52,7 +52,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|Easy|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.java)||
 ||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy||||
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy||||
-||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree%3F/solution.cpp)|||
+||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|||
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium||||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium||||
 | Algorithms |
