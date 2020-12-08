@@ -50,7 +50,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|||
 | Trees |
 ||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
-||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|||
+||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)||
 ||[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Inorder%20Traversal/solution.java)||
 ||[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Postorder%20Traversal/solution.java)                                                             ||
 ||[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)|Easy||[View](/Trees/Tree-Level%20Order%20Traversal/solution.java)||
@@ -67,6 +67,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|||[View](Algorithms/Encryption/solution.py)|
 ||[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy||[View](/Algorithms/Breaking%20the%20Records/solution.java)||
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy||[View](/Algorithms/Sales%20by%20Match/solution.java)||
+||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium||[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|                          
 
