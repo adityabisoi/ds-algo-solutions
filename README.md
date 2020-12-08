@@ -57,7 +57,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium||||
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|||[View](/Algorithms/Grading%20Students/solution.py)|
-||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy||||
+||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy||||[View](/Algorithms/Apple%20and%20Orange/solution.py)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Algorithms/Apple%20and%20Orange/solution.py)||
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|||[View](Algorithms/Number%20Line%20Jump/solution.py)|
 
 #### Contribution Guidelines
