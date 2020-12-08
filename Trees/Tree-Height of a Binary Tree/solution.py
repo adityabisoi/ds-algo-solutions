@@ -59,7 +59,7 @@ def height(root):
     
     if root is not None:
 
-        left_height = height(root.left)        #calling for Height for left chilf
+        left_height = height(root.left)        #calling for Height for left child
         reight_height = height(root.right)     #calling for Height for Right child  
         
         return 1+max(left_height,reight_height)    
