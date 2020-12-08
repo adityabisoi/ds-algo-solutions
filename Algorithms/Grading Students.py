@@ -38,3 +38,11 @@ if __name__ == '__main__':
     f.write('\n')
 
     f.close()
+    
+    
+    #Comments
+    #awesome use of the modulo operation
+    #this is such a clever solution great mind...
+
+
+
