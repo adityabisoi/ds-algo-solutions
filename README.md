@@ -45,9 +45,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|
 | Queues|
-||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium||||
-||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium||||
-||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium||||
+||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)|||
+||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)|||
+||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|||
 | Trees |
 ||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
 ||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|||
