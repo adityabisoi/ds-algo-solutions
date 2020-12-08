@@ -49,7 +49,7 @@ def inOrder(root):
     if root == None:
         return
     
-    inOrder(root.left)            # First Traverse Through left subtree.
+    inOrder(root.left)            # First Traverse Recursively Through left subtree.
     print(root.info,end=" ")      # Then Print the Node's Data
-    inOrder(root.right)           # Traverse to right subtree.
+    inOrder(root.right)           # Recursively Traverse to right subtree.
 

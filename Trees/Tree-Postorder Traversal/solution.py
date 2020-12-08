@@ -49,7 +49,7 @@ def postOrder(root):
         return
     
     
-    postOrder(root.left)             # First Traverse Through left subtree.
-    postOrder(root.right)            # Then Traverse to Through right subtree.
+    postOrder(root.left)             # First Traverse Recursively Through left subtree.
+    postOrder(root.right)            # Then Traverse Recursively to Through right subtree.
     print(root.info,end = " ")       # Then print the node value.
 
