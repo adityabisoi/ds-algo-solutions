@@ -38,9 +38,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)| Easy||[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)||
 ||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy||[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)||
 | Stacks |
-||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||||
-||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|||
-||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium||||
+||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||[View](/Stacks/Maximum%20Element/solution.java)||
+||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|[View](/Stacks/Balanced%20Brackets/solution.java)||
+||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium||[View](/Stacks/Equal%20Stacks/solution.java)||
 ||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|||[View](Stacks/Largest%20Rectangle/solution.py)|
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|
@@ -53,10 +53,10 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|||
 ||[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Inorder%20Traversal/solution.java)||
 ||[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Postorder%20Traversal/solution.java)                                                             ||
-||[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)|Easy||||
+||[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)|Easy||[View](/Trees/Tree-Level%20Order%20Traversal/solution.java)||
 ||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|Easy|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.java)||
-||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy||||
-||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy||||
+||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy||[View](/Trees/Binary%20Search%20Tree-Insertion/solution.java)||
+||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy||[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)||
 ||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|||
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium| [View](Trees/Tree%20Huffman%20Decoding/solution.cpp) |||
