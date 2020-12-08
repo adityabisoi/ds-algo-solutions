@@ -12,6 +12,7 @@ class SinglyLinkedListNode {
         }
 };
 
+
 class SinglyLinkedList {
     public:
         SinglyLinkedListNode *head;
@@ -95,7 +96,7 @@ SinglyLinkedListNode* reverse(SinglyLinkedListNode* head) {
          prev = current;//Previous now becomes Current Node.
          current = next;//Current now becomes the next node.
      }
-     
+
      head = prev;//Previous now becomes the Head node.
      return head; 
 
