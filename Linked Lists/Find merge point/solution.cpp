@@ -57,6 +57,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
     }
 }
 
+
 //Explanation of Algorithm.
 
 //1. Get count of the nodes in the first list, let count be c1.
