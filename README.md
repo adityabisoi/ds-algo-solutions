@@ -63,4 +63,4 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 #### Contribution Guidelines
 Go to the HackerRank problem-solving section (https://www.hackerrank.com/domains/data-structures), solve a problem such that it passes all test cases, make a Pull Request with the solution in the respective folder. Feel free to suggest any useful resources for studying ds & algo.e 
 
-Also, please explain your code with comments.
+Also, please explain your code with comments
