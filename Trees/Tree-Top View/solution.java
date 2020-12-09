@@ -36,7 +36,7 @@ class solution {
         //first - stores the level of the node
         //second - stores the node.data
         TreeMap<Integer, Integer> map = new TreeMap<Integer, Integer>();
-    //why TreeMap? Because I want the nodes to be sorted from leftmost to rightmost
+    //why TreeMap because the nodes to be sorted from leftmost to rightmost
         
         //start (since root, level = 0)
         queue.add(new QueueNode(root, 0));
