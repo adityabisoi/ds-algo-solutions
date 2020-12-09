@@ -67,8 +67,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|||[View](Algorithms/Number%20Line%20Jump/solution.py)|
 ||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|||[View](Algorithms/Encryption/solution.py)|
-||[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy||[View](/Algorithms/Breaking%20the%20Records/solution.java)|[View](/Algorithms/Breaking%20the%20Records/solution.py)|
-||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy||[View](/Algorithms/Sales%20by%20Match/solution.java)|[View](/Algorithms/Sales%20by%20Match/solution.py)|
+||[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy|[View](/Algorithms/Breaking%20the%20Records/solution.cpp)|[View](/Algorithms/Breaking%20the%20Records/solution.java)||
+||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium||[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)||
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
 | Contest Problems |
