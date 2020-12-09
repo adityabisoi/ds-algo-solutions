@@ -16,9 +16,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 | Topic | Question  | Difficulty | CPP | JAVA  | Python |                                                    
 | ---------- | --------- | ---------- | --- | ----- | ------ |
 | Arrays |   
-||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/2D%20Array-DS/solution.java)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/2D%20Array-DS/solution.py)||
+||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)||
 ||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic%20Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)|[View](Arrays/Dynamic%20Array/solution.py)||
-||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/left_rotation.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/Left%20Rotation/solution.java)||
+||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/left_rotation.cpp)|[View](/Arrays/Left%20Rotation/solution.java)||
 ||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/sparse_arrays.cpp)|||
 ||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/array_manipulation.cpp)|||
 | Linked Lists |
