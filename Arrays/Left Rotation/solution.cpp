@@ -4,13 +4,13 @@ using namespace std;
 
 vector<int> rotated(vector<int> v, int d)
 {
-    int N = v.size();
+    int N = v.size();//Returns size of vector
     vector<int> a(N);
     for (int i = 0; i < N; i++)
     {
-        a[(i - d + N) % N] = v[i];
+        a[(i - d + N) % N] = v[i];//We can visualise each element of arrays in a circle and left roatation is like anticlockwise rotation in that circle
     }
-    return a;
+    return a;//returns the desired vector
 }
 
 int main()
