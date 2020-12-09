@@ -69,8 +69,10 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy||[View](/Algorithms/Sales%20by%20Match/solution.java)|[View](/Algorithms/Sales%20by%20Match/solution.py)|
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium||[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)||
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
+||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|||[View](Algorithms/Electronics%20Shop/solution.py)|
 | Contest Problems |
-||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|                          
+||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
+
 
 #### Contribution Guidelines
 Go to the HackerRank problem-solving section (https://www.hackerrank.com/domains/data-structures), solve a problem such that it passes all test cases, make a Pull Request with the solution in the respective folder. Feel free to suggest any useful resources for studying ds & algo.e 
