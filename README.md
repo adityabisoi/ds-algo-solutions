@@ -49,7 +49,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)|||
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|||
 | Trees |
-||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
+||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|[View](Trees/Tree-Top%20View/solution.java)||
 ||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)||
 ||[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Inorder%20Traversal/solution.java)||
 ||[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|Easy||[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Postorder%20Traversal/solution.java)                                                             ||
@@ -57,8 +57,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|Easy|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.java)||
 ||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy||[View](/Trees/Binary%20Search%20Tree-Insertion/solution.java)||
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy||[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)||
-||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|||
-||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|||
+||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.java)||
+||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium| [View](Trees/Tree%20Huffman%20Decoding/solution.cpp) |||
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|||[View](/Algorithms/Grading%20Students/solution.py)|
