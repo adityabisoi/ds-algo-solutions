@@ -19,8 +19,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
 ||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic%20Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)|[View](Arrays/Dynamic%20Array/solution.py)|
 ||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](/Arrays/Left%20Rotation/solution.cpp)|[View](/Arrays/Left%20Rotation/solution.java)|[View](/Arrays/Left%20Rotation/solution.py)|
-||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](Arrays/Sparse%20Arrays/solution.cpp)||[View](Arrays/Sparse%20Arrays/solution.py)|
-||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/array_manipulation.cpp)|||
+||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](Arrays/Sparse%20Arrays/solution.cpp)|||[View](Arrays/Sparse%20Arrays/solution.py)|
+||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](Arrays/Array%20Manipulation/solution.cpp)|||
 | Linked Lists |
 ||[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|Easy|[View](Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/solution.cpp)|[View](Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/solution.java)|[View](Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/solution.py)|
 ||[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Linked_Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list.cpp)|[View](/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/solution.java)|[View](Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/solution.py)|
@@ -38,9 +38,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.cpp)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.py)|
 ||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.cpp)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.py)|
 | Stacks |
-||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||[View](/Stacks/Maximum%20Element/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Maximum%20Element/solution.py)|
+||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium|[View](Stacks/Maximum%20Element/solution.cpp)|[View](/Stacks/Maximum%20Element/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Maximum%20Element/solution.py)|
 ||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|[View](/Stacks/Balanced%20Brackets/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Balanced%20Brackets/solution.py)||
-||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium||[View](/Stacks/Equal%20Stacks/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Equal%20Stacks/solution.py)|
+||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium|[View](Stacks/Equal%20Stacks/solution.cpp)|[View](/Stacks/Equal%20Stacks/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Equal%20Stacks/solution.py)|
 ||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|||[View](Stacks/Largest%20Rectangle/solution.py)|
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|
@@ -65,9 +65,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 | Algorithms |
-||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy||[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
-||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
-||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|||[View](Algorithms/Number%20Line%20Jump/solution.py)|
+||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
+||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
+||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[View](Algorithms/Number%20Line%20Jump/solution.cpp)||[View](Algorithms/Number%20Line%20Jump/solution.py)|
 ||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|||[View](Algorithms/Encryption/solution.py)|
 ||[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy|[View](/Algorithms/Breaking%20the%20Records/solution.cpp)|[View](/Algorithms/Breaking%20the%20Records/solution.java)||
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
@@ -77,6 +77,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Medium|[View](/Algorithms/The%20coin%20change%20problem/solution.cpp)|[View](/Algorithms/The%20coin%20change%20problem/solution.java)|[View](/Algorithms/The%20coin%20change%20problem/solution.py)|
 ||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|||[View](/Algorithms/Angry%20Professor/solution.py)|
 ||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|||[View](/Algorithms/Migratory%20Birds/solution.py)|
+||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](/Algorithms/Electronics%20Shops/solution.cpp)|
@@ -91,7 +92,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|||[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
 
 ### A cool & collective resource🔻
-https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing           
+https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
+           
 
 
 #### Contribution Guidelines
