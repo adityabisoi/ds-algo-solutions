@@ -74,7 +74,10 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 
 
 ### A cool & collective resource🔻
-https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing           
+https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
+
+##-[Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png):
+Big O chart and data structures operation, Everything here.           
 
 #### Contribution Guidelines
 Go to the HackerRank problem-solving section (https://www.hackerrank.com/domains/data-structures), solve a problem such that it passes all test cases, make a Pull Request with the solution in the respective folder. Feel free to suggest any useful resources for studying ds & algo.e 
