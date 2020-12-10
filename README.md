@@ -51,7 +51,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 | Heaps |
 ||[QHEAP](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](/Heaps/QHEAP/solution.cpp)|
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heaps/Jesse%20and%20Cookies/solution.cpp)|[View](Heaps/Jesse%20and%20Cookies/solution.java)||
-||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|||[View](Heaps/Find%20the%20Running%20Median/solution.py)|
+||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard||[View](Heaps/Find%20the%20Running%20Median/solution.java|[View](Heaps/Find%20the%20Running%20Median/solution.py)|
 | Trees |
 ||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|[View](Trees/Tree-Top%20View/solution.java)||
 ||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Preorder_traversal.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)||
