@@ -38,9 +38,9 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|Easy||[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.py)|
 ||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy||[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.py)|
 | Stacks |
-||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||[View](/Stacks/Maximum%20Element/solution.java)||
-||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|[View](/Stacks/Balanced%20Brackets/solution.java)||
-||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium||[View](/Stacks/Equal%20Stacks/solution.java)||
+||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||[View](/Stacks/Maximum%20Element/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Maximum%20Element/solution.py)|
+||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|[View](/Stacks/Balanced%20Brackets/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Balanced%20Brackets/solution.py)||
+||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium||[View](/Stacks/Equal%20Stacks/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Equal%20Stacks/solution.py)|
 ||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|||[View](Stacks/Largest%20Rectangle/solution.py)|
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|
