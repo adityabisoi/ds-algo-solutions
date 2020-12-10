@@ -18,7 +18,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 | Arrays |   
 ||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
 ||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic%20Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)|[View](Arrays/Dynamic%20Array/solution.py)|
-||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](/Arrays/Left%20Rotation/solution.cpp)|[View](/Arrays/Left%20Rotation/solution.java)||
+||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](/Arrays/Left%20Rotation/solution.cpp)|[View](/Arrays/Left%20Rotation/solution.java)|[View](/Arrays/Left%20Rotation/solution.py)|
 ||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/sparse_arrays.cpp)|||
 ||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Arrays/array_manipulation.cpp)|||
 | Linked Lists |
@@ -63,7 +63,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)||
 ||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.java)||
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
-||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium| [View](Trees/Tree_Huffman_Decoding/solution.cpp) |||
+||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy||[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
