@@ -78,7 +78,6 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[View](/Algorithms/Angry%20Professor/solution.cpp)||[View](/Algorithms/Angry%20Professor/solution.py)|
 ||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[View](/Algorithms/Migratory%20Birds/solution.cpp)||[View](/Algorithms/Migratory%20Birds/solution.py)|
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|
-
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](/Algorithms/Electronics%20Shops/solution.cpp)|
@@ -89,8 +88,6 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|            
-
-
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy||[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)||
 | Disjoint Sets |
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|||[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
