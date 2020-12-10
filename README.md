@@ -92,7 +92,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|||[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
 
 ### A cool & collective resource🔻
-https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing           
+https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
+           
 
 
 #### Contribution Guidelines
