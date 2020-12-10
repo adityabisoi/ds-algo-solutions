@@ -75,8 +75,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)||[View](Algorithms/Electronics%20Shop/solution.py)|
 ||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Medium|[View](/Algorithms/The%20coin%20change%20problem/solution.cpp)|[View](/Algorithms/The%20coin%20change%20problem/solution.java)|[View](/Algorithms/The%20coin%20change%20problem/solution.py)|
-||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[View](Algorithms/Angry%20Professor/solution.cpp)||[View](/Algorithms/Angry%20Professor/solution.py)|
-||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[View](Algorithms/Migratory%20Birds/solution.cpp)||[View](/Algorithms/Migratory%20Birds/solution.py)|
+||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[View](/Algorithms/Angry%20Professor/solution.cpp)||[View](/Algorithms/Angry%20Professor/solution.py)|
+||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[View](/Algorithms/Migratory%20Birds/solution.cpp)||[View](/Algorithms/Migratory%20Birds/solution.py)|
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|||
 
 | Contest Problems |
@@ -86,16 +86,14 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|Easy||[View](Algorithms/Viral%20Advertising/solution.java)|[View](/Algorithms/Viral%20Advertising/solution.py)|
 ||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.cpp)||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy||[View](Algorithms/Electronics%20Shop/solution.java)||
-<<<<<<< HEAD
 
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|            
 
-=======
+
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy||[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)||
 | Disjoint Sets |
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|||[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
->>>>>>> 6adc9fa09b80f04289d5eb007b8688c331a204e1
 
 ### A cool & collective resource🔻
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
