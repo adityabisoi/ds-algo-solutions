@@ -35,8 +35,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)|Easy|[View](/Linked%20Lists/Delete%20duplicate%20values/solution.cpp)|[View](/Linked%20Lists/Delete%20duplicate%20values/solution.java)|[View](/Linked%20Lists/Delete%20duplicate%20values/solution.py)|
 ||[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|Easy|[View](/Linked%20Lists/Find%20merge%20point/solution.cpp)|[View](/Linked%20Lists/Find%20merge%20point/solution.java)|[View](/Linked%20Lists/Find%20merge%20point/solution.py)|
 ||[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|Easy||[View](/Linked%20Lists/Cycle%20Detection/solution.java)|[View](/Linked%20Lists/Cycle%20Detection/solution.py)|
-||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|Easy||[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.py)|
-||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy||[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.py)|
+||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.cpp)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.py)|
+||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.cpp)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.py)|
 | Stacks |
 ||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium||[View](/Stacks/Maximum%20Element/solution.java)||
 ||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|[View](/Stacks/Balanced%20Brackets/solution.java)||
@@ -49,6 +49,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)|||
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|||
 | Heaps |
+||[QHEAP](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](/Heaps/QHEAP/solution.cpp)|
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heaps/Jesse%20and%20Cookies/solution.cpp)|[View](Heaps/Jesse%20and%20Cookies/solution.java)||
 | Trees |
 ||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
@@ -72,7 +73,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium||[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)||
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](/Algorithms/Electronics%20Shops/solution.cpp)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
-||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum Absolute Difference in an Array/solution.cpp)||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
+||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.cpp)||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy||[View](Algorithms/Electronics%20Shop/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|            
