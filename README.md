@@ -71,7 +71,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium||[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)||
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
-||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
+||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum Absolute Difference in an Array/solution.cpp)||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy||[View](Algorithms/Electronics%20Shop/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|            
