@@ -80,7 +80,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium||[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)||[View](Algorithms/Electronics%20Shop/solution.py)|
-||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Easy||[View](/Algorithms/The%20coin%20change%20/solution.java)||
+||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Easy||[View](/Algorithms/The%20coin%20change%20problem/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](/Algorithms/Electronics%20Shops/solution.cpp)|
