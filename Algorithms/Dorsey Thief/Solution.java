@@ -1,13 +1,17 @@
+// Imaported packages
 import java.io.*;
 import java.util.*;
 
+// Class
 public class Solution {
 
+	// Decalring the varrible
 	BufferedReader br;
 	PrintWriter out;
 	StringTokenizer st;
 	boolean eof;
 
+	// Function name solve()
 	void solve() throws IOException {
 		int n = nextInt();
 		int x = nextInt();
@@ -57,6 +61,8 @@ public class Solution {
 		}
 	}
 
+	
+	// Function used to calculate the solution
 	Solution() throws IOException {
 		br = new BufferedReader(new InputStreamReader(System.in));
 		out = new PrintWriter(System.out);
@@ -64,6 +70,7 @@ public class Solution {
 		out.close();
 	}
 
+	// Main function
 	public static void main(String[] args) throws IOException {
 		new Solution();
 	}
