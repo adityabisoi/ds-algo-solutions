@@ -50,7 +50,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|||
 | Heaps |
 ||[QHEAP](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](/Heaps/QHEAP/solution.cpp)|
-||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heaps/Jesse%20and%20Cookies/solution.cpp)|[View](Heaps/Jesse%20and%20Cookies/solution.java)||
+||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heaps/Jesse%20and%20Cookies/solution.cpp)|[View](Heaps/Jesse%20and%20Cookies/solution.java)|[View](Heaps/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heaps/Find%20the%20running%20median/solution.cpp)|[View](Heaps/Find%20the%20Running%20Median/solution.java)|[View](Heaps/Find%20the%20Running%20Median/solution.py)|
 | Trees |
 ||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
@@ -75,8 +75,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)||[View](Algorithms/Electronics%20Shop/solution.py)|
 ||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Medium|[View](/Algorithms/The%20coin%20change%20problem/solution.cpp)|[View](/Algorithms/The%20coin%20change%20problem/solution.java)|[View](/Algorithms/The%20coin%20change%20problem/solution.py)|
-||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|||[View](/Algorithms/Angry%20Professor/solution.py)|
-||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|||[View](/Algorithms/Migratory%20Birds/solution.py)|
+||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy||[View](/Algorithms/Angry%20Professor/solution.java)|[View](/Algorithms/Angry%20Professor/solution.py)|
+||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy||[View](/Algorithms/Migratory%20Birds/solution.java)|[View](/Algorithms/Migratory%20Birds/solution.py)|
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|||
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|||
 | Contest Problems |
