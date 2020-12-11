@@ -19,8 +19,8 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
 ||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic%20Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)|[View](Arrays/Dynamic%20Array/solution.py)|
 ||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](/Arrays/Left%20Rotation/solution.cpp)|[View](/Arrays/Left%20Rotation/solution.java)|[View](/Arrays/Left%20Rotation/solution.py)|
-||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](Arrays/Sparse%20Arrays/solution.cpp)|||[View](Arrays/Sparse%20Arrays/solution.py)|
-||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](Arrays/Array%20Manipulation/solution.cpp)|||
+||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](Arrays/Sparse%20Arrays/solution.cpp)|[View](Arrays/Sparse%20Arrays/solution.java)|[View](Arrays/Sparse%20Arrays/solution.py)|
+||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](Arrays/Array%20Manipulation/solution.cpp)||[View](/Arrays/Array%20Manipulation/solution.py)|
 | Linked Lists |
 ||[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|Easy|[View](Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/solution.cpp)|[View](Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/solution.java)|[View](Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/solution.py)|
 ||[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)|Easy|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Linked_Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list.cpp)|[View](/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/solution.java)|[View](Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/solution.py)|
@@ -50,7 +50,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|||
 | Heaps |
 ||[QHEAP](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](/Heaps/QHEAP/solution.cpp)|
-||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heaps/Jesse%20and%20Cookies/solution.cpp)|[View](Heaps/Jesse%20and%20Cookies/solution.java)||
+||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heaps/Jesse%20and%20Cookies/solution.cpp)|[View](Heaps/Jesse%20and%20Cookies/solution.java)|[View](Heaps/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heaps/Find%20the%20running%20median/solution.cpp)|[View](Heaps/Find%20the%20Running%20Median/solution.java)|[View](Heaps/Find%20the%20Running%20Median/solution.py)|
 | Trees |
 ||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
@@ -73,23 +73,26 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.cpp)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
-||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)||[View](Algorithms/Electronics%20Shop/solution.py)|
+||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)|[View](Algorithms/Electronics%20Shop/solution.java)|[View](Algorithms/Electronics%20Shop/solution.py)|
 ||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Medium|[View](/Algorithms/The%20coin%20change%20problem/solution.cpp)|[View](/Algorithms/The%20coin%20change%20problem/solution.java)|[View](/Algorithms/The%20coin%20change%20problem/solution.py)|
-||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|||[View](/Algorithms/Angry%20Professor/solution.py)|
-||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|||[View](/Algorithms/Migratory%20Birds/solution.py)|
-||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|||
+||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[View](/Algorithms/Angry%20Professor/solution.cpp)|[View](/Algorithms/Angry%20Professor/solution.java)|[View](/Algorithms/Angry%20Professor/solution.py)|
+||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[View](/Algorithms/Migratory%20Birds/solution.cpp)|[View](/Algorithms/Migratory%20Birds/solution.java)|[View](/Algorithms/Migratory%20Birds/solution.py)|
+||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|[View](Algorithms/Mini-Max%20Sum/solution.java)|[View](/Algorithms/Mini-Max%20Sum/solution.py)|
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|||
 ||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](Algorithms/Luck%20Balance/solution.cpp)|||
+||[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium||[View](Algorithms/Bigger%20is%20Greater/solution.java)||
+||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](Algorithms/Lonely%20Integer/solution.java)||
+||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)||
+||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy||[View](Algorithms/Maximizing%20XOR/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
-||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](/Algorithms/Electronics%20Shops/solution.cpp)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
 ||[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|Easy||[View](Algorithms/Viral%20Advertising/solution.java)|[View](/Algorithms/Viral%20Advertising/solution.py)|
 ||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.cpp)||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
-||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy||[View](Algorithms/Electronics%20Shop/solution.java)||
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy||[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)||
 | Disjoint Sets |
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|||[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
+||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
 
 ### A cool & collective resource🔻
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
