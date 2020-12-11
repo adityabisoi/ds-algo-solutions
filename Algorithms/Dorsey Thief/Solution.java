@@ -1,110 +1,66 @@
-// Imaported packages
-import java.io.*;
-import java.util.*;
+/*
+ALGORITHM
+Let us assume X is the maximum profit Mr. Dorsey can make by selling gold for i passengers.
+Once this is done for calculating for i passengers, it can be extended to calculate for (i+1)th passenger. How?
+Say the (i+1)th passenger offered Dorsey $v in exchange for 'a' grams of gold,then recalculate it by taking two possibilities , 
+i.e. either to take the value offered by the (i+1)th passenger or to not take the value offered by the (i+1)th passenger So the formula becomes:
+*/
 
-// Class
+// Required Imports
+import java.util.Arrays;
+import java.util.Scanner;
+
+//Solution class
 public class Solution {
-
-	// Decalring the varrible
-	BufferedReader br;
-	PrintWriter out;
-	StringTokenizer st;
-	boolean eof;
-
-	// Function name solve()
-	void solve() throws IOException {
-		int n = nextInt();
-		int x = nextInt();
-
-		long[] max = new long[x + 1];
-		Arrays.fill(max, -1);
-		max[0] = 0;
-
-		long freeBonus = 0;
-
-		List<Integer>[] byNeed = new List[x + 1];
-		for (int i = 1; i <= x; i++) {
-			byNeed[i] = new ArrayList<>(0);
-		}
-
-		for (int i = 0; i < n; i++) {
-			int gain = nextInt();
-			int need = nextInt();
-			if (need == 0) {
-				freeBonus += gain;
-				continue;
-			}
-			if (need <= x) {
-				byNeed[need].add(gain);
-			}
-
-		}
-
-		for (int need = 1; need <= x; need++) {
-			List<Integer> cur = byNeed[need];
-			Collections.sort(cur);
-			Collections.reverse(cur);
-			for (int i = 0; (i + 1) * need <= x && i < cur.size(); i++) {
-				int gain = cur.get(i);
-				for (int j = x; j >= need; j--) {
-					if (max[j - need] != -1) {
-						max[j] = Math.max(max[j], max[j - need] + gain);
-					}
-				}
-			}
-		}
-
-		if (max[x] == -1) {
-			out.println("Got caught!");
-		} else {
-			out.println(max[x] + freeBonus);
-		}
-	}
-
 	
-	// Function used to calculate the solution
-	Solution() throws IOException {
-		br = new BufferedReader(new InputStreamReader(System.in));
-		out = new PrintWriter(System.out);
-		solve();
-		out.close();
-	}
-
-	// Main function
-	public static void main(String[] args) throws IOException {
-		new Solution();
-	}
-
-	String nextToken() {
-		while (st == null || !st.hasMoreTokens()) {
-			try {
-				st = new StringTokenizer(br.readLine());
-			} catch (Exception e) {
-				eof = true;
-				return null;
+	// Required VArribles
+	static long[] currRow;
+	static long[] lastRow;
+	static int supply;
+	
+	/*
+	the function is used to calculate problitlity to get caught or enjoy the profit.
+	
+	*/
+	static void followLead(int price, int demand) {
+		if (demand > supply) {
+			return;
+		}
+		currRow = Arrays.copyOf(lastRow, lastRow.length);
+		if (price > lastRow[demand]) {
+			currRow[demand] = price;
+		}
+		for (int j = demand + 1; j <= supply; j++) {
+			long lastValue = lastRow[j - demand];
+			long newPrice = lastValue + price;
+			if (lastValue > 0 && currRow[j] < newPrice) {
+				currRow[j] = newPrice;
 			}
 		}
-		return st.nextToken();
-	}
 
-	String nextString() {
-		try {
-			return br.readLine();
-		} catch (IOException e) {
-			eof = true;
-			return null;
+		lastRow = currRow;
+	}
+	
+	// Main function
+	public static void main(String[] args) {
+		// creation of object of Scanner Class
+		Scanner in = new Scanner(System.in);
+		int leads = in.nextInt();
+		supply = in.nextInt();
+
+		lastRow = new long[supply + 1];
+		
+		// Taking Input of required varrible
+		for (int i = 0; i < leads; i++) {
+			int price = in.nextInt();
+			int demand = in.nextInt();
+			// Call of the function.
+			followLead(price, demand);
 		}
-	}
 
-	int nextInt() throws IOException {
-		return Integer.parseInt(nextToken());
-	}
+		long maxYield = currRow[supply];
+		// Printing the problilty
+		System.out.println((maxYield == 0) ? "Got caught!" : maxYield);
 
-	long nextLong() throws IOException {
-		return Long.parseLong(nextToken());
-	}
-
-	double nextDouble() throws IOException {
-		return Double.parseDouble(nextToken());
 	}
 }
