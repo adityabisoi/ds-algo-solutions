@@ -1,3 +1,6 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+# stackpush-
+# stackdelete- 
 ENQUEUE = 1
 DEQUEUE = 2
 PRINT = 3
@@ -19,10 +22,10 @@ class Stack:
     def __init__(self):
         self._l = []
         
-    def push(self, data):
+    def push(self, data): # enqueue
         self._l.append(data)
         
-    def pop(self):
+    def pop(self):         # dequeue
         return self._l.pop()
     
     def __len__(self):
@@ -71,7 +74,7 @@ def main():
             q.enqueue(arg)
         elif command == DEQUEUE:
             q.dequeue()
-        elif command == PRINT:
+        elif command == PRINT: # print the front element
             print(q.peek())
             
         

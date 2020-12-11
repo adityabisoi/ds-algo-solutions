@@ -7,7 +7,7 @@ gval = [gval_line[:] for _ in range(n)] #trick [:] usage clones gval_line, other
 grid = []
 queue = deque([])
 
-for _ in range(n):
+for _ in range(n):       # minimumfunction moves function
     grid.append(input().strip())
 
 coords = [int(i) for i in input().strip().split(' ')]
@@ -16,7 +16,7 @@ final = (coords[2], coords[3])
 
 queue.append(initial)
 
-while len(queue) != 0:
+while len(queue) != 0: #main logic
     #print(str(queue))
     #print(str(gval))
     #print(str(grid))
@@ -28,7 +28,7 @@ while len(queue) != 0:
     cval = gval[y][x] + 1
     
     for i in range(y+1, n):
-        if grid[i][x] == 'X':
+        if grid[i][x] == 'X':  # check the condition
             break
         elif gval[i][x] == 0:
             gval[i][x] = cval
