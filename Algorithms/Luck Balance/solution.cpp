@@ -1,75 +1,108 @@
-#include <cstdio>
-#include <cstdlib>
-#include <iostream>
-#include <algorithm>
-#include <utility>
-#include <cstring>
-#include <bitset>
-#include <string>
-#include <vector>
-#include <queue>
-#include <map>
-#include <set>
+#include <bits/stdc++.h>
+#include <stdlib.h>
+
 using namespace std;
 
-typedef double db;
-typedef long long LL;
-typedef pair< int, int > PII;
-typedef pair< LL, LL > PLL;
-typedef pair< db, db > PDD;
+vector<string> split_string(string);
 
-const db dInf = 1E90;
-const LL lInf = ( LL ) 1E16;
-const int Inf = 0x23333333;
-const int N = 505;
+// Complete the luckBalance function below.
+int luckBalance(int k, vector<vector<int>> contests) {
 
-#define it iterator
-#define rbg rbegin()
-#define ren rend()
-#define fdi( i, x ) for ( typeof( x.rbg ) i=x.rbg; i!=x.ren; ++i )
-#define foi( i, x ) for ( typeof( x.begin() ) i=x.begin(); i!=x.end(); ++i )
-#define fd( i, y, x ) for ( int i=( y )-1, LIM=x; i>=LIM; --i )
-#define fo( i, x, y ) for ( int i=x, LIM=y; i<LIM; ++i )
-#define mkp( A, B ) make_pair( A, B )
-#define pub( x ) push_back( x )
-#define pob( x ) pop_back( x )
-#define puf( x ) push_front( x )
-#define pof( x ) pop_front( x )
-#define fi first
-#define se second
+    int totalLostLuck = 0;
+    int totalGainedLuck = 0;
+    int totalRegainedLuck = 0;
+    vector<int> regainedLuck(k, 0);
 
-void Read( int &x )
-{
-    x = 0; char ch = '\0';
-    while ( ch<'0' || ch>'9' ) ch = getchar();
-    while ( ch>='0' && ch<='9' )
-        x = x * 10 + ch - '0', ch = getchar();
+    for(int i = 0; i < contests.size(); i++)
+    {
+        if(contests[i][1] == 1)
+        {
+            totalLostLuck += contests[i][0];
+            for(int j = 0; j < k; j++)
+            {
+                // Choose to win the contests that have the greatest
+                // amount of luck
+                if(regainedLuck[j] < contests[i][0])
+                {
+                    regainedLuck[j] = contests[i][0];
+                    sort(regainedLuck.begin(), regainedLuck.end());
+                    j = k;
+                }
+            }
+        }
+        // If it is a non-important contest, we get the luck for free!
+        else
+        {
+            totalGainedLuck += contests[i][0];
+        }
+    }
+
+    for(int i = 0; i < k; i++)
+    {
+        totalRegainedLuck += regainedLuck[i];
+    }
+
+    return totalGainedLuck - totalLostLuck + (2*totalRegainedLuck);
 }
-
-void update( int &x, int v ) { if ( v > x ) x = v; }
-
-int f[N];
-int n, m;
 
 int main()
 {
+    //ofstream fout(getenv("OUTPUT_PATH"));
 
-    int v, imp;
-    Read( n ), Read( m );
-    fill( f + 1, f + m + 1, -Inf );
-    fo ( i, 0, n )
-    {
-        Read( v ), Read( imp );
-        fd ( j, m+1, 0 ) 
-        {
-            int temp = f[j]; f[j] = -Inf;
-            update( f[ j+imp ], temp + v );
-            update( f[j], temp - v );
+    string nk_temp;
+    getline(cin, nk_temp);
+
+    vector<string> nk = split_string(nk_temp);
+
+    int n = stoi(nk[0]);
+
+    int k = stoi(nk[1]);
+
+    vector<vector<int>> contests(n);
+    for (int i = 0; i < n; i++) {
+        contests[i].resize(2);
+
+        for (int j = 0; j < 2; j++) {
+            cin >> contests[i][j];
         }
+
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
     }
-    int ret = -Inf;
-    fo ( j, 0, m+1 ) update( ret, f[j] );
-    printf( "%d\n", ret );
+
+    int result = luckBalance(k, contests);
+
+    cout << result << "\n";
+
+    //fout.close();
 
     return 0;
+}
+
+vector<string> split_string(string input_string) {
+    string::iterator new_end = unique(input_string.begin(), input_string.end(), [] (const char &x, const char &y) {
+        return x == y and x == ' ';
+    });
+
+    input_string.erase(new_end, input_string.end());
+
+    while (input_string[input_string.length() - 1] == ' ') {
+        input_string.pop_back();
+    }
+
+    vector<string> splits;
+    char delimiter = ' ';
+
+    size_t i = 0;
+    size_t pos = input_string.find(delimiter);
+
+    while (pos != string::npos) {
+        splits.push_back(input_string.substr(i, pos - i));
+
+        i = pos + 1;
+        pos = input_string.find(delimiter, i);
+    }
+
+    splits.push_back(input_string.substr(i, min(pos, input_string.length()) - i + 1));
+
+    return splits;
 }
