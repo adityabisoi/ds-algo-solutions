@@ -7,7 +7,7 @@ Once this is done for calculating for i passengers, it can be extended to calcul
 i.e. either to take the value offered by the (i+1)th passenger or to not take the value offered by the (i+1)th passenger So the formula becomes:
 */
 
-
+// Required Imports
 import java.util.Arrays;
 import java.util.Scanner;
 
