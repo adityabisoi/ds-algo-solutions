@@ -65,7 +65,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 | Algorithms |
-||[Apple and Orange](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](/Algorithms/Luck%20Balance/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
+||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](/Algorithms/Luck%20Balance/solution.cpp)|
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced||[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/Solution.java)|||
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
