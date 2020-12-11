@@ -1,4 +1,11 @@
+/*
+import java.io.*;	ALGORITHM
+import java.util.*;	Let us assume X is the maximum profit Mr. Dorsey can make by selling gold for i passengers.
 
+Once this is done for calculating for i passengers, it can be extended to calculate for (i+1)th passenger. How?
+// Class	Say the (i+1)th passenger offered Dorsey $v in exchange for 'a' grams of gold,then recalculate it by taking two possibilities , 
+i.e. either to take the value offered by the (i+1)th passenger or to not take the value offered by the (i+1)th passenger So the formula becomes:
+*/
 
 
 import java.util.Arrays;
