@@ -65,6 +65,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 | Algorithms |
+||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced||[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/Solution.java)|||
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[View](Algorithms/Number%20Line%20Jump/solution.cpp)||[View](Algorithms/Number%20Line%20Jump/solution.py)|
@@ -84,7 +85,11 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](Algorithms/Lonely%20Integer/solution.java)||
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)||
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy||[View](Algorithms/Maximizing%20XOR/solution.java)||
-||[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[View](Algorithms/Birthday%20Cake%20Candles/solution.cpp)|||
+||[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[View](Algorithms/Birthday%20Cake%20Candles/solution.cpp)||[View](/Algorithms/Birthday%20Cake%20Candles/solution.py)|
+||[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|Easy|[View](/Algorithms/Sub-array%20Division/solution.cpp)||[View](/Algorithms/Sub-array%20Division/solution.py)|
+||[Bill Division](https://www.hackerrank.com/challenges/bon-apetit/problem)|Easy|[View](/Algorithms/Sub-array%20Division/solution.cpp)||[View](/Algorithms/Bill%20Division/solution.py)|
+||[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|Easy|[View](/Algorithms/Marc's%20Cakewalk/solution.cpp)|[View](Algorithms/Marc's%20Cakewalk/solution.java)|
+||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)||[View](/Algorithms/Flipping%20Bits/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
