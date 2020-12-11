@@ -11,6 +11,17 @@ using namespace std;
 #define REP(i, n) FOR(i, 0, n)
 #define ROF(i, a, b) for (remove_cv<remove_reference<decltype(b)>::type>::type i = (b); --i >= (a); )
 
+// I recommend skipping this problem. The problem statement is way too convoluted.
+// However, here are some takeaway concepts from this problem:
+//   - Implementing a custom BigInt as a byte[]
+//   - Implementing log2(int n)
+//   - Realizing that our algorithm can process the giant numbers in portions
+
+// - Runtime: O(n + m) where n = # of digits in L, m = # of digits in R (for interval [L,R]).
+// - Numbers can literally have millions of digits in this problem. An "int" or "long" is not big enough to store these numbers. Although Java's BigInteger is big enough, it turns out to be too slow for this problem. I wrote a custom "BigInt" class to speed up calculations.
+// - To achieve linear runtime, we need an algorithm that splits up these giant numbers into portions and processes them separately. A great way to do this is to split by level, as done below.
+// - This was a very difficult problem. You must have both linear runtime and efficient code to pass all testcases.
+
 const long N = 1000001, D = 16, TEN = long(pow(10.0, D));
 char L[N+1], R[N+1];
 
