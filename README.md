@@ -15,9 +15,10 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 | Topic | Question  | Difficulty | CPP | JAVA  | Python |                                                    
 | ---------- | --------- | ---------- | --- | ----- | ------ |
 | Arrays |   
-||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
+||[2D Array-DS](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
 ||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic%20Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)|[View](Arrays/Dynamic%20Array/solution.py)|
 ||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](/Arrays/Left%20Rotation/solution.cpp)|[View](/Arrays/Left%20Rotation/solution.java)|[View](/Arrays/Left%20Rotation/solution.py)|
+||[Arrays-DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|Easy|||[View](Arrays/Arrays-DS/solution.py)|
 ||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](Arrays/Sparse%20Arrays/solution.cpp)|[View](Arrays/Sparse%20Arrays/solution.java)|[View](Arrays/Sparse%20Arrays/solution.py)|
 ||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](Arrays/Array%20Manipulation/solution.cpp)|[View](Arrays/Array%20Manipulation/solution.java)|[View](/Arrays/Array%20Manipulation/solution.py)|
 | Linked Lists |
