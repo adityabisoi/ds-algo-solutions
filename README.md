@@ -79,6 +79,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[View](/Algorithms/Migratory%20Birds/solution.cpp)|[View](/Algorithms/Migratory%20Birds/solution.java)|[View](/Algorithms/Migratory%20Birds/solution.py)|
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|[View](Algorithms/Mini-Max%20Sum/solution.java)|[View](/Algorithms/Mini-Max%20Sum/solution.py)|
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|||
+||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](Algorithms/Luck%20Balance/solution.cpp)|||
 ||[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium||[View](Algorithms/Bigger%20is%20Greater/solution.java)||
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](Algorithms/Lonely%20Integer/solution.java)||
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)||
