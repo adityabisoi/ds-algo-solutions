@@ -78,6 +78,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|||[View](/Algorithms/Angry%20Professor/solution.py)|
 ||[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|||[View](/Algorithms/Migratory%20Birds/solution.py)|
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|||
+||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|||
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](Algorithms/Lonely%20Integer/solution.java)||
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)||
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy||[View](Algorithms/Maximizing%20XOR/solution.java)||
