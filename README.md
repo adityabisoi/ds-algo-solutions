@@ -90,6 +90,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Bill Division](https://www.hackerrank.com/challenges/bon-apetit/problem)|Easy|[View](/Algorithms/Sub-array%20Division/solution.cpp)|[View](Algorithms/Bill%20Division/solution.java)|[View](/Algorithms/Bill%20Division/solution.py)|
 ||[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|Easy|[View](/Algorithms/Marc's%20Cakewalk/solution.cpp)|[View](Algorithms/Marc's%20Cakewalk/solution.java)|
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)||[View](/Algorithms/Flipping%20Bits/solution.py)|
+||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
