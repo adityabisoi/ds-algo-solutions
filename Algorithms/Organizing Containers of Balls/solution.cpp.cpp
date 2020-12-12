@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int q;
-    cin>>q;
+    cin>>q;       
     while(q--)
     {
         int n;
@@ -14,13 +14,13 @@ int main()
         {
             for(int j=0;j<n;j++)
             {
-                cin>>arr[i][j];
-                sum[j]+=arr[i][j];
-                row[i]+=arr[i][j];
+                cin>>arr[i][j];                 // take the input from user and put it in an array
+                sum[j]+=arr[i][j];           // do summation of all elements of a column in an array
+                row[i]+=arr[i][j];           
             }
         }
-        sort(row,row+n);
-        sort(sum,sum+n);
+        sort(row,row+n);                   // arrange all the elements of row in ascending order
+        sort(sum,sum+n);                 // arrange all the elements of sum in ascending order
         bool check =true;
         for(int i=0;i<n;i++)
         if(row[i]!=sum[i])
