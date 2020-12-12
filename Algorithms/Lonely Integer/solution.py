@@ -23,6 +23,7 @@ def lonelyinteger(a):
     if n == 1:
         return a[0]
     
+    
     #else return result where result is difference between the double of sum of elements in set b and sum of elements in list a 
     return ((sum(b)*2 - sum(a)))
 
