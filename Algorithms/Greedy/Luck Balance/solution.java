@@ -21,6 +21,7 @@ public class Solution {
       int n = in.nextInt();
       int k = in.nextInt();
       int ret = 0;
+        // Declartion of ArrayList
       List<Integer> imp = new ArrayList<Integer>();
       for (int i = 0; i < n; i++) {
         int l = in.nextInt();
@@ -30,6 +31,7 @@ public class Solution {
           imp.add(l);
         }
       }
+        // Usage of Collections package
       Collections.sort(imp);
       for (int i = 0; i < imp.size(); i++) {
         if (i < imp.size() - k) {
