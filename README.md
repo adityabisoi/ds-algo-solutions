@@ -33,7 +33,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|Easy|[View](/Linked%20Lists/Reverse%20a%20Linked%20List/solution.cpp)|[View](/Linked%20Lists/Reverse%20a%20Linked%20List/solution.java)|[View](/Linked%20Lists/Reverse%20a%20Linked%20List/solution.py)|                                             
 ||[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)|Easy|[View](/Linked%20Lists/Delete%20duplicate%20values/solution.cpp)|[View](/Linked%20Lists/Delete%20duplicate%20values/solution.java)|[View](/Linked%20Lists/Delete%20duplicate%20values/solution.py)|
 ||[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|Easy|[View](/Linked%20Lists/Find%20merge%20point/solution.cpp)|[View](/Linked%20Lists/Find%20merge%20point/solution.java)|[View](/Linked%20Lists/Find%20merge%20point/solution.py)|
-||[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|Easy||[View](/Linked%20Lists/Cycle%20Detection/solution.java)|[View](/Linked%20Lists/Cycle%20Detection/solution.py)|
+||[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|Easy|[View](/Linked%20Lists/Cycle%20Detection/solution.cpp)|[View](/Linked%20Lists/Cycle%20Detection/solution.java)|[View](/Linked%20Lists/Cycle%20Detection/solution.py)|
 ||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.cpp)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.py)|
 ||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.cpp)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.py)|
 | Stacks |
@@ -91,6 +91,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|Easy|[View](/Algorithms/Marc's%20Cakewalk/solution.cpp)|[View](Algorithms/Marc's%20Cakewalk/solution.java)|
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)||[View](/Algorithms/Flipping%20Bits/solution.py)|
 ||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)||
+||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy||[View](Algorithms/Halloween%20Sale/solution.java)|[View](Algorithms/Halloween%20Sale/solution.py)|
+||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|||[View](Algorithms/Chocolate%20Feast/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
@@ -98,8 +100,10 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.cpp)||[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy||[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)||
 | Disjoint Sets |
-||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|[View](/Disjoint%20Sets/Merging%20Communities/solution.cpp)||[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
-||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
+||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|[View](/Disjoint%20Sets/Merging%20Communities/solution.cpp)|[View](/Disjoint%20Sets/Merging%20Communities/solution.java)|[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
+||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
+||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|||
+||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|||[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
 
 ### A cool & collective resource🔻
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
