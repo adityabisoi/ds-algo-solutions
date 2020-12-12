@@ -44,9 +44,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|||[View](Stacks/Largest%20Rectangle/solution.py)|||
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|||
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|||
-
 ||[AND xor OR](https://www.hackerrank.com/challenges/and-xor-or/problem)|Hard|
-
 ||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|Hard||
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)||[View](Queues/Queues%20using%20two%20stacks/solution.py)|
