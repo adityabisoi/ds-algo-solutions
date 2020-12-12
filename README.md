@@ -64,7 +64,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|||[View](Trees/Tree-Balanced%20Forest/solution.py)|
-||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Hard|||[View](Trees/Tree-Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
+||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Tree-/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)||[View](Trees/Tree-Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Algorithms |
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced||[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/Solution.java)|||
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
