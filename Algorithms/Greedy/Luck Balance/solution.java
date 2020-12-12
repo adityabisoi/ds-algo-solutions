@@ -10,6 +10,8 @@ To do this, we sort all the luck values and subtract the first K values from our
 import java.io.*;
 import java.util.*;
 
+
+// Class Solution Intialization
 public class Solution {
 
     public static void main(String[] args) {
