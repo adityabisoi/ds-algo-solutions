@@ -1,3 +1,10 @@
+/*
+There is no point in winning unimportant contests, so we can just lose all of them and get their luck.
+Let's denote the number of important contests as C. If C<=K , we can just lose all of them and add their luck to our luck balance. 
+If C>K , we want to win the K preliminary competitions having the smallest luck value. 
+To do this, we sort all the luck values and subtract the first K values from our luck balance.
+*/
+
 import java.io.*;
 import java.util.*;
 
