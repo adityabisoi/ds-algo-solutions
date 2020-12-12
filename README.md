@@ -90,6 +90,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Bill Division](https://www.hackerrank.com/challenges/bon-apetit/problem)|Easy|[View](/Algorithms/Sub-array%20Division/solution.cpp)|[View](Algorithms/Bill%20Division/solution.java)|[View](/Algorithms/Bill%20Division/solution.py)|
 ||[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|Easy|[View](/Algorithms/Marc's%20Cakewalk/solution.cpp)|[View](Algorithms/Marc's%20Cakewalk/solution.java)|
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)||[View](/Algorithms/Flipping%20Bits/solution.py)|
+||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)||
 ||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy||[View](Algorithms/Halloween%20Sale/solution.java)|[View](Algorithms/Halloween%20Sale/solution.py)|
 ||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|||[View](Algorithms/Chocolate%20Feast/solution.py)|
 | Contest Problems |
