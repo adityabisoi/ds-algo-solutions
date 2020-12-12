@@ -4,6 +4,10 @@
 
 A collection of solutions for HackerRank data structures and algorithm problems in Python, JAVA, and CPP. This community-owned project aims to bring together the solutions for the DS & Algo problems across various platforms, along with the resources for learning them. Problems from Leetcode will be included soon in the project.
 
+## Contribution Instructions
+
+Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
+
 ## HackerRank
 
 > HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
@@ -99,6 +103,8 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|||
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy||[View](/Algorithms/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
+
+
 
 ### A cool & collective resource🔻
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
