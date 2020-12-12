@@ -103,6 +103,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|||
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|||[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
+||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|||[View](/Algorithms/Library%20Fine/solution.py)|
 
 ### A cool & collective resource🔻
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
