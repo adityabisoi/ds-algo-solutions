@@ -1,7 +1,7 @@
 import math
 
 def solve(n):
-    memoize=set()
+    memoize=set()           # Initialize set for memoization
     count=0
     q=[]
     q.append((n,count))
@@ -9,7 +9,7 @@ def solve(n):
         data,count=q.pop(0)
         if data<=1:
             if data==1:
-                count+=1
+                count+=1                # Increment count 
             break
         if data-1 not in memoize:
             q.append((data-1,count+1))
@@ -21,7 +21,7 @@ def solve(n):
                 if div not in memoize:
                     memoize.add(div)
                     q.append((div,count+1))
-    return count
+    return count                # Return minimum counts
     
 if __name__=="__main__":
     for _ in range(int(input())):

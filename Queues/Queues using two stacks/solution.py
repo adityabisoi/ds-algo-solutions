@@ -1,21 +1,21 @@
-ENQUEUE = 1
+ENQUEUE = 1         # Assign values to variables
 DEQUEUE = 2
 PRINT = 3
 
 def read_command():
-    parts = input().strip().split(' ')
+    parts = input().strip().split(' ')          # Taking input
     cmd = int(parts[0])
     
     if len(parts) == 1:
         return (cmd, None)
     try:
         arg = int(parts[1])
-    except ValueError:
+    except ValueError:              # Handle error
         arg = parts[1]
         
     return cmd, arg
 
-class Stack:
+class Stack:                    # Create Stack class and define its methods
     def __init__(self):
         self._l = []
         
@@ -33,7 +33,7 @@ class Stack:
             return self._l[-1]
         return None
 
-class Queue:
+class Queue:                    # Create Queue class and define its methods
     def __init__(self):
         self._head = Stack()
         self._tail = Stack()
