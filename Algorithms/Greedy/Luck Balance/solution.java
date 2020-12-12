@@ -14,7 +14,9 @@ import java.util.*;
 // Class Solution Intialization
 public class Solution {
 
+    // Declartion of Main Function
     public static void main(String[] args) {
+        // Scanner object creation
       Scanner in = new Scanner(System.in);
       int n = in.nextInt();
       int k = in.nextInt();
