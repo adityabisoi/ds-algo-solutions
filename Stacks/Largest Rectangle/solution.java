@@ -10,6 +10,13 @@ public class Solution {
 		for (int i = 0; i < N; i++) {     //run for loop
 			heights[i] = in.nextInt();
 		}
+/*
+Stack approach
+Add into stack when the input value is greater than the top value in the stack
+else, pop the stack till the stacks top value is less than or equal
+and check the area and add that to stack
+final step - empty the stack while calculating the area
+*/
 
 		long maxArea = 0;
 		Stack<Integer> indices = new Stack<Integer>();
