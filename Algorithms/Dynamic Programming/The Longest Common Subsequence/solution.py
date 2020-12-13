@@ -11,6 +11,8 @@ def LCS(A,B):
     m = len(B)
 
     # suffixes[i][j] will be LCS(A[:i],B[:j])
+    #build L[m+1][n+1] in bottom up fashion 
+    #L[i][j] contains length of LCS of X[0..i-1] 
     suffixes = [[ [] for i in xrange(m+1)] for j in xrange(n+1)]
 
     for i in xrange(1,n+1):
@@ -26,7 +28,7 @@ def LCS(A,B):
                     suffixes[i][j] = l1
                 else:
                     suffixes[i][j] = l2
-                    
+    # suffixes[m][n] contains the length of LCS of A[0..n-1] & B[0..m-1]                
     return suffixes[n][m]
 
 # we don't need the sizes n and m, but let's store them anyway
