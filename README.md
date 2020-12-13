@@ -1,4 +1,4 @@
-[![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## ds-algo-solutions
 
