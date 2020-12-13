@@ -83,9 +83,9 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|[View](Algorithms/Mini-Max%20Sum/solution.java)|[View](/Algorithms/Mini-Max%20Sum/solution.py)|
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/Solution.java)||
 ||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](Algorithms/Luck%20Balance/solution.cpp)|||
-||[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.cpp)|||
-||[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.cpp)|||
-||[Xor sequence](https://www.hackerrank.com/challenges/xor-se/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Xor%20sequence/solution.cpp)|||
+||[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.cpp)|[View](Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.java)||
+||[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.cpp)|[View](Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.java)||
+||[Xor sequence](https://www.hackerrank.com/challenges/xor-se/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Xor%20sequence/solution.cpp)|[View](Algorithms/Bit%20Manipulation/Xor%20sequence/solution.java)||
 ||[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium||[View](Algorithms/Bigger%20is%20Greater/solution.java)|[View](Algorithms/Bigger%20is%20Greater/solution.py)|
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
