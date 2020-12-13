@@ -70,7 +70,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[View](Algorithms/Number%20Line%20Jump/solution.cpp)||[View](Algorithms/Number%20Line%20Jump/solution.py)|
-||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|||[View](Algorithms/Encryption/solution.py)|
+||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[View](Algorithms/Encryption/solution.cpp)||[View](Algorithms/Encryption/solution.py)|
 ||[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|Easy|[View](/Algorithms/Breaking%20the%20Records/solution.cpp)|[View](/Algorithms/Breaking%20the%20Records/solution.java)||
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.cpp)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.py)|
