@@ -92,6 +92,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)||[View](/Algorithms/Flipping%20Bits/solution.py)|
 ||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)||
 ||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy||[View](Algorithms/Halloween%20Sale/solution.java)|[View](Algorithms/Halloween%20Sale/solution.py)|
+||[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|Medium|||[View](/Algorithms/The%20Great%20XOR/solution.py)|
 ||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|||[View](Algorithms/Chocolate%20Feast/solution.py)|
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy||[View](/Algorithms/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|||[View](/Algorithms/Library%20Fine/solution.py)|
