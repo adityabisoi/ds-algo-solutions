@@ -37,7 +37,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|Easy|[View](/Linked%20Lists/Cycle%20Detection/solution.cpp)|[View](/Linked%20Lists/Cycle%20Detection/solution.java)|[View](/Linked%20Lists/Cycle%20Detection/solution.py)|
 ||[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.cpp)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.java)|[View](/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/solution.py)|
 ||[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|Easy|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.cpp)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.java)|[View](/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/solution.py)|
-| Stacks |
+
 
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)||[View](Queues/Queues%20using%20two%20stacks/solution.py)|
