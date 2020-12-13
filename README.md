@@ -83,7 +83,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](Algorithms/Luck%20Balance/solution.cpp)|||
 ||[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium||[View](Algorithms/Bigger%20is%20Greater/solution.java)|[View](Algorithms/Bigger%20is%20Greater/solution.py)|
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](Algorithms/Lonely%20Integer/solution.java)||
-||[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|Medium||[View](Algorithms/Sherlock%and%20the%20Valid%20String/solution.java)||
+||[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|Medium||[View](Algorithms/String/Sherlock%and%20the%20Valid%20String/solution.java)||
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)||
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy||[View](Algorithms/Maximizing%20XOR/solution.java)||
 ||[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[View](Algorithms/Birthday%20Cake%20Candles/solution.cpp)|[View](Algorithms/Birthday%20Cake%20Candles/solution.java)|[View](/Algorithms/Birthday%20Cake%20Candles/solution.py)|
