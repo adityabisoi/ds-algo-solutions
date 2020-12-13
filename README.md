@@ -15,9 +15,10 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 | Topic | Question  | Difficulty | CPP | JAVA  | Python |                                                    
 | ---------- | --------- | ---------- | --- | ----- | ------ |
 | Arrays |   
-||[2D Array](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
+||[2D Array-DS](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](Arrays/2D%20Array-DS/solution.cpp)|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.py)|
 ||[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|Easy| [View](Arrays/Dynamic%20Array/solution.cpp) |[View](Arrays/Dynamic%20Array/solution.java)|[View](Arrays/Dynamic%20Array/solution.py)|
 ||[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|Easy|[View](/Arrays/Left%20Rotation/solution.cpp)|[View](/Arrays/Left%20Rotation/solution.java)|[View](/Arrays/Left%20Rotation/solution.py)|
+||[Arrays-DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|Easy|||[View](Arrays/Arrays-DS/solution.py)|
 ||[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|Medium|[View](Arrays/Sparse%20Arrays/solution.cpp)|[View](Arrays/Sparse%20Arrays/solution.java)|[View](Arrays/Sparse%20Arrays/solution.py)|
 ||[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|Hard|[View](Arrays/Array%20Manipulation/solution.cpp)|[View](Arrays/Array%20Manipulation/solution.java)|[View](/Arrays/Array%20Manipulation/solution.py)|
 | Linked Lists |
@@ -40,9 +41,9 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|Medium|[View](Stacks/Maximum%20Element/solution.cpp)|[View](/Stacks/Maximum%20Element/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Maximum%20Element/solution.py)|
 ||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|Medium|[View](https://github.com/RisHaV-IITKGP/ds-algo-solutions/blob/main/Stacks/Balanced%20Brackets/solution.cpp)|[View](/Stacks/Balanced%20Brackets/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Balanced%20Brackets/solution.py)||
 ||[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|Medium|[View](Stacks/Equal%20Stacks/solution.cpp)|[View](/Stacks/Equal%20Stacks/solution.java)|[View](https://github.com/saloniankita/ds-algo-solutions/blob/saloniankita-test/Stacks/Equal%20Stacks/solution.py)|
-||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|||[View](Stacks/Largest%20Rectangle/solution.py)|
-||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|||[View](Stacks/Simple%20Text%20Editor/solution.py)|
-||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|||[View](Stacks/Waiter/solution.py)|
+||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium||[View](Stacks/Largest%20Rectangle/solution.java)|[View](Stacks/Largest%20Rectangle/solution.py)|
+||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium||[View](Stacks/Simple%20Text%20Editor/solution.java)|[View](Stacks/Simple%20Text%20Editor/solution.py)|
+||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium||[View](Stacks/Waiter/solution.java)|[View](Stacks/Waiter/solution.py)|
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)||[View](Queues/Queues%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)||[View](Queues/Castle%20on%20the%20grid/solution.py)|
@@ -52,7 +53,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heap/Jesse%20and%20Cookies/solution.cpp)|[View](Heap/Jesse%20and%20Cookies/solution.java)|[View](Heap/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heap/Find%20the%20Running%20Median/solution.cpp)|[View](Heap/Find%20the%20Running%20Median/solution.java)|[View](Heap/Find%20the%20Running%20Median/solution.py)|
 | Trees |
-||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)||[View](Trees/Tree-Top%20View/solution.py)|
+||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
 ||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](/Trees/Tree-Preorder%20Traversal/solution.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)|[View](/Trees/Tree-Preorder%20Traversal/solution.py)|
 ||[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy|[View](Trees/Tree-Inorder%20Traversal/solution.cpp)|[View](Trees/Tree-Inorder%20Traversal/solution.java)|[View](Trees/Tree-Inorder%20Traversal/solution.py)|
 ||[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|Easy|[View](Trees/Tree-Postorder%20Traversal/solution.cpp)|[View](Trees/Tree-Postorder%20Traversal/solution.java)                                                             |[View](Trees/Tree-Postorder%20Traversal/solution.py)|
@@ -60,8 +61,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|Easy|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.java)|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.py)|
 ||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Insertion/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Insertion/solution.java)|[View](/Trees/Binary%20Search%20Tree-Insertion/solution.py)|
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)||
-||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.java)||[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.py)|
-||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.py)|
+||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.java)||
+||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|||[View](Trees/Tree-Balanced%20Forest/solution.py)|
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Tree-/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)||[View](Trees/Tree-Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
@@ -74,6 +75,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.cpp)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
+||[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|Medium|[View](Algorithms/Queen's%20Attack%20II/solution.cpp)|||
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)|[View](Algorithms/Electronics%20Shop/solution.java)|[View](Algorithms/Electronics%20Shop/solution.py)|
 ||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Medium|[View](/Algorithms/The%20coin%20change%20problem/solution.cpp)|[View](/Algorithms/The%20coin%20change%20problem/solution.java)|[View](/Algorithms/The%20coin%20change%20problem/solution.py)|
 ||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[View](/Algorithms/Angry%20Professor/solution.cpp)|[View](/Algorithms/Angry%20Professor/solution.java)|[View](/Algorithms/Angry%20Professor/solution.py)|
@@ -81,21 +83,25 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|[View](Algorithms/Mini-Max%20Sum/solution.java)|[View](/Algorithms/Mini-Max%20Sum/solution.py)|
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/Solution.java)||
 ||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](Algorithms/Luck%20Balance/solution.cpp)|||
+||[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.cpp)|||
+||[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.cpp)|||
+||[Xor sequence](https://www.hackerrank.com/challenges/xor-se/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Xor%20sequence/solution.cpp)|||
 ||[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium||[View](Algorithms/Bigger%20is%20Greater/solution.java)|[View](Algorithms/Bigger%20is%20Greater/solution.py)|
-||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](Algorithms/Lonely%20Integer/solution.java)||
 ||[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|Medium||[View](Algorithms/Sherlock%and%20the%20Valid%20String/solution.java)||
-||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)||
-||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy||[View](Algorithms/Maximizing%20XOR/solution.java)||
+||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy||[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
+||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy||[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
+||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy||[View](Algorithms/Maximizing%20XOR/solution.java)|[View](/Algorithms/Maximizing%20XOR/solution.py)|
 ||[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[View](Algorithms/Birthday%20Cake%20Candles/solution.cpp)|[View](Algorithms/Birthday%20Cake%20Candles/solution.java)|[View](/Algorithms/Birthday%20Cake%20Candles/solution.py)|
 ||[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|Easy|[View](/Algorithms/Sub-array%20Division/solution.cpp)|[View](Algorithms/Sub-array%20Division/solution.java)|[View](/Algorithms/Sub-array%20Division/solution.py)|
 ||[Bill Division](https://www.hackerrank.com/challenges/bon-apetit/problem)|Easy|[View](/Algorithms/Sub-array%20Division/solution.cpp)|[View](Algorithms/Bill%20Division/solution.java)|[View](/Algorithms/Bill%20Division/solution.py)|
 ||[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|Easy|[View](/Algorithms/Marc's%20Cakewalk/solution.cpp)|[View](Algorithms/Marc's%20Cakewalk/solution.java)|
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)||[View](/Algorithms/Flipping%20Bits/solution.py)|
-||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)||
-||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy||[View](Algorithms/Halloween%20Sale/solution.java)|[View](Algorithms/Halloween%20Sale/solution.py)|
-||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|||[View](Algorithms/Chocolate%20Feast/solution.py)|
+||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)|[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.py)|
+||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy|[View](Algorithms/Implementation/Halloween%20Sale/solution.cpp)|[View](Algorithms/Implementation/Halloween%20Sale/solution.java)|[View](Algorithms/Implementation/Halloween%20Sale/solution.py)|
+||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|[View](Algorithms/Implementation/Chocolate%20Feast/solution.cpp)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.java)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.py)|
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy||[View](/Algorithms/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|||[View](/Algorithms/Library%20Fine/solution.py)|
+||[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Medium||[View](/Algorithms/Non-Divisible%20Subset/solution.java)|[View](/Algorithms/Non-Divisible%20Subset/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
@@ -105,7 +111,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 | Disjoint Sets |
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|[View](/Disjoint%20Sets/Merging%20Communities/solution.cpp)|[View](/Disjoint%20Sets/Merging%20Communities/solution.java)|[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
-||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|||
+||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)||
+
 
 
 ### A cool & collective resource🔻
