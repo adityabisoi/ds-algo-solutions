@@ -98,6 +98,9 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy||[View](/Algorithms/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|||[View](/Algorithms/Library%20Fine/solution.py)|
 ||[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Medium||[View](/Algorithms/Non-Divisible%20Subset/solution.java)|[View](/Algorithms/Non-Divisible%20Subset/solution.py)|
+||[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|Medium||[View](Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.java)||
+||[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|Medium||[View](Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.java)||
+||[Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem)|Medium||[View](Algorithms/Bit%20Manipulation/Xor-sequence/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
