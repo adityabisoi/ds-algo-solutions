@@ -1,4 +1,7 @@
+# Bisect algorithm to find a position in list where an element needs to be inserted 
 import bisect as bs
+
+# number of nodes and queues
 n, q = map(int, input().split())
 edges = [list(map(int, input().split())) for _ in range(1, n)]
 edges.sort(key=lambda x: x[2])
@@ -12,6 +15,7 @@ def getroot(x):
     union[x] = getroot(union[x])
     return union[x]
 
+# looping nodes u and v and weight c
 for u, v, c in edges:
     u = getroot(u - 1)
     v = getroot(v - 1)
