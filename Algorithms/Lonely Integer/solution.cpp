@@ -5,14 +5,22 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the lonelyinteger function below.
-int lonelyinteger(vector<int> a) 
+
+// Main Property - XOR of a number by itself even times is 0.
+//               - XOR of a number by itself odd times is that number only. 
+
+// 1^1^1^1 = 0
+// 1^1^1   = 1
+
+// Hence we will XOR the all the numbers of an array the result will be the answer.
+int lonelyinteger(vector<int> a)         
 {
-    int x = 0;
+    int x = 0;   
     for(int i =0;i<a.size();i++)
     {
-        x = x^a[i];
+        x = x^a[i];               // XOR all elements with array.
     }
-    return x;
+    return x;                     // Return the answer.
  
 }
 
