@@ -29,7 +29,9 @@ def solve():
     diff=(right_side - left_side)/4
     if diff%2 != 0 : ans=ans^2
     return ans
+# input number of questions
 T=int(input())
 for _ in range(T):
+    # the inclusive left and right indexes of the segment to query
     L,R=map(int,input().split())
     print(solve())
