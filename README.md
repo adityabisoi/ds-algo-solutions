@@ -9,4 +9,4 @@ Go to the Hackerrank problem-solving section (https://www.hackerrank.com/domains
 
 Also, please explain your code with comments.
 
-||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|||[View](/Algorithms/Save%20the%20Prisoner/solution.cpp)|
+||[Save the Prisoner](https://github.com/Dhruv-Rathi/ds-algo-solutions/blob/main/Algorithms/Save%2520the%2520Prisoner/solution.cpp)|Easy|||[View](/Algorithms/Save%20the%20Prisoner/solution.cpp)|
