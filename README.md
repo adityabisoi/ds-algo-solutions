@@ -8,3 +8,5 @@ A collection of solutions for Hackerrank data structures and algorithm problems 
 Go to the Hackerrank problem-solving section (https://www.hackerrank.com/domains/data-structures), solve a problem such that it passes all test cases, make a Pull Request with the solution in the respective folder. Feel free to suggest any useful resources for studying ds & algo.e 
 
 Also, please explain your code with comments.
+
+||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|||[View](/Algorithms/Save%20the%20Prisoner/solution.cpp)|
