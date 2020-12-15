@@ -71,7 +71,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
-||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
+||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)|[View](Algorithms/Apple%20and%20Orange/solution.java)|[View](/Algorithms/Apple%20and%20Orange/solution.py)|
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[View](Algorithms/Number%20Line%20Jump/solution.cpp)||[View](Algorithms/Number%20Line%20Jump/solution.py)|
 ||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[View](Algorithms/Implementation/Encryption/solution.cpp)||[View](Algorithms/Encryption/solution.py)|
 ||[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|Easy|[View](/Algorithms/Implementation/Cut%20the%20sticks/solution.cpp)|[View](/Algorithms/Implementation/Cut%20the%20sticks/solution.java)|[View](/Algorithms/Implementation/Cut%20the%20sticks/solution.py)|
