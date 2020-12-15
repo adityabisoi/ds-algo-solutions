@@ -118,7 +118,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy|||[View](Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
-||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|||
+||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|||
 
 
 ### A cool & collective resource🔻
