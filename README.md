@@ -102,12 +102,6 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|Easy|[View](/Algorithms/Flipping%20Bits/solution.cpp)|[View](/Algorithms/Flipping%20Bits/solution.java)|[View](/Algorithms/Flipping%20Bits/solution.py)|
 ||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.cpp)|[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)|[View](/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.py)|
 ||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy|[View](Algorithms/Implementation/Halloween%20Sale/solution.cpp)|[View](Algorithms/Implementation/Halloween%20Sale/solution.java)|[View](Algorithms/Implementation/Halloween%20Sale/solution.py)|
-<<<<<<< HEAD
-||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|[View](Algorithms/Implementation/Chocolate%20Feast/solution.cpp)||[View](Algorithms/Implementation/Chocolate%20Feast/solution.py)|
-||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy||[View](/Algorithms/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Save%20The%20Prisoner/solution.py)|
-||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|||[View](/Algorithms/Library%20Fine/solution.py)|
-||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy||[View](/Algorithms/Compare%20the%20Triplets/solution.java)|
-=======
 ||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|[View](Algorithms/Implementation/Chocolate%20Feast/solution.cpp)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.java)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.py)|
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|[View](/Algorithms/Implementation/Save%20The%20Prisoner/solution.cpp)|[View](/Algorithms/Implementation/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Implementation/Save%20The%20Prisoner/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|[View](Algorithms/Library%20Fine/solution.cpp)||[View](/Algorithms/Library%20Fine/solution.py)|
@@ -118,7 +112,6 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|Easy|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.cpp)|||
 ||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)|Medium|[View](/Algorithms/Greedy/Greedy%20Florist/solution.cpp)|||
 ||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy|[View](Algorithms/Greedy/Priyanka%20and%20Toys/solution.cpp)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
->>>>>>> a5adbdac78dd525558c5751257263bbf99be21ce
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
