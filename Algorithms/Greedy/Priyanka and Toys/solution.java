@@ -1,3 +1,12 @@
+/*
+We can sort the toys ascending by weight,then we just iterate over it not counting when we get the next 4 consecutive weight toys for free
+
+We have to sort the toys by weight, so -
+Time Complexity: O(n log(n))
+We store the input in a dynamically allocated array, so -
+Space Complexity: O(n)
+*/
+
 import java.io.*;
 import java.util.*;
 
