@@ -104,6 +104,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Medium||[View](/Algorithms/Non-Divisible%20Subset/solution.java)|[View](/Algorithms/Non-Divisible%20Subset/solution.py)|
 ||[Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)|Hard|||[View](/Heap/Minimum%20Average%20Waiting%20Time/solution.py)|
 ||[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)|Medium||[View](/Algorithms/Minimum%20Loss/solution.java)|[View](/Algorithms/Minimum%20Loss/solution.py)
+||[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|Easy||[View](/Algorithms/Implementation/ACM%20ICPC%20Team/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)||[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
