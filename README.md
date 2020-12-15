@@ -103,6 +103,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|[View](/Algorithms/Implementation/Save%20The%20Prisoner/solution.cpp)|[View](/Algorithms/Implementation/Save%20The%20Prisoner/solution.java)|[View](/Algorithms/Implementation/Save%20The%20Prisoner/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|[View](Algorithms/Library%20Fine/solution.cpp)||[View](/Algorithms/Library%20Fine/solution.py)|
 ||[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Medium||[View](/Algorithms/Non-Divisible%20Subset/solution.java)|[View](/Algorithms/Non-Divisible%20Subset/solution.py)|
+||[Candies](https://www.hackerrank.com/challenges/candies/problem)|Medium||[View](/Algorithms/Greedy/Candies/solution.java)|||
 ||[Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)|Hard|||[View](/Heap/Minimum%20Average%20Waiting%20Time/solution.py)|
 ||[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)|Medium||[View](/Algorithms/Minimum%20Loss/solution.java)|[View](/Algorithms/Minimum%20Loss/solution.py)|
 ||[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|Easy|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.cpp)|||
