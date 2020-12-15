@@ -110,7 +110,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)|Medium||[View](/Algorithms/Minimum%20Loss/solution.java)|[View](/Algorithms/Minimum%20Loss/solution.py)|
 ||[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|Easy|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.cpp)|||
 ||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)|Medium|[View](/Algorithms/Greedy/Greedy%20Florist/solution.cpp)|||
-||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy|||[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
+||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy||[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
