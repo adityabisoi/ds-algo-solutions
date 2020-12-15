@@ -23,7 +23,9 @@ public class Solution {
                            d++;
                        } 
                 }
+                // Number of apples falling on Sam's house
                 System.out.println(c);
+                // Number of oranges falling on Sam's house
                 System.out.println(d);
 
             }
