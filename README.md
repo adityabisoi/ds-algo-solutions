@@ -47,35 +47,14 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)||[View](Queues/Queues%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)||[View](Queues/Castle%20on%20the%20grid/solution.py)|
-||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|[View](Queues/Truck%20Tour/solution.cpp)|||
-||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)||[View](Queues/Down%20to%zero/solution.py)|
-
-||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|||[View](Queues/Truck%20Tour/solution.py)|
+||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Down%20to%zero/solution.py)|
+||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|[View](Queues/Truck%20Tour/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Truck%20Tour/solution.py)|
 ||[Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|Hard||[View](Queues/Queries%20with%20Fixed%20Length/solution.java)||
-
-||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard||[View](Queues/Truck%20Tour/solution.java)||
-
 | Heap |
 ||[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](Heap/QHEAP1/solution.cpp)|[View](Heap/QHEAP1/solution.java)|
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heap/Jesse%20and%20Cookies/solution.cpp)|[View](Heap/Jesse%20and%20Cookies/solution.java)|[View](Heap/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heap/Find%20the%20Running%20Median/solution.cpp)|[View](Heap/Find%20the%20Running%20Median/solution.java)|[View](Heap/Find%20the%20Running%20Median/solution.py)|
 | Trees |
-
-||[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|||
-||[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](/Trees/Tree-Preorder%20Traversal/solution.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)|[View](/Trees/Tree-Preorder%20Traversal/solution.py)|
-||[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy|[View](Trees/Tree-Inorder%20Traversal/solution.cpp)|[View](Trees/Tree-Inorder%20Traversal/solution.java)|[View](Trees/Tree-Inorder%20Traversal/solution.py)|
-||[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|Easy|[View](Trees/Tree-Postorder%20Traversal/solution.cpp)|[View](Trees/Tree-Postorder%20Traversal/solution.java)                                                             |[View](Trees/Tree-Postorder%20Traversal/solution.py)|
-||[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)|Easy|[View](/Trees/Tree-Level%20Order%20Traversal/solution.cpp)|[View](/Trees/Tree-Level%20Order%20Traversal/solution.java)|[View](/Trees/Tree-Level%20Order%20Traversal/solution.py)|
-||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|Easy|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.cpp)|[View](https://github.com/adityabisoi/ds-algo-solutions/blob/main/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.java)|[View](/Trees/Tree-Height%20of%20a%20Binary%20Tree/solution.py)|
-||[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Insertion/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Insertion/solution.java)|[View](/Trees/Binary%20Search%20Tree-Insertion/solution.py)|
-||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)||
-||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.java)||
-||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
-||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
-||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|||[View](Trees/Tree-Balanced%20Forest/solution.py)|
-||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Tree-/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)||[View](Trees/Tree-Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
-
-
 ||[Tree - Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|[View](Trees/Tree-Top%20View/solution.java)|[View](Trees/Tree-Top%20View/solution.py)|
 ||[Tree - Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](/Trees/Tree-Preorder%20Traversal/solution.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)|[View](/Trees/Tree-Preorder%20Traversal/solution.py)|
 ||[Tree - Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|Easy|[View](Trees/Tree-Inorder%20Traversal/solution.cpp)|[View](Trees/Tree-Inorder%20Traversal/solution.java)|[View](Trees/Tree-Inorder%20Traversal/solution.py)|
