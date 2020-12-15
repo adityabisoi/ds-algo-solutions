@@ -54,6 +54,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](Heap/QHEAP1/solution.cpp)|[View](Heap/QHEAP1/solution.java)|
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heap/Jesse%20and%20Cookies/solution.cpp)|[View](Heap/Jesse%20and%20Cookies/solution.java)|[View](Heap/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heap/Find%20the%20Running%20Median/solution.cpp)|[View](Heap/Find%20the%20Running%20Median/solution.java)|[View](Heap/Find%20the%20Running%20Median/solution.py)|
+||[Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|Hard|||[View](/Queues/Queries%20with%20Fixed%20Length/solution.py)|
 | Trees |
 ||[Tree - Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|[View](Trees/Tree-Top%20View/solution.java)|[View](Trees/Tree-Top%20View/solution.py)|
 ||[Tree - Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](/Trees/Tree-Preorder%20Traversal/solution.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)|[View](/Trees/Tree-Preorder%20Traversal/solution.py)|
@@ -67,7 +68,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Swap%20Nodes%20[Algo]/solution.java)|[View](Trees/Swap%20Nodes%20[Algo]/solution.py)|
 ||[Tree - Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree-Huffman%20Decoding/solution.cpp)||[View](Trees/Tree-Huffman%20Decoding/solution.py)|
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|||[View](Trees/Balanced%20Forest/solution.py)|
-||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)||[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
+||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)||[View](/Algorithms/Apple%20and%20Orange/solution.py)|
