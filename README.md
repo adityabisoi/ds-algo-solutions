@@ -116,6 +116,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|Easy|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.cpp)|||
 ||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)|Medium|[View](/Algorithms/Greedy/Greedy%20Florist/solution.cpp)|||
 ||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy|[View](Algorithms/Greedy/Priyanka%20and%20Toys/solution.cpp)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
+||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.cpp)|[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.java)||
 ||[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|Easy||[View](/Algorithms/Implementation/ACM%20ICPC%20Team/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
