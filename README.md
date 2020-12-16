@@ -120,7 +120,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Fair Cut](https://www.hackerrank.com/challenges/fair-cut/problem)|Medium|[View](Algorithms/Fair%20Cut/solution.py)||
 =======
 ||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy|[View](Algorithms/Greedy/Priyanka%20and%20Toys/solution.cpp)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
-||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy||[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.java)||
+||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.cpp)|[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.java)||
 ||[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|Easy||[View](/Algorithms/Implementation/ACM%20ICPC%20Team/solution.java)||
 >>>>>>> 6bc2901675dce22d4991d3d9e920675eefcff8a0
 | Contest Problems |
