@@ -70,7 +70,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|||[View](Trees/Balanced%20Forest/solution.py)|
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Algorithms |
-||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
+||[Mark and Toys]( https://www.hackerrank.com/challenges/mark-and-toys/problem)|Easy|[View]()|[View]()|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.py)|
+||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Greedy/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
 ||[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[View](/Algorithms/Apple%20and%20Orange/solution.cpp)|[View](Algorithms/Apple%20and%20Orange/solution.java)|[View](/Algorithms/Apple%20and%20Orange/solution.py)|
 ||[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[View](Algorithms/Number%20Line%20Jump/solution.cpp)||[View](Algorithms/Number%20Line%20Jump/solution.py)|
 ||[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[View](Algorithms/Implementation/Encryption/solution.cpp)||[View](Algorithms/Encryption/solution.py)|
@@ -126,6 +127,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|[View](/Disjoint%20Sets/Merging%20Communities/solution.cpp)|[View](/Disjoint%20Sets/Merging%20Communities/solution.java)|[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|||
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
+
 
 
 ### A cool & collective resource🔻
