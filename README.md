@@ -87,6 +87,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[View](Algorithms/Mini-Max%20Sum/solution.cpp)|[View](Algorithms/Mini-Max%20Sum/solution.java)|[View](/Algorithms/Mini-Max%20Sum/solution.py)|
 ||[Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief/problem)|Advanced|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/solution.cpp)|[View](Algorithms/Dynamic%20Programming/Dorsey%20Thief/Solution.java)||
 ||[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|Easy|[View](Algorithms/Luck%20Balance/solution.cpp)|||
+||[Fair Cut](https://www.hackerrank.com/challenges/fair-cut/problem)|Medium|[View](Algorithms/Dynamic%20Programming/Fair%20Cut/solution.cpp)|||
+||[Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)|Medium|[View](Algorithms/Dynamic%20Programming/Prime%20XOR/solution.cpp)|||
 ||[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.cpp)|[View](Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.java)|[View](/Algorithms/Bit%20Manipulation/The%20Great%20XOR/solution.py)|
 ||[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.cpp)|[View](Algorithms/Bit%20Manipulation/Sansa%20and%20XOR/solution.java)||
 ||[Xor sequence](https://www.hackerrank.com/challenges/xor-se/problem)|Medium|[View](/Algorithms/Bit%20Manipulation/Xor%20sequence/solution.cpp)|[View](Algorithms/Bit%20Manipulation/Xor%20sequence/solution.java)|[View](/Algorithms/Bit%20Manipulation/Xor%20sequence/solution.py)|
