@@ -113,8 +113,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[3-D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)|Medium|[View](Algorithms/Implementation/3-D%20Surface%20Area/solution.cpp)|[View](Algorithms/Implementation/3-D%20Surface%20Area/solution.java)|[View](Algorithms/Implementation/3-D%20Surface%20Area/solution.py)|
 ||[Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)|Hard|||[View](/Heap/Minimum%20Average%20Waiting%20Time/solution.py)|
 ||[Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)|Medium||[View](/Algorithms/Minimum%20Loss/solution.java)|[View](/Algorithms/Minimum%20Loss/solution.py)|
-||[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|Easy|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.cpp)|||
-||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)|Medium|[View](/Algorithms/Greedy/Greedy%20Florist/solution.cpp)|||
+||[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|Easy|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.cpp)|[View](/Algorithms/Greedy/Beautiful%20Pairs/solution.java)||
+||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)|Medium|[View](/Algorithms/Greedy/Greedy%20Florist/solution.cpp)|[View](/Algorithms/Greedy/Greedy%20Florist/solution.java)||
 ||[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|Easy|[View](Algorithms/Greedy/Priyanka%20and%20Toys/solution.cpp)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Priyanka%20and%20Toys/solution.py)|
 ||[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.cpp)|[View](/Algorithms/Warmup/Compare%20the%20Triplets/solution.java)||
 ||[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|Easy||[View](/Algorithms/Implementation/ACM%20ICPC%20Team/solution.java)||
