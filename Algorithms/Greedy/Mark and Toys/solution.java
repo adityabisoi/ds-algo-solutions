@@ -1,3 +1,13 @@
+/*
+We can sort the toy  prices ascending then substract their prices from our total money until we can no longer buy any more toys, and since they are sorted in ascending order we know that if we can't buy the current toy then we can't buy any others either
+
+It takes n log n time to run quicksort on the input array
+Time Complexity: O(n log(n))
+
+We dynamically allocate and array to store the input
+Space Complexity: O(n) 
+*/
+
 import java.io.*;
 import java.util.*;
 
@@ -12,7 +22,7 @@ public class Solution {
         {
             toys[i] = input.nextInt();
         }
-        
+
         Arrays.sort(toys);
         int totalToys = 0;
         
