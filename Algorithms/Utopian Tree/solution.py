@@ -6,6 +6,7 @@ import random
 import re
 import sys
 
+
 # Complete the utopianTree function below.
 def utopianTree(n):
     height = 1 # Initial height of tree is 1
