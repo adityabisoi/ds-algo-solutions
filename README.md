@@ -1,4 +1,4 @@
-[![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+ [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## ds-algo-solutions
 
@@ -98,7 +98,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium|[View](Algorithms/Implementation/Bigger%20is%20Greater/solution.cpp)|[View](Algorithms/Implementation/Bigger%20is%20Greater/solution.java)|[View](Algorithms/Implementation/Bigger%20is%20Greater/solution.py)|
 ||[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|Easy|[View](Algorithms/Implementation/Utopian%20Tree/solution.cpp)|||
 ||[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|Easy|[View](Algorithms/Implementation/Sequence%20Equation/solution.cpp)|||
-||[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|Easy|[View](Algorithms/Implementation/Find%20Digits/solution.cpp)|||
+||[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|Easy|[View](Algorithms/Implementation/Find%20Digits/solution.cpp)|[View](Algorithms/Implementation/Find%20Digits/solution.java)||
 ||[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|Easy|[View](Algorithms/Implementation/Modified%20Kaprekar%20Numbers/solution.cpp)|||
 ||[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|Easy|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.cpp)|||
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](/Algorithms/Lonely%20Integer/solution.cpp)|[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
