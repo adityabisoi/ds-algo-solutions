@@ -129,7 +129,11 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
 ||[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|Easy||[View](Algorithms/Viral%20Advertising/solution.cpp)|[View](Algorithms/Viral%20Advertising/solution.java)|[View](/Algorithms/Viral%20Advertising/solution.py)|
 ||[Minimum Absolute Difference in an Array]( https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|Medium|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.cpp)|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.java)|[View](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py)|
+<<<<<<< HEAD
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy||[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)||[View](https://github.com/lopeselio/ds-algo-solutions/blob/lopeselio/Algorithms/Organizing%20Containers%20of%20Balls/solution.py)|
+=======
+||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy|[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.cpp)|[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)||
+>>>>>>> 03ce454535fb27eb891dc8d994f8cfb103042c68
 | Disjoint Sets |
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|[View](/Disjoint%20Sets/Merging%20Communities/solution.cpp)|[View](/Disjoint%20Sets/Merging%20Communities/solution.java)|[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.java)||
