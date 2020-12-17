@@ -45,7 +45,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium||[View](Stacks/Simple%20Text%20Editor/solution.java)|[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium||[View](Stacks/Waiter/solution.java)|[View](Stacks/Waiter/solution.py)|
 | Queues|
-||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)|[View](Queue/Queue%20using%20two%20stacks/solution.java)|[View](Queues/Queues%20using%20two%20stacks/solution.py)|
+||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)|[View](Queues/Queues%20using%20two%20stacks/solution.java)|[View](Queues/Queues%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)||[View](Queues/Castle%20on%20the%20grid/solution.py)|
 ||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Down%20to%zero/solution.py)|
 ||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|[View](Queues/Truck%20Tour/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Truck%20Tour/solution.py)|
