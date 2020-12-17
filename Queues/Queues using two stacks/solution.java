@@ -5,12 +5,12 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int q = in.nextInt();
+        int q = in.nextInt(); // number of queries
         
-        Stack<Integer> ms = new Stack<Integer>();
-        Stack<Integer> hs = new Stack<Integer>();
+        Stack<Integer> ms = new Stack<Integer>(); // main stack
+        Stack<Integer> hs = new Stack<Integer>(); // helper stack
         
-        int command;
+        int command; // query type
         
         for (int i = 0 ; i < q ; i++) {
             command = in.nextInt();
