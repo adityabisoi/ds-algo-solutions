@@ -17,18 +17,21 @@ public class Solution {
             
             if (command == 1)
             {
+                // push value into main stack
                 ms.push(in.nextInt());
             } 
             else if (command == 2)
             {
                 if(hs.isEmpty())
                 {
+                    // shift all elements from main stack to helper stack
                     while(!ms.isEmpty())
                     {
                         hs.push(ms.pop());
                     }                    
                 }
                 
+                // pop from the helper stack
                 if (!hs.isEmpty()){                                
                     hs.pop(); 
                 }
@@ -38,14 +41,17 @@ public class Solution {
             {       
                 if(hs.isEmpty())
                 {
+                    // shift all elements from main stack to helper stack
                     while(!ms.isEmpty())
                     {
                         hs.push(ms.pop());
                     }
+                    // print top element of helper stack
                     System.out.println(hs.peek());
                 } 
                 else 
                 {
+                    // print top element of helper stack
                     System.out.println(hs.peek());
                 }
             }
