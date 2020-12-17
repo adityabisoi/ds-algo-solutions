@@ -102,6 +102,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|Easy|[View](Algorithms/Implementation/Utopian%20Tree/solution.cpp)|||
 ||[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|Easy|[View](Algorithms/Implementation/Sequence%20Equation/solution.cpp)|||
 ||[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|Easy|[View](Algorithms/Implementation/Find%20Digits/solution.cpp)|||
+||[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|Easy|[View](Algorithms/Implementation/Modified%20Kaprekar%20Numbers/solution.cpp)|||	
+||[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|Easy|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.cpp)|||
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](/Algorithms/Lonely%20Integer/solution.cpp)|[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy|[View](Algorithms/Sum%20vs%20XOR/solution.cpp)|[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy|[View](/Algorithms/Maximizing%20XOR/solution.cpp)|[View](Algorithms/Maximizing%20XOR/solution.java)|[View](/Algorithms/Maximizing%20XOR/solution.py)|
