@@ -67,7 +67,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Is This a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Is%20This%20a%20Binary%20Search%20Tree/solution.java)|[View](Trees/Is%20This%20a%20Binary%20Search%20Tree/solution.py)|
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Swap%20Nodes%20[Algo]/solution.java)|[View](Trees/Swap%20Nodes%20[Algo]/solution.py)|
 ||[Tree - Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree-Huffman%20Decoding/solution.cpp)||[View](Trees/Tree-Huffman%20Decoding/solution.py)|
-||[Tree: Square-Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree/problem)|Hard|[View](Trees/Square-Ten%20Tree/solution.cpp)|||
+||[Tree: Square-Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree/problem)|Hard|[View](Trees/Square-Ten%20Tree/solution.cpp)||[View](Trees/Square-Ten%20Tree/solution.py)|
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard||[View](Trees/Balanced%20Forest/solution.java)|[View](Trees/Balanced%20Forest/solution.py)|
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Algorithms |
@@ -103,8 +103,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|Easy|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.cpp)|||[View](Algorithms/Implementation/Taum%20and%20B'day/solution.py)
 ||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)||
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.java)||
-||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|||
-||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)|||
+||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)||[View](/Algorithms/Sorting/Closest%20Numbers/solution.py)|
+||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)||[View](/Algorithms/Strings/CamelCase/solution.py)|
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](/Algorithms/Lonely%20Integer/solution.cpp)|[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy|[View](Algorithms/Sum%20vs%20XOR/solution.cpp)|[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy|[View](/Algorithms/Maximizing%20XOR/solution.cpp)|[View](Algorithms/Maximizing%20XOR/solution.java)|[View](/Algorithms/Maximizing%20XOR/solution.py)|
