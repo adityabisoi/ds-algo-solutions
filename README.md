@@ -105,6 +105,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|||
 ||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|||
 ||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)|||
+||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|Easy|[View](Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.cpp)|||
+||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)|||
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](/Algorithms/Lonely%20Integer/solution.cpp)|[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy|[View](Algorithms/Sum%20vs%20XOR/solution.cpp)|[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy|[View](/Algorithms/Maximizing%20XOR/solution.cpp)|[View](Algorithms/Maximizing%20XOR/solution.java)|[View](/Algorithms/Maximizing%20XOR/solution.py)|
