@@ -47,7 +47,7 @@ class Decoding {
 	void decode(String s, Node root) {
         
         // StringBuilder over String because StringBuilder is mutable
-        StringBuilder sb = new StringBuilder();
+        StringBuilder res_str = new StringBuilder();
         Node node = root; 
         // traverse each character of string
         for (int i = 0; i < s.length(); i++) {
@@ -55,12 +55,12 @@ class Decoding {
             node = s.charAt(i) == '1' ? node.right : node.left;
             // if it is a leaf node append character to our string result
             if (node.left == null && node.right == null) { // leaf nodes
-                sb.append(node.data);
+                res_str.append(node.data);
                 node = root;
             }
         }
         // print resultant string
-        System.out.print(sb);
+        System.out.print(res_str);
        
     }
 
