@@ -104,8 +104,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)|||
 ||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)||
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.java)||
-||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)||[View](/Algorithms/Sorting/Closest%20Numbers/solution.py)|
-||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)||[View](/Algorithms/Strings/CamelCase/solution.py)|
+||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|[View](Algorithms/Sorting/Closest%20Numbers/solution.java)|[View](/Algorithms/Sorting/Closest%20Numbers/solution.py)|
+||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)|[View](Algorithms/Strings/CamelCase/solution.java)|[View](/Algorithms/Strings/CamelCase/solution.py)|
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](/Algorithms/Lonely%20Integer/solution.cpp)|[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy|[View](Algorithms/Sum%20vs%20XOR/solution.cpp)|[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy|[View](/Algorithms/Maximizing%20XOR/solution.cpp)|[View](Algorithms/Maximizing%20XOR/solution.java)|[View](/Algorithms/Maximizing%20XOR/solution.py)|
@@ -141,5 +141,5 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|||[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
 
-### A cool & collective resource🔻
+### A cool & collective resource??
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
