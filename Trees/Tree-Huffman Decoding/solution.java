@@ -43,6 +43,7 @@ class Decoding {
     	public  Node left, right;
     
 */ 
+    // Required function
 	void decode(String s, Node root) {
         
         // StringBuilder over String because StringBuilder is mutable
