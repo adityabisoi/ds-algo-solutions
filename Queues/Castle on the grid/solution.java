@@ -2,7 +2,13 @@ import java.io.*;
 import java.util.*;
 
 public class solution {
-    
+      /* Main idea behind solving the problem
+        1. addd starting point to queue
+        2. dequeue point and go as far as possible in clowise direction, top right bot left
+        3. for every element in grid mark as visited
+           if not visited yet, dist = current distance + 1
+         4. repeat until end point is found
+         */
     private static class BFS{
         int n;
         char[] grid;
@@ -44,7 +50,9 @@ public class solution {
         
         
         private void start(){
+             // to keep track of nodes and their distances from starting point
             q.add(start);
+             //marking as visited
             visited[start] = true;
             
             while(!q.isEmpty()){
