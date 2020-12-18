@@ -8,7 +8,6 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // kaprekarNumbers function
     static void kaprekarNumbers(int p, int q) {
         Boolean flag = false;
          
@@ -58,8 +57,7 @@ public class Solution {
 
 
     private static final Scanner scanner = new Scanner(System.in);
-    
-    // main function
+
     public static void main(String[] args) {
         int p = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
