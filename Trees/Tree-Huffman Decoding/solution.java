@@ -45,15 +45,20 @@ class Decoding {
 */ 
 	void decode(String s, Node root) {
         
+        // StringBuilder over String because StringBuilder is mutable
         StringBuilder sb = new StringBuilder();
         Node node = root; 
+        // traverse each character of string
         for (int i = 0; i < s.length(); i++) {
+            // if character= 1, move to right otherwise left
             node = s.charAt(i) == '1' ? node.right : node.left;
-            if (node.left == null && node.right == null) {
+            // if it is a leaf node append character to our string result
+            if (node.left == null && node.right == null) { // leaf nodes
                 sb.append(node.data);
                 node = root;
             }
         }
+        // print resultant string
         System.out.print(sb);
        
     }
