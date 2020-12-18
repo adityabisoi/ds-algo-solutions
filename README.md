@@ -45,9 +45,9 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium||[View](Stacks/Simple%20Text%20Editor/solution.java)|[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium||[View](Stacks/Waiter/solution.java)|[View](Stacks/Waiter/solution.py)|
 | Queues|
-||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queues%20using%20two%20stacks/solution.cpp)|[View](Queues/Queues%20using%20two%20stacks/solution.java)|[View](Queues/Queues%20using%20two%20stacks/solution.py)|
+||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queue%20using%20two%20stacks/solution.cpp)|[View](Queues/Queue%20using%20two%20stacks/solution.java)|[View](Queues/Queue%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)||[View](Queues/Castle%20on%20the%20grid/solution.py)|
-||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%zero/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Down%20to%zero/solution.py)|
+||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%20zero%20II/solution.cpp)||[View](Queues/Down%20to%20zero%20II/solution.py)|
 ||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|[View](Queues/Truck%20Tour/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Truck%20Tour/solution.py)|
 ||[Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|Hard||[View](Queues/Queries%20with%20Fixed%20Length/solution.java)||
 | Heap |
@@ -66,8 +66,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Binary Search Tree - Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.py)|
 ||[Is This a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Is%20This%20a%20Binary%20Search%20Tree/solution.java)|[View](Trees/Is%20This%20a%20Binary%20Search%20Tree/solution.py)|
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Swap%20Nodes%20[Algo]/solution.java)|[View](Trees/Swap%20Nodes%20[Algo]/solution.py)|
-||[Tree - Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree-Huffman%20Decoding/solution.cpp)||[View](Trees/Tree-Huffman%20Decoding/solution.py)|
-||[Tree: Square-Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree/problem)|Hard|[View](Trees/Square-Ten%20Tree/solution.cpp)|||
+||[Tree - Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree-Huffman%20Decoding/solution.cpp)|[View](Trees/Tree-Huffman%20Decoding/solution.java)|[View](Trees/Tree-Huffman%20Decoding/solution.py)|
+||[Tree: Square-Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree/problem)|Hard|[View](Trees/Square-Ten%20Tree/solution.cpp)||[View](Trees/Square-Ten%20Tree/solution.py)|
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard||[View](Trees/Balanced%20Forest/solution.java)|[View](Trees/Balanced%20Forest/solution.py)|
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Algorithms |
@@ -81,7 +81,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)|Easy|[View](/Algorithms/Sales%20by%20Match/solution.cpp)|[View](/Algorithms/Sales%20by%20Match/solution.java)||
 ||[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Medium|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.cpp)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.java)|[View](/Algorithms/Climbing%20the%20Leaderboard/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|||
-||[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|Medium|[View](Algorithms/Queen's%20Attack%20II/solution.cpp)|||
+||[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|Medium|[View](Algorithms/Queen's%20Attack%20II/solution.cpp)|[View](Algorithms/Queen's%20Attack%20II/solution.java)|[View](Algorithms/Queen's%20Attack%20II/solution.py)|
 ||[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[View](Algorithms/Electronics%20Shop/solution.cpp)|[View](Algorithms/Electronics%20Shop/solution.java)|[View](Algorithms/Electronics%20Shop/solution.py)|
 ||[The Coin change problem](https://www.hackerrank.com/challenges/grading/problem)|Medium|[View](/Algorithms/The%20coin%20change%20problem/solution.cpp)|[View](/Algorithms/The%20coin%20change%20problem/solution.java)|[View](/Algorithms/The%20coin%20change%20problem/solution.py)|
 ||[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[View](/Algorithms/Angry%20Professor/solution.cpp)|[View](/Algorithms/Angry%20Professor/solution.java)|[View](/Algorithms/Angry%20Professor/solution.py)|
