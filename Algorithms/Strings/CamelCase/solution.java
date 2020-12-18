@@ -28,6 +28,7 @@ public class Solution {
     return count_words;
     
     }
+    
 
     private static final Scanner scanner = new Scanner(System.in);
 
