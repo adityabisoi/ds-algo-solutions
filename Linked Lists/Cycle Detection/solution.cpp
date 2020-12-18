@@ -57,23 +57,43 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
     }
 }
 
-/*The function below detects cycles in a singly linked list.
-  we have to write the below function in the problem*/
+
+
+
+ 
+ 
+  SinglyLinkedListNode {
+      int data;
+    SinglyLinkedListNode* next;
+  };
 
 bool has_cycle(SinglyLinkedListNode* head) {
-  SinglyLinkedListNode* fast = head;    //iterator to traverse through the linked list.
-  SinglyLinkedListNode* slow = head;   //Another iterator but it will go behind fast iterator.
-  while(slow != nullptr && fast != nullptr && fast->next!= nullptr)
-  {
-    slow = slow->next ;  //slow is going through each node.
-    fast = fast->next->next; //fast is traversing through skipping each alternate node.Thus ahead of slow.
-    if(slow==fast)
-      {
-        return true;  //if in any step slow and fast is pointing at the same node then cycle exists in the linked list.Hence return true. 
-      }
+vector<int> ar;
+ar.push_back(head->data);
+int c=0;
+if(head==nullptr)
+{
+    return 0;
 }
-  return false;  //if loop runs it's life then there is no cycle as fast is either pointing at last element or nullptr.
+else {
 
+while(head->next!=nullptr)
+{
+    head=head->next;
+     if (binary_search(ar.begin(), ar.end(), head->data))
+     {
+         return 1;
+     } 
+     else {
+         ar.push_back(head->data);
+         
+    sort(ar.begin(), ar.end()); 
+     
+     }
+}
+return 0;
+
+}
 }
 
 int main()
