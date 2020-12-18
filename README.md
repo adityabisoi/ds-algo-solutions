@@ -103,8 +103,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|Easy|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.cpp)|||[View](Algorithms/Implementation/Taum%20and%20B'day/solution.py)
 ||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|||
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|||
-||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|||
-||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)|||
+||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)||[View](/Algorithms/Sorting/Closest%20Numbers/solution.py)|
+||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)||[View](/Algorithms/Strings/CamelCase/solution.py)|
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](/Algorithms/Lonely%20Integer/solution.cpp)|[View](/Algorithms/Lonely%20Integer/solution.java)|[View](/Algorithms/Lonely%20Integer/solution.py)|
 ||[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|Easy|[View](Algorithms/Sum%20vs%20XOR/solution.cpp)|[View](Algorithms/Sum%20vs%20XOR/solution.java)|[View](/Algorithms/Sum%20vs%20XOR/solution.py)|
 ||[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|Easy|[View](/Algorithms/Maximizing%20XOR/solution.cpp)|[View](Algorithms/Maximizing%20XOR/solution.java)|[View](/Algorithms/Maximizing%20XOR/solution.py)|
