@@ -47,7 +47,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queue%20using%20two%20stacks/solution.cpp)|[View](Queues/Queue%20using%20two%20stacks/solution.java)|[View](Queues/Queue%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)|[View](Queues/Castle%20on%20the%20grid/solution.java)|[View](Queues/Castle%20on%20the%20grid/solution.py)|
-||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%20zero%20II/solution.cpp)||[View](Queues/Down%20to%20zero%20II/solution.py)|
+||[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|Medium|[View](Queues/Down%20to%20zero%20II/solution.cpp)|[View](Queues/Down%20to%20zero%20II/solution.java)|[View](Queues/Down%20to%20zero%20II/solution.py)|
 ||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|[View](Queues/Truck%20Tour/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Truck%20Tour/solution.py)|
 ||[Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|Hard||[View](Queues/Queries%20with%20Fixed%20Length/solution.java)|[View](/Queues/Queries%20with%20Fixed%20Length/solution.py)|
 | Heap |
