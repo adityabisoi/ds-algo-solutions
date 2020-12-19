@@ -4,6 +4,7 @@ public class Solution {
     static final int LIMIT = 1_000_000;
     static int[] solutions = buildSolutions();
 
+    // main function
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -29,9 +30,11 @@ public class Solution {
                 }
             }
         }
+        // returning array solutions
         return solutions;
     }
 
+    // solve function
     static int solve(int N) {
         return solutions[N];
     }
