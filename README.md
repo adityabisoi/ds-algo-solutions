@@ -51,7 +51,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|Hard|[View](Queues/Truck%20Tour/solution.cpp)|[View](Queues/Truck%20Tour/solution.java)|[View](Queues/Truck%20Tour/solution.py)|
 ||[Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|Hard||[View](Queues/Queries%20with%20Fixed%20Length/solution.java)|[View](/Queues/Queries%20with%20Fixed%20Length/solution.py)|
 | Heap |
-||[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](Heap/QHEAP1/solution.cpp)|[View](Heap/QHEAP1/solution.java)|
+||[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](Heap/QHEAP1/solution.cpp)|[View](Heap/QHEAP1/solution.java)|[View](Heap/QHEAP1/solution.py)|
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heap/Jesse%20and%20Cookies/solution.cpp)|[View](Heap/Jesse%20and%20Cookies/solution.java)|[View](Heap/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heap/Find%20the%20Running%20Median/solution.cpp)|[View](Heap/Find%20the%20Running%20Median/solution.java)|[View](Heap/Find%20the%20Running%20Median/solution.py)|
 | Trees |
