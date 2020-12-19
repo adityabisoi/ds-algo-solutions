@@ -6,13 +6,18 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the fibonacciModified function below.
     static BigInteger fibonacciModified(int t1, int t2, int n) {
 
+        // since we are dealing with squares integer overflow may occur
+
+        // that is why we use BigInteger here
         BigInteger a = new BigInteger(Integer.toString(t1));
         BigInteger b = new BigInteger(Integer.toString(t2));
+
+        // if n==1 or n==0 the answer will be zero
         BigInteger c = new BigInteger("0");
         for (int i = 2; i < n; i++) {
             c = a.add(b.multiply(b));
