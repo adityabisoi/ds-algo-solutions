@@ -16,12 +16,15 @@ public class solution {
         if (k == 0 || n == 0)
             return 0;
 
+        // if we have previously stored answer for the problem, return that
         if (ans[n][k] != -1)
             return ans[n][k];
 
+        // if greater than the target sum reduce the problem size
         if (arr[n - 1] > k)
             return solve(k, arr, n - 1);
 
+        // store the maximum out of the current and previous
         return ans[n][k] = Math.max(arr[n - 1] + solve(k - arr[n - 1], arr, n), solve(k, arr, n - 1));
     }
 
@@ -31,6 +34,8 @@ public class solution {
 
         for (int i = 0; i <= n; i++) {
             for (int j = 0; j <= k; j++) {
+
+                // initialise matrix with -1
                 ans[i][j] = -1;
             }
         }
