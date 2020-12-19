@@ -102,6 +102,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|Easy|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.cpp)|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.java)|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.py)|
 ||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|Easy|[View](Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.cpp)|||
 ||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)|||
+||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)|||
+||[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|Easy|[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.cpp)|||
 ||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)||
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.java)||
 ||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|[View](Algorithms/Sorting/Closest%20Numbers/solution.java)|[View](/Algorithms/Sorting/Closest%20Numbers/solution.py)|
