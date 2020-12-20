@@ -8,8 +8,9 @@ import sys
 
 # Complete the fibonacciModified function below.
 
-
-def fibonacciModified(t1, t2, n):  #function taking arguments for series
+ # function taking arguments for series and returning value of nth element in the series
+    
+def fibonacciModified(t1, t2, n): 
     i = 2
     while i < n:
         t1, t2= t2 , t1 + t2*t2 # modifying values simyltaneously t1=t2 and t2 = t1+t2^2 
