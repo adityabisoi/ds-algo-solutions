@@ -106,7 +106,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|||
 ||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|||
 ||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|||
-||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)||[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
+||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|[View](Algorithms/Greedy/Largest%20Permutation/solution.java)|[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
 ||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|||
 ||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|||
 ||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)||[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.py)|
