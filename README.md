@@ -138,7 +138,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|Easy|[View](/Algorithms/Implementation/ACM%20ICPC%20Team/solution.cpp)|[View](/Algorithms/Implementation/ACM%20ICPC%20Team/solution.java)||
 ||[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|Easy|[View](/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.cpp)||[View](/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.py)|
 ||[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Fibonacci%20Modified/solution.java)||
-||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.java)||
+||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.java)|[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
