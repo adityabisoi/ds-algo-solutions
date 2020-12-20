@@ -103,7 +103,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|Easy|[View](Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.cpp)||[View](/Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.py)|
 ||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)||[View](/Algorithms/Implementation/Repeated%20String/solution.py)|
 ||[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|Easy|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.cpp)|||
-||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|||
+||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|(Algorithms/Greedy/Largest%20Permutation/solution.java)||
 ||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|||
 ||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|||
 ||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)||[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.py)|
