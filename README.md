@@ -108,7 +108,6 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|||
 ||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)||[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.py)|
 ||[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|Easy|[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.cpp)||[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.py)|
-
 ||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)||
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.java)||
 ||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|[View](Algorithms/Sorting/Closest%20Numbers/solution.java)|[View](/Algorithms/Sorting/Closest%20Numbers/solution.py)|
