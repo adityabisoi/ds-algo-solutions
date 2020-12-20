@@ -28,7 +28,7 @@ public class solution {
             arr[j+1]=temp; // assigning key value to the index which is greater than j beacuse arr[j] is less 
                            //than key beacuse of which we came out of loop
         }
-        System.out.println(shifts); // now return the value of shift as asked in question
+        System.out.println(shifts); // now print the value of shift as asked in question
     }
 
     public static void main(String[] args) {
