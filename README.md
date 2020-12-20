@@ -102,11 +102,11 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|Easy|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.cpp)|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.java)|[View](Algorithms/Implementation/Taum%20and%20B'day/solution.py)|
 ||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|Easy|[View](Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.cpp)||[View](/Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.py)|
 ||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)||[View](/Algorithms/Implementation/Repeated%20String/solution.py)|
-||[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|Easy|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.cpp)|||
+||[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|Easy|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.cpp)||[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.py)|
 ||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|||
 ||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|||
 ||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|||
-||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|||
+||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)||[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
 ||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|||
 ||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|||
 ||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)||[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.py)|
