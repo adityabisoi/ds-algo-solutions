@@ -139,6 +139,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|Easy|[View](/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.cpp)||[View](/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.py)|
 ||[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Fibonacci%20Modified/solution.java)||
 ||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.java)||
+||[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|Medium|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.cpp)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
