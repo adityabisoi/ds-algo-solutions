@@ -103,12 +103,16 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|Easy|[View](Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.cpp)||[View](/Algorithms/Implementation/Jumping%20on%20the%20Clouds/solution.py)|
 ||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)||[View](/Algorithms/Implementation/Repeated%20String/solution.py)|
 ||[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|Easy|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.cpp)|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.java)|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.py)|
-||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|||
-||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|||
-||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|||
+||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|[View](Algorithms/Search/Sherlock%20and%20Array/solution.java)||
+||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.java)||
+||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|[View](Algorithms/Search/Missing%20Numbers/solution.java)||
+||[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|Easy|[View](Algorithms/Strings/HackerRank%20in%20a%20String!/solution.cpp)|||
+||[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|Easy|[View](Algorithms/Strings/Funny%20String/solution.cpp)|||
+||[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|Easy|[View](Algorithms/Strings/Gemstones/solution.cpp)|||
+||[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|Easy|[View](Algorithms/Strings/Pangrams/solution.cpp)|||
 ||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|[View](Algorithms/Greedy/Largest%20Permutation/solution.java)|[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
-||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|||
-||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|||
+||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.java)||
+||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.java)||
 ||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)||[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.py)|
 ||[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|Easy|[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.cpp)||[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.py)|
 ||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)||
