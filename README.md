@@ -104,7 +104,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|Easy|[View](Algorithms/Implementation/Repeated%20String/solution.cpp)||[View](/Algorithms/Implementation/Repeated%20String/solution.py)|
 ||[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|Easy|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.cpp)||[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.py)|
 ||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|||
-||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|||
+||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.java)||
 ||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|||
 ||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)||[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
 ||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|||
