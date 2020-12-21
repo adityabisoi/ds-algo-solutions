@@ -108,7 +108,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|[View](Algorithms/Search/Missing%20Numbers/solution.java)||
 ||[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|Easy|[View](Algorithms/Strings/HackerRank%20in%20a%20String!/solution.cpp)|||
 ||[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|Easy|[View](Algorithms/Strings/Funny%20String/solution.cpp)|||
-||[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|Easy|[View](Algorithms/Strings/Gemstones/solution.cpp)|||
+||[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|Easy|[View](Algorithms/Strings/Gemstones/solution.cpp)|[View](Algorithms/Strings/Gemstones/solution.java)||
 ||[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|Easy|[View](Algorithms/Strings/Pangrams/solution.cpp)|||
 ||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|[View](Algorithms/Greedy/Largest%20Permutation/solution.java)|[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
 ||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.java)||
