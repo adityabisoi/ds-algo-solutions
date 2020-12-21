@@ -107,7 +107,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.java)||
 ||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|[View](Algorithms/Search/Missing%20Numbers/solution.java)||
 ||[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|Easy|[View](Algorithms/Strings/HackerRank%20in%20a%20String!/solution.cpp)||[View](Algorithms/Strings/HackerRank%20in%20a%20String!/solution.py)|
-||[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|Easy|[View](Algorithms/Strings/Funny%20String/solution.cpp)|||
+||[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|Easy|[View](Algorithms/Strings/Funny%20String/solution.cpp)||[View](Algorithms/Strings/Funny%20String/solution.py)|
 ||[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|Easy|[View](Algorithms/Strings/Gemstones/solution.cpp)|||
 ||[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|Easy|[View](Algorithms/Strings/Pangrams/solution.cpp)|||
 ||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)|[View](Algorithms/Greedy/Largest%20Permutation/solution.java)|[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
