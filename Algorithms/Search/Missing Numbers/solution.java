@@ -10,9 +10,13 @@ public class solution {
 
     // Complete the missingNumbers function below.
     static int[] missingNumbers(int[] arr, int[] brr) {
+        
+        //Create an empty TreeMap to store array elements and their frequencies.
 TreeMap<Integer, Integer> integerFreqMap = new TreeMap<>();
 
     // Add elements of original list
+    //Traverse the array brr, and update the map with the frequency of each element. 
+    //This map now represents all the elements of the original array. Note that they are also in a sorted manner.
     for (int i : brr) {
       int freq = integerFreqMap.getOrDefault(i, 0);
       freq++;
@@ -20,10 +24,11 @@ TreeMap<Integer, Integer> integerFreqMap = new TreeMap<>();
     }
 
     // Remove elements of new list
+    //Now traverse the array arr and for each element in the array, decrease the frequency by 1.
     for (int i : arr) {
       int freq = integerFreqMap.get(i);
       freq--;
-      if (freq == 0)
+      if (freq == 0) //If the frequency of any element becomes 0, then remove the key from the TreeMap.
         integerFreqMap.remove(i);
       else
         integerFreqMap.put(i, freq);
@@ -32,6 +37,7 @@ TreeMap<Integer, Integer> integerFreqMap = new TreeMap<>();
     // Create the result array
     int[] result = new int[integerFreqMap.size()];
     int i = 0;
+    //At the end, scan the entire map for one last time and see all the elements who have a frequency greater than 1.
     for (Map.Entry<Integer, Integer> integerIntegerEntry : integerFreqMap.entrySet()) {
       result[i++] = integerIntegerEntry.getKey();
     }
