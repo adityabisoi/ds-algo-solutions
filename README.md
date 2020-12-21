@@ -156,7 +156,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|Easy|[View](/Disjoint%20Sets/Merging%20Communities/solution.cpp)|[View](/Disjoint%20Sets/Merging%20Communities/solution.java)|[View](/Disjoint%20Sets/Merging%20Communities/solution.py)|
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.java)||
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
-||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|||[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
+||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard||[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.java)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
 
 ### A cool & collective resource
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
