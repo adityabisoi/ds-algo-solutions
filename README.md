@@ -105,7 +105,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|Easy|[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.cpp)||[View](Algorithms/Greedy/Jim%20and%20the%20Orders/solution.py)|
 ||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|||
 ||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.java)||
-||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|||
+||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|[View](Algorithms/Search/Missing%20Numbers/solution.java)||
 ||[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|Easy|[View](Algorithms/Greedy/Largest%20Permutation/solution.cpp)||[View](Algorithms/Greedy/Largest%20Permutation/solution.py)|
 ||[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|Easy|[View](Algorithms/Sorting/Running%20Time%20of%20Algorithms/solution.cpp)|||
 ||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|||
