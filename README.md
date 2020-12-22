@@ -150,13 +150,11 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|Easy|[View](/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.cpp)|[View](Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.java)|[View](/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/solution.py)|
 ||[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Medium|[View](/Algorithms/Dynamic%20Programming/Fibonacci%20Modified/solution.cpp)|[View](/Algorithms/Dynamic%20Programming/Fibonacci%20Modified/solution.java)|[View](/Algorithms/Dynamic%20Programming/Fibonacci%20Modified/solution.py)|
 ||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium|[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.cpp)|[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.java)|[View](/Algorithms/Dynamic%20Programming/Knapsack/solution.py)|
-
-||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy||[View](/Algorithms/Strings/String%20Construction/solution.java)||
-||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium||||	
-||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium||[View](/Algorithms/Sorting/Lily's%20Homework/solution.java)||
-
+||[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|Medium|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.cpp)|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.java)|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.py)|
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy|[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.cpp)|[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)|[View](/Algorithms/Organizing%20Containers%20of%20Balls/solution.py)|
-
+||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy||[View](/Algorithms/Strings/String%20Construction/solution.java)||
+||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium|||[View](/Algorithms/Strings/Highest%20Value%20Palindrome/solution.java)|	
+||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium||[View](/Algorithms/Sorting/Lily's%20Homework/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
