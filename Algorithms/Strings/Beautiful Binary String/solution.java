@@ -1,3 +1,9 @@
+/*
+We could use a greedy approach and starting from the
+left everytime we see a 010 replace the last 0 with a 1
+and continue
+*/
+
 import java.io.*;
 import java.util.*;
 
