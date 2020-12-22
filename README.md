@@ -154,6 +154,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy|[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.cpp)|[View](Algorithms/Organizing%20Containers%20of%20Balls/solution.java)|[View](/Algorithms/Organizing%20Containers%20of%20Balls/solution.py)|
 ||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy|||[View](/Algorithms/Strings/String%20Construction/solution.py)|
 ||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium|||[View](/Algorithms/Strings/Highest%20Value%20Palindrome/solution.py)|
+||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium|||[View](/Algorithms/Sorting/Lily's%20Homework/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
