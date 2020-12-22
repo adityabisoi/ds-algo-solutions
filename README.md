@@ -149,7 +149,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|Medium|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.cpp)|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.java)|[View](/Algorithms/Implementation/The%20Bomberman%20Game/solution.py)|
 ||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy||[View](/Algorithms/Strings/String%20Construction/solution.java)||
 ||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium||||	
-||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium||||
+||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium||[View](/Algorithms/Sorting/Lily's%20Homework/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 ||[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[View](Algorithms/Diagonal%20Difference/solution.cpp)|[View](/Algorithms/Diagonal%20Difference/solution.java)|[View](/Algorithms/Diagonal%20Difference/solution.py)|
