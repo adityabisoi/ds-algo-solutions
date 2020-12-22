@@ -1,3 +1,15 @@
+/*
+Here, We can compare a sorted array to the original
+and just keep track of the differences. As we
+go we will need to perform the swaps, becasue we
+re not guranteed 1 swap will fix both elements.
+ We will do this on both a ascending sort and a
+descending sort as both meet the minimal 
+requirement
+                  
+Time Complexity: O(n log(n)) //We must sort the input
+Space Complexity: O(n) //We store the input in an array
+*/
 
 import java.io.*;
 import java.util.*;
