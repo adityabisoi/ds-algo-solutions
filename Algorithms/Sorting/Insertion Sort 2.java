@@ -9,24 +9,27 @@ import java.util.regex.*;
 public class solution {
 
     // Complete the insertionSort2 function below.
-   public static void insertionSort2(int n,int[] array) {
-    for (int i = 1; i < n; i++) {
-        int j = i;
-        int value = array[i];
-        while (j >= 1 && array[j-1] > value) {
-            array[j] = array[j-1];
-            j--;
+    public static void insertionSort2(int n, int[] array) {
+        for (int i = 1; i < n; i++) {
+            int j = i;
+            int value = array[i];
+            // for each value find it's correct place and insert it at correct position
+            while (j >= 1 && array[j - 1] > value) {
+                array[j] = array[j - 1];
+                j--;
+            }
+            array[j] = value;
+            // print the final array
+            printArray(array);
         }
-        array[j] = value;
-        printArray(array);
     }
-}
-    public static void printArray(int[] array)
-    {
-        for(int i=0;i<array.length;i++)
-            System.out.print(array[i]+" ");
+
+    public static void printArray(int[] array) {
+        for (int i = 0; i < array.length; i++)
+            System.out.print(array[i] + " ");
         System.out.println("");
     }
+
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
