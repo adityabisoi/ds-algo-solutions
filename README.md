@@ -69,6 +69,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Tree: Square-Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree/problem)|Hard|[View](Trees/Square-Ten%20Tree/solution.cpp)||[View](Trees/Square-Ten%20Tree/solution.py)|
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|[View](Trees/Balanced%20Forest/solution.cpp)|[View](Trees/Balanced%20Forest/solution.java)|[View](Trees/Balanced%20Forest/solution.py)|
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
+| Trie |
+||[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|Medium|[View](/Trie/Contacts/solution.cpp)|||
 | Algorithms |
 ||[Mark and Toys]( https://www.hackerrank.com/challenges/mark-and-toys/problem)|Easy|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.cpp)|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.py)|
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Greedy/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
