@@ -70,7 +70,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest/problem)|Hard|[View](Trees/Balanced%20Forest/solution.cpp)|[View](Trees/Balanced%20Forest/solution.java)|[View](Trees/Balanced%20Forest/solution.py)|
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Trie |
-||[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|Medium|[View](/Trie/Contacts/solution.cpp)|||
+||[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|Medium|[View](/Trie/Contacts/solution.cpp)|[View](/Trie/Contacts/solution.java)||
 ||[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)|Hard|[View](/Trie/No%20Prefix%20Set/solution.cpp)||[View](/Trie/No%20Prefix%20Set/solution.py)|
 | Algorithms |
 ||[Mark and Toys]( https://www.hackerrank.com/challenges/mark-and-toys/problem)|Easy|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.cpp)|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.java)|[View](/Algorithms/Greedy/Mark%20and%20Toys/solution.py)|
