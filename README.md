@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ds-algo-solutions
@@ -196,6 +196,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/codewithvk"><img src="https://avatars1.githubusercontent.com/u/61119120?v=4" width="100px;" alt=""/><br /><sub><b>Vivekkumar Javiya</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=codewithvk" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/satyampandeygit"><img src="https://avatars0.githubusercontent.com/u/69512057?v=4" width="100px;" alt=""/><br /><sub><b>Satyam Pandey</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=satyampandeygit" title="Code">💻</a></td>
   </tr>
 </table>
 
