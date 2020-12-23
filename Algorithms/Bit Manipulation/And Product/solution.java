@@ -6,16 +6,19 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the andProduct function below.
     static long andProduct(long a, long b) {
-        long res=a;
-        for(long i=a+1;i<b;i++)
-            res=res&i;
-    
-    return res;
+        // initialise result with a
+        long res = a;
+        for (long i = a + 1; i < b; i++)
+            // use bitwise & operator for values ranging from a to b
+            res = res & i;
+
+        return res;
     }
+
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
