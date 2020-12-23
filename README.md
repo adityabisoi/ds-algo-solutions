@@ -166,6 +166,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|Easy|||[View](/Algorithms/Strings/Caesar%20Cipher/solution.py)|
 ||[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|Easy||[View](/Algorithms/Imploementation/Manasa%20and%20Stones/solution.java)||
 ||[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy||[View](/Algorithms/Imploementation/Happy%20Ladybugs/solution.java)||
+||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy||[View](/Algorithms/Imploementation/Cavity%20Map/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
