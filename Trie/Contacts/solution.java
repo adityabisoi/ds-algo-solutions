@@ -7,8 +7,8 @@ import java.util.regex.*;
 import java.util.*;
 
 class Node {
-    int count;
-    Node[] children;
+    int count; //Number of times this node has been visited during insertion of the strings
+    Node[] children; //An array of pointers that contains the pointer to the next nodes
     
     Node() {
         this.count = 0;
