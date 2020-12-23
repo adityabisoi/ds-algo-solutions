@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ds-algo-solutions
@@ -238,6 +238,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Rishika6"><img src="https://avatars1.githubusercontent.com/u/53297570?v=4" width="100px;" alt=""/><br /><sub><b>Rishika Wadhera</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=Rishika6" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/RisHaV-IITKGP"><img src="https://avatars2.githubusercontent.com/u/57884818?v=4" width="100px;" alt=""/><br /><sub><b>RisHaV-IITKGP</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=RisHaV-IITKGP" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Dineshhardasani"><img src="https://avatars2.githubusercontent.com/u/45535600?v=4" width="100px;" alt=""/><br /><sub><b>Dinesh Hardasani</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=Dineshhardasani" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Ansh-Sarkar"><img src="https://avatars2.githubusercontent.com/u/75054354?v=4" width="100px;" alt=""/><br /><sub><b>Ansh Sarkar</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=Ansh-Sarkar" title="Code">💻</a></td>
   </tr>
 </table>
 
