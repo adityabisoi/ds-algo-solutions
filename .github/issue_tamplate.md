@@ -4,6 +4,6 @@ Category- (category ex: Algorithms/Implementation)
 Difficulty Level- (Easy/ Medium/ Hard)
 
 In Language:
-- [ ] C++:
-- [ ] JAVA:
-- [ ] Python:
+- [ ] C++
+- [ ] JAVA
+- [ ] Python
