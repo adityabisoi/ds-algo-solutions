@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ds-algo-solutions
@@ -218,6 +218,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://hr1shu.pythonanywhere.com"><img src="https://avatars0.githubusercontent.com/u/57145318?v=4" width="100px;" alt=""/><br /><sub><b>RISHAV KUMAR</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=hr1shu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/chirag828049"><img src="https://avatars1.githubusercontent.com/u/75582834?v=4" width="100px;" alt=""/><br /><sub><b>Chirag Ghosh</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=chirag828049" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aditkumar72"><img src="https://avatars1.githubusercontent.com/u/40900556?v=4" width="100px;" alt=""/><br /><sub><b>Aditya Tewary</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=aditkumar72" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Mintuagarwal"><img src="https://avatars3.githubusercontent.com/u/45268957?v=4" width="100px;" alt=""/><br /><sub><b>Mintu Agarwal</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=Mintuagarwal" title="Code">💻</a></td>
   </tr>
 </table>
 
