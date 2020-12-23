@@ -5,13 +5,14 @@ using namespace std;
 vector<string> split_string(string);
 
 // Implementation Part
-// taking & for each value in [a, b]
-// a & (a+1) &.....& b
 long andProduct(long a, long b) {
-    
+
+    // initial value of result = a    
     long result = a;
+    // now doing AND operation repeatedly in between,
+    // result and i, where i  = (a+1), (a+2).....b
     for(long i = a + 1; i <= b; i++){
-        result &= i;
+        result = result & i;
     }
     return result;
 }
