@@ -31,7 +31,7 @@ class Node {
     }
 }
 
-public class Solution {
+public class solution {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
