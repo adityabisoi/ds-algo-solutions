@@ -2,7 +2,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 60,
+  "imageSize": 100,
   "commit": false,
   "contributors": [
     {
@@ -584,7 +584,7 @@
       ]
     }
   ],
-  "contributorsPerLine": 10,
+  "contributorsPerLine": 7,
   "projectName": "ds-algo-solutions",
   "projectOwner": "codewithvk",
   "repoType": "github",
