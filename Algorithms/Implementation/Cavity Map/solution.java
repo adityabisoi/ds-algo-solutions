@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the cavityMap function below.
     static String[] cavityMap(String[] grid) {
@@ -14,17 +14,21 @@ public class Solution {
         ArrayList<Integer> y = new ArrayList<Integer>();
         for (int i = 1; i < grid.length - 1; i++) {
             for (int j = 1; j < grid[i].length() - 1; j++) {
+                // store top,bottom,left and right characters
                 Character c = grid[i].charAt(j);
                 Character t = grid[i - 1].charAt(j);
                 Character b = grid[i + 1].charAt(j);
                 Character l = grid[i].charAt(j - 1);
                 Character r = grid[i].charAt(j + 1);
+                // if the character is greater than it's adjacent elements, note it's index
+                // in the new arraylist
                 if (c > t && c > b && c > l && c > r) {
                     x.add(i);
                     y.add(j);
                 }
             }
         }
+        // replace those places with X in the grid
         for (int i = 0; i < x.size(); i++) {
             grid[x.get(i)] = grid[x.get(i)].substring(0, y.get(i)) + "X"
                     + grid[x.get(i)].substring(y.get(i) + 1, grid[x.get(i)].length());
