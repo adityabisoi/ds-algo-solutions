@@ -169,6 +169,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy||[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.java)||
 ||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy||[View](/Algorithms/Implementation/Cavity%20Map/solution.java)||
 ||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy||[View](/Algorithms/Strings/Two%20Strings/solution.java)||
+||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy||[View](/Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
