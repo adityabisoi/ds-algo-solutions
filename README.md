@@ -21,6 +21,7 @@
 </div>
 
 ## Table of Contents
+* [Open source](#💜-open-source-events)
 <div align="left">
 <!-- TABLE OF CONTENTS -->
     <ol>
@@ -33,10 +34,11 @@
     <li><a href="#🚀-hackerrank">HackerRank Solutions</a></li>
     <li><a href="#📋-a-cool-and-collective-resource">A cool & collective resource</a></li>
     <li><a href="#contributors-✨">Contributors</a></li>
-    <li><a href="#💜-open-source-events">Open Source Events</a></li>
+     <li><a href="#💜-open-source-events">Open Source Events</a></li>
     </ol>
 
 </div>
+ [Open source](#💜-open-source-events)
 
 ## 🤍 About the project
 
