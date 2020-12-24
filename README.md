@@ -173,6 +173,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|Easy|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.cpp)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.java)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.py)|
 ||[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.cpp)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.java)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.py)|
 ||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy|[View](/Algorithms/Implementation/Cavity%20Map/solution.cpp)|[View](/Algorithms/Implementation/Cavity%20Map/solution.java)|[View](/Algorithms/Implementation/Cavity%20Map/solution.py)|
+||[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|Easy|||[View](/Algorithms/Sorting/Quicksort%201%20-%20artition/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
