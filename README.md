@@ -21,7 +21,7 @@
 </div>
 
 ## Table of Contents
-* [Open source](#💜-open-source-events)
+* [Open source](#open-source-events)
 <div align="left">
 <!-- TABLE OF CONTENTS -->
     <ol>
@@ -38,7 +38,7 @@
     </ol>
 
 </div>
- [Open source](#💜-open-source-events)
+ 
 
 ## 🤍 About the project
 
