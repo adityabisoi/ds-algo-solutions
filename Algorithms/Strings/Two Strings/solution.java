@@ -6,26 +6,28 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the twoStrings function below.
     static String twoStrings(String s1, String s2) {
         int[] freq1 = new int[26];
-        int[] freq2 = new int[26];
         char[] str1 = s1.toCharArray();
         char[] str2 = s2.toCharArray();
+        // initialise a frequency array to store frequency of characters
         for (int i = 0; i < 26; i++) {
             freq1[i] = 0;
         }
         for (int i = 0; i < str1.length; i++) {
             freq1[str1[i] - 97]++;
         }
+        // while checking for string 2, if at any point
+        // we find that there is a matching character, return YES
         for (int i = 0; i < str2.length; i++) {
             if (freq1[str2[i] - 97] != 0) {
                 return "YES";
             }
         }
-
+        // if no common character between the strings,return NO
         return "NO";
 
     }
