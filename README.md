@@ -33,6 +33,7 @@
     <li><a href="#hackerrank">HackerRank Solutions</a></li>
     <li><a href="#a-cool-and-collective-resource">A cool & collective resource</a></li>
     <li><a href="#contributors-✨">Contributors</a></li>
+    <li><a href="#open-source-events">Open Source Events</a></li>
     </ol>
 
 </div>
