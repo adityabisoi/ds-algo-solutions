@@ -5,16 +5,17 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
+    
+    // insertIntoSorted function
     public static void insertIntoSorted(int[] arr) {
         int pointer = arr[arr.length-1];
         for(int i = arr.length-2; i  >=0; i--){
-            if(pointer >= arr[i]){
+            if(pointer >= arr[i]){ // Found where it goes
                 arr[i+1] = pointer;
                 printArray(arr);
                 break;
             }
-            arr[i+1] = arr[i];
+            arr[i+1] = arr[i]; // Shift to the right
             printArray(arr);
         }
         if(pointer < arr[0]){
@@ -23,7 +24,8 @@ public class Solution {
         } 
         
     }
- 
+    
+    // main function
      public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -34,6 +36,7 @@ public class Solution {
          insertIntoSorted(arr);
     }
     
+    // print the array function
     private static void printArray(int[] arr) {
       for(int val: arr){
         System.out.print(val+" ");
@@ -42,3 +45,6 @@ public class Solution {
     }
     
 }
+
+//Time Complexity: O(n)
+//Space Complexity: O(1)
