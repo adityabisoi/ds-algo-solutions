@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the gameOfThrones function below.
     static String gameOfThrones(String s) {
@@ -14,16 +14,21 @@ public class Solution {
         for (int i = 0; i < 26; i++) {
             freq[i] = 0;
         }
+        // store the freqencies of each character in string
         char[] str = s.toCharArray();
         for (int i = 0; i < str.length; i++) {
             freq[str[i] - 97]++;
         }
+        // if the string has even number of characters,
+        // the frequency of each character should be even to get a palindrome
         if (str.length % 2 == 0) {
             for (int i = 0; i < 26; i++) {
                 if (freq[i] % 2 != 0)
                     return "NO";
             }
             return "YES";
+            // if there are odd number of characters, only one character can have odd
+            // number of occurences
         } else {
             int count = 0;
             for (int i = 0; i < 26; i++) {
