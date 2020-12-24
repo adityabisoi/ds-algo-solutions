@@ -18,6 +18,21 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+</div>
+
+## Table of Contents
+<div align="left">
+<!-- TABLE OF CONTENTS -->
+    <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      </li>
+    <li>
+      <a href="#contribution-instructions">Contribution Instructions</a>
+    </li>
+    <li><a href="#hackerrank">HackerRank Solutions</a></li>
+    <li><a href="#a-cool-and-collective-resource">A cool & collective resource</a></li>
+    </ol>
 
 </div>
 
@@ -35,7 +50,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 
 ## Contribution Instructions
 
-* Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
+- Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
 
 ## HackerRank
 
@@ -207,7 +222,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.java)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
 
-### A cool & collective resource
+### A cool and collective resource
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
 
 ## Contributors ✨
