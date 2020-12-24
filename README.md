@@ -25,15 +25,15 @@
 <!-- TABLE OF CONTENTS -->
     <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#🤍-about-the-project">About The Project</a>
       </li>
     <li>
-      <a href="#contribution-instructions">Contribution Instructions</a>
+      <a href="#🤝-contribution-instructions">Contribution Instructions</a>
     </li>
-    <li><a href="#hackerrank">HackerRank Solutions</a></li>
-    <li><a href="#a-cool-and-collective-resource">A cool & collective resource</a></li>
+    <li><a href="#🚀-hackerrank">HackerRank Solutions</a></li>
+    <li><a href="#📋-a-cool-and-collective-resource">A cool & collective resource</a></li>
     <li><a href="#contributors-✨">Contributors</a></li>
-    <li><a href="#open-source-events">Open Source Events</a></li>
+    <li><a href="#💜-open-source-events">Open Source Events</a></li>
     </ol>
 
 </div>
@@ -327,4 +327,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## Open Source Events 
+## 💜 Open Source Events 
