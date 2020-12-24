@@ -38,7 +38,7 @@
 
 </div>
 
-## About the project
+## 🤍 About the project
 
 <table>
 <tr>
@@ -224,7 +224,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.java)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
 
-### A cool and collective resource
+### 📋 A cool and collective resource
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
 
 ## Contributors ✨
