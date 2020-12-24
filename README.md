@@ -50,11 +50,11 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 </tr>
 </table>
 
-## Contribution Instructions
+## 🤝 Contribution Instructions
 
 - Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
 
-## HackerRank
+## 🚀 HackerRank
 
 > HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
 
@@ -326,3 +326,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Open Source Events 
