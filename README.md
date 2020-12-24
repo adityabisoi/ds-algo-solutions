@@ -1,8 +1,15 @@
 <h1 align="center">
   <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="DS-ALGO-SOLUTIONS">
   <br>
-    DS - ALGO - SOLUTIONS
+    DS - ALGO - SOLUTIONS 
 </h1>
+
+ <h4>
+    <a href="https://github.com/adityabisoi/ds-algo-solutions/stargazers"><img src="https://img.shields.io/github/stars/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+    <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/last-commit/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+
+  </h4>
 
 [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
