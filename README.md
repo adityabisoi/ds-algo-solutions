@@ -21,7 +21,7 @@
 </div>
 
 ## Table of Contents
-* [Open source](#open-source-events)
+* [Open sourcee](#open-source-events)
 <div align="left">
 <!-- TABLE OF CONTENTS -->
     <ol>
@@ -329,7 +329,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## 💜 Open Source Events 
+##  Open Source Events 
  * KWoC
 
  <img width="150" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS">
