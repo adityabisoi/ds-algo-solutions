@@ -179,7 +179,6 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)|Advanced|||[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.py)|
 ||[Goodland Electricity](https://www.hackerrank.com/challenges/pylons/problem)|Medium|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.cpp)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.java)||
 ||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)||
->>>>>>> 7f3ac45ee8fd9b62f1858f0e487208f49f106baf
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
