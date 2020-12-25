@@ -163,8 +163,8 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|Easy|[View](Algorithms/Search/Sherlock%20and%20Array/solution.cpp)|[View](Algorithms/Search/Sherlock%20and%20Array/solution.java)|[View](Algorithms/Search/Sherlock%20and%20Array/solution.py)|
 ||[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|Easy|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.cpp)|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.java)|[View](Algorithms/Search/Ice%20Cream%20Parlor/solution.py)|
 ||[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|Easy|[View](Algorithms/Search/Missing%20Numbers/solution.cpp)|[View](Algorithms/Search/Missing%20Numbers/solution.java)|[View](Algorithms/Search/Missing%20Numbers/solution.py)|
-||[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|Easy|[View](Algorithms/Greedy/Sherlock%20and%20The%20Beast/solution.cpp)||[View](/Algorithms/Greedy/Sherlock%20and%20The%20Beast/solution.py)|
-||[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)|Easy|[View](Algorithms/Greedy/Permuting%20Two%20Arrays/solution.cpp)||[View](/Algorithms/Greedy/Permuting%20Two%20Arrays/solution.py)|
+||[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|Easy|[View](Algorithms/Greedy/Sherlock%20and%20The%20Beast/solution.cpp)|[View](Algorithms/Greedy/Sherlock%20and%20The%20Beast/solution.java)|[View](/Algorithms/Greedy/Sherlock%20and%20The%20Beast/solution.py)|
+||[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)|Easy|[View](Algorithms/Greedy/Permuting%20Two%20Arrays/solution.cpp)|[View](Algorithms/Greedy/Permuting%20Two%20Arrays/solution.java)|[View](/Algorithms/Greedy/Permuting%20Two%20Arrays/solution.py)|
 ||[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|Easy|[View](/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/solution.cpp)|[View](/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/solution.java)|[View](/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/solution.py)|
 ||[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|Easy|[View](Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/solution.cpp)|[View](Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/solution.java)|[View](/Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/solution.py)|
 ||[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|Easy|[View](Algorithms/Sorting/Counting%20Sort%202/solution.cpp)|[View](Algorithms/Sorting/Counting%20Sort%202/solution.java)|[View](/Algorithms/Sorting/Counting%20Sort%202/solution.py)|
@@ -195,6 +195,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.cpp)|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.py)|
 ||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy|[View](Algorithms/Implementation/Halloween%20Sale/solution.cpp)|[View](Algorithms/Implementation/Halloween%20Sale/solution.java)|[View](Algorithms/Implementation/Halloween%20Sale/solution.py)|
 ||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|[View](Algorithms/Implementation/Chocolate%20Feast/solution.cpp)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.java)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.py)|
+||[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|Easy|[View](/Algorithms/Sorting/Big%20Sorting/solution.java)|||
 ||[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|[View](Algorithms/Implementation/Save%20the%20Prisoner!/solution.cpp)|[View](Algorithms/Implementation/Save%20the%20Prisoner!/solution.java)|[View](Algorithms/Implementation/Save%20the%20Prisoner!/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|[View](Algorithms/Implementation/Library%20Fine/solution.cpp)|[View](Algorithms/Implementation/Library%20Fine/solution.java)|[View](Algorithms/Implementation/Library%20Fine/solution.py)|
 ||[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Medium|[view](Algorithms/Implementation/Non-Divisible%20Subset/solution.cpp)|[View](Algorithms/Implementation/Non-Divisible%20Subset/solution.java)|[View](Algorithms/Implementation/Non-Divisible%20Subset/solution.py)|
@@ -213,15 +214,20 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.cpp)|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.java)|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.py)|
 ||[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|Medium|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.cpp)|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.java)|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.py)|
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.cpp)|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.java)|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.py)|
-||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy|[View](Algorithms/Strings/Two%20Strings/solution.cpp)|||
-||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.cpp)|||
+||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy|[View](Algorithms/Strings/Two%20Strings/solution.cpp)||[View](Algorithms/Strings/Two%20Strings/solution.py)|
+||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.cpp)||[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.py)|
 ||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy|[View](Algorithms/Strings/String%20Construction/solution.cpp)|[View](Algorithms/Strings/String%20Construction/solution.java)|[View](Algorithms/Strings/String%20Construction/solution.py)|
 ||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.cpp)|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.java)|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.py)|	
 ||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium|[View](Algorithms/Sorting/Lily's%20Homework/solution.cpp)|[View](Algorithms/Sorting/Lily's%20Homework/solution.java)|[View](Algorithms/Sorting/Lily's%20Homework/solution.py)|
 ||[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|Easy|[View](Algorithms/Strings/Caesar%20Cipher/solution.cpp)|[View](Algorithms/Strings/Caesar%20Cipher/solution.java)|[View](/Algorithms/Strings/Caesar%20Cipher/solution.py)|
-||[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|Easy|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.cpp)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.java)||
-||[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.cpp)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.java)||
-||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy|[View](/Algorithms/Implementation/Cavity%20Map/solution.cpp)|[View](/Algorithms/Implementation/Cavity%20Map/solution.java)||
+||[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|Easy|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.cpp)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.java)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.py)|
+||[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.cpp)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.java)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.py)|
+||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy|[View](/Algorithms/Implementation/Cavity%20Map/solution.cpp)|[View](/Algorithms/Implementation/Cavity%20Map/solution.java)|[View](/Algorithms/Implementation/Cavity%20Map/solution.py)|
+||[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|Easy|[View](/Algorithms/Sorting/Big%20Sorting/solution.cpp)||[View](/Algorithms/Sorting/Big%20Sorting/solution.py)|
+||[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|Easy|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.cpp)|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.java)|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.py)|
+||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)|Advanced|||[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.py)|
+||[Goodland Electricity](https://www.hackerrank.com/challenges/pylons/problem)|Medium|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.cpp)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.java)||
+||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
@@ -232,6 +238,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 
 ### A cool and collective resource
 📋 [Click Me!](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing)
+
 
 ## Contributors 
 
@@ -324,6 +331,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ShreyasMore"><img src="https://avatars0.githubusercontent.com/u/25687870?v=4" width="100px;" alt=""/><br /><sub><b>Shreyas More</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=ShreyasMore" title="Code">💻</a></td>
+
   </tr>
 </table>
 
