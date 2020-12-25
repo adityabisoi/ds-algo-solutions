@@ -6,17 +6,27 @@
 
 
 
+
  <h4 align="center">
      <a href="https://github.com/adityabisoi/ds-algo-solutions/stargazers"><img src="https://img.shields.io/github/stars/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/last-commit/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
-     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
-     
+     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions"/></a>
+
+         
 <div align="center">
 
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/adityabisoi/ds-algo-solutions.svg)](https://github.com/adityabisoi/ds-algo-solutions/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/adityabisoi/ds-algo-solutions)](https://github.com/adityabisoi/ds-algo-solutions/pulls)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
