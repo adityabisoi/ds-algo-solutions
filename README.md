@@ -176,6 +176,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy|[View](/Algorithms/Implementation/Cavity%20Map/solution.cpp)|[View](/Algorithms/Implementation/Cavity%20Map/solution.java)|[View](/Algorithms/Implementation/Cavity%20Map/solution.py)|
 ||[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|Easy|[View](/Algorithms/Sorting/Big%20Sorting/solution.cpp)|||
 ||[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|Easy|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.cpp)||[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.py)|
+||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)|Advanced|||[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
