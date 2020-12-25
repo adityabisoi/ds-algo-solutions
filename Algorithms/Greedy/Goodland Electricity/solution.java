@@ -6,9 +6,10 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
-        int n = in.nextInt();
-        int k = in.nextInt();
+        int n = in.nextInt(); // number of cities in Goodland
+        int k = in.nextInt(); // plants' range constant
         
+        // array of elements indicating suitability for building a plant
         int[] cities = new int[n];
         
         for(int i=0; i < n; i++){
@@ -22,9 +23,10 @@ public class Solution {
         while(index < n){
             
             if(index < range){
-                // nothing               
+                // city is already in range                
             }
             else{
+                // find a tower to switch on
                 int towerEnd = index+k;
                 int towerStart = index-k+1;
                 if(towerStart < 0){
@@ -38,6 +40,7 @@ public class Solution {
                     }
                 }
                 
+                // no way to handle current city
                 if(tower == -1){
                     System.out.println(-1);
                     return;
