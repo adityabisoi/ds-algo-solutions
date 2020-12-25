@@ -21,27 +21,16 @@
 </div>
 
 ## Table of Contents
-* [Open sourcee](#open-source-events)
-<div align="left">
-<!-- TABLE OF CONTENTS -->
-    <ol>
-    <li>
-      <a href="#🤍-about-the-project">About The Project</a>
-      </li>
-    <li>
-      <a href="#🤝-contribution-instructions">Contribution Instructions</a>
-    </li>
-    <li><a href="#🚀-hackerrank">HackerRank Solutions</a></li>
-    <li><a href="#📋-a-cool-and-collective-resource">A cool & collective resource</a></li>
-    <li><a href="#contributors-✨">Contributors</a></li>
-     <li><a href="#💜-open-source-events">Open Source Events</a></li>
-    </ol>
 
-</div>
+* [About The Project](#about-the-project)
+* [Contribution Instructions](#contribution-instructions)
+* [HackerRank Solutions](#hackerrank)
+* [A cool & collective resource](#a-cool-and-collective-resource)
+* [Contributors](#contributors)
+* [Open sourcee](#open-source-events)
  
 
-## 🤍 About the project
-
+##  About the project
 <table>
 <tr>
 <td>
@@ -52,11 +41,11 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 </tr>
 </table>
 
-## 🤝 Contribution Instructions
+## Contribution Instructions
 
 - Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
 
-## 🚀 HackerRank
+## HackerRank
 
 > HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
 
@@ -226,12 +215,12 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.java)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
 
-### 📋 A cool and collective resource
-https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
+### A cool and collective resource
+📋 [Click Me!](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing)
 
-## Contributors ✨
+## Contributors 
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
