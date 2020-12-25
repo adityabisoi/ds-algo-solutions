@@ -1,3 +1,4 @@
+#input the string
 n = input().strip()
 x = 0
 while x+1 < len(n):
@@ -7,6 +8,7 @@ while x+1 < len(n):
             x-= 1
     else:
         x += 1
+# output the reduced string or Empty String
 if n == "":
     print("Empty String")
 else:
