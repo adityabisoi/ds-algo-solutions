@@ -1,11 +1,13 @@
 <h1 align="center">
   <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="DS-ALGO-SOLUTIONS">
   <br>
-    DS - ALGO - SOLUTIONS 
-</h1>
+   ✨DS - ALGO - SOLUTIONS✨
+  </h1>
+
+
 
  <h4 align="center">
-    <a href="https://github.com/adityabisoi/ds-algo-solutions/stargazers"><img src="https://img.shields.io/github/stars/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+     <a href="https://github.com/adityabisoi/ds-algo-solutions/stargazers"><img src="https://img.shields.io/github/stars/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/last-commit/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
      <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
      
@@ -19,6 +21,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </div>
+Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 
 ## Table of Contents
 
@@ -322,3 +325,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
  * KWoC
 
  <img width="150" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS">
+
+ 
