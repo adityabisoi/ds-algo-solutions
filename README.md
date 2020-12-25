@@ -165,8 +165,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.cpp)|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.java)|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.py)|
 ||[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|Medium|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.cpp)|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.java)|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.py)|
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.cpp)|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.java)|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.py)|
-||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy|[View](Algorithms/Strings/Two%20Strings/solution.cpp)|||
-||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.cpp)|||
+||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy|[View](Algorithms/Strings/Two%20Strings/solution.cpp)||[View](Algorithms/Strings/Two%20Strings/solution.py)|
+||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.cpp)||[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.py)|
 ||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy|[View](Algorithms/Strings/String%20Construction/solution.cpp)|[View](Algorithms/Strings/String%20Construction/solution.java)|[View](Algorithms/Strings/String%20Construction/solution.py)|
 ||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.cpp)|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.java)|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.py)|	
 ||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium|[View](Algorithms/Sorting/Lily's%20Homework/solution.cpp)|[View](Algorithms/Sorting/Lily's%20Homework/solution.java)|[View](Algorithms/Sorting/Lily's%20Homework/solution.py)|
@@ -187,6 +187,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 
 ### A cool & collective resource
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
+
 
 ## Contributors ✨
 
@@ -279,6 +280,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ShreyasMore"><img src="https://avatars0.githubusercontent.com/u/25687870?v=4" width="100px;" alt=""/><br /><sub><b>Shreyas More</b></sub></a><br /><a href="https://github.com/codewithvk/ds-algo-solutions/commits?author=ShreyasMore" title="Code">💻</a></td>
+
   </tr>
 </table>
 
