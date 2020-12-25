@@ -34,6 +34,7 @@ Be sure to ⭐ this repo so you can keep up to date on any daily progress!
  
 
 ##  About the project
+
 <table>
 <tr>
 <td>
@@ -50,7 +51,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 
 ## HackerRank
 
-> HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
+> HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. 🚀
 
 | Topic | Question  | Difficulty | CPP | JAVA  | Python |                                                    
 | ---------- | --------- | ---------- | --- | ----- | ------ |
@@ -322,8 +323,12 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ##  Open Source Events 
- * KWoC
 
- <img width="150" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS">
+  <h2> <img width="20" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS"> KWoC <img width="20" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS">
+  </h2>
+
+
+ <img  src="https://vchrombiediary.files.wordpress.com/2017/12/screenshot-from-2017-12-05-17-02-03-another-copy-e1512483232128.png" alt="DS-ALGO-SOLUTIONS">
+
 
  
