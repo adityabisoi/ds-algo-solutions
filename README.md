@@ -227,7 +227,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|Easy|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.cpp)|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.java)|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.py)|
 ||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)|Advanced|||[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.py)|
 ||[Goodland Electricity](https://www.hackerrank.com/challenges/pylons/problem)|Medium|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.cpp)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.java)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.py)|
-||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)||
+||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)|[View](/Algorithms/Greedy/Max%20Min/solution.py)|
 ||[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy||[View](/Algorithms/Strings/Super%20Reduced%20String/solution.java)||
 ||[Strong Password](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy||[View](/Algorithms/Strings/Strong%20Password/solution.java)||
 | Contest Problems |
