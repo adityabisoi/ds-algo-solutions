@@ -30,7 +30,7 @@ Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 * [HackerRank Solutions](#hackerrank)
 * [A cool & collective resource](#a-cool-and-collective-resource)
 * [Contributors](#contributors)
-* [Open sourcee](#open-source-events)
+* [Open source Events](#open-source-events)
  
 
 ##  About the project
@@ -328,7 +328,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   </h2>
 
 
- <img  src="https://vchrombiediary.files.wordpress.com/2017/12/screenshot-from-2017-12-05-17-02-03-another-copy-e1512483232128.png" alt="DS-ALGO-SOLUTIONS">
+ <img  src="https://vchrombiediary.files.wordpress.com/2017/12/screenshot-from-2017-12-05-17-02-03-another-copy-e1512483232128.png" href="https://kwoc.kossiitkgp.org/" alt="DS-ALGO-SOLUTIONS">
 
 
  
