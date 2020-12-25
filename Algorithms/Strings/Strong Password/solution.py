@@ -1,5 +1,4 @@
-#!/bin/python3
-
+#imports
 import sys
 
 numbers = "0123456789"
@@ -20,8 +19,12 @@ def minimumNumber(n, password):
         res2 += 1
     return max(res1, res2)
 
+# main module
 if __name__ == "__main__":
+    #input length of password
     n = int(input().strip())
+    #input password string
     password = input().strip()
     answer = minimumNumber(n, password)
+    #output the minimum number of characters to add
     print(answer)
