@@ -6,13 +6,15 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the chessboardGame function below.
     static String chessboardGame(int x, int y) {
-
+        // It can be observed that the pattern repeats every 4 rows
         x = x % 4;
         y = y % 4;
+        // The idea is to leave the player in a non-winning situation
+        // And it can be deduced after analysing a few cases
         if ((x == 0) || (x == 3) || (y == 0) || (y == 3))
             return "First";
         else
