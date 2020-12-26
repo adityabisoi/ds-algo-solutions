@@ -6,10 +6,12 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the gameOfStones function below.
     static String gameOfStones(int n) {
+        // It can be observed after analysing a few cases that when n%7 is equal to 0 or
+        // 1, Second player wins
         if (n % 7 <= 1)
             return "Second";
         else
