@@ -18,15 +18,16 @@ public class solution {
             else
                 break;
         }
-
+        // need a bigger k to transform s to t or vice versa
         if ((s.length() + t.length() - 2 * commonLength) > k) {
             return "No";
         }
-
+        // we have exactly k moves so if k is odd number of distinct digits should be
+        // odd too
         else if ((s.length() + t.length() - 2 * commonLength) % 2 == k % 2) {
             return "Yes";
         }
-
+        // deletion of any one string and addition of characters of other string
         else if ((s.length() + t.length() - k) < 0) {
             return "Yes";
         }
