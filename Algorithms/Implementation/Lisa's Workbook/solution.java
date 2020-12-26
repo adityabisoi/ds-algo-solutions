@@ -13,19 +13,21 @@ public class solution {
         int special = 0;
         int page = 1;
         int index = 0;
-        for (int problemNum : arr) {
-            for (int i = 1; i <= problemNum; i++) {
+        // for every problem number check if it is equal to the page number
+        for (int prob : arr) {
+            for (int i = 1; i <= prob; i++) {
                 if (i == page) {
                     special++;
                 }
 
                 index++;
+                // when number of problems are more than k, we go to the next page
                 if (index == k) {
                     page++;
                     index = 0;
                 }
             }
-
+            // when problems from a chapter finish, we move to the next page
             if (index != 0) {
                 page++;
                 index = 0;
