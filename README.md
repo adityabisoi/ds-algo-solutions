@@ -181,6 +181,7 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)||
 ||[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|Easy||[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.java)||
 ||[Drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy||[View](/Algorithms/Implementation/Drawing%20Book/solution.java)||
+||[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|Easy||[View](/Algorithms/Implementation/Append%20and%20Delete/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
