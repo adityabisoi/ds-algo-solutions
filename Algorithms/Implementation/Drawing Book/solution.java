@@ -4,7 +4,7 @@ import java.text.*;
 import java.util.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     /*
      * Complete the pageCount function below.
@@ -13,6 +13,8 @@ public class Solution {
         /*
          * Write your code here.
          */
+        // it will take p/2 turns to reach the pth page from front
+        // and (n-p)/2 pages from the back. Take the minimum out of the two
         int ans = Math.min(p / 2, n / 2 - p / 2);
         return ans;
     }
