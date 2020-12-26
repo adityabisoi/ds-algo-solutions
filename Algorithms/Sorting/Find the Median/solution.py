@@ -1,9 +1,11 @@
 import math
 def main():
+    #input array size
     testcase = int(input())
+    #input array elements
     med = [int(i) for i in input().split()]
     print(findmed(med))
-    
+#Output one integer, the median 
 def findmed(med):
     med.sort()
     if(len(med)%2 == 1):
