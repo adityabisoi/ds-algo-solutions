@@ -1,7 +1,11 @@
+#imports
 import sys
 
+# input  the initial string
 s = input().strip()
+# input the desired final string
 t = input().strip()
+# input  the number of operations
 k = int(input().strip())
 
 lead = 0
@@ -13,7 +17,7 @@ for i in range(min(len(s),len(t))):
         lead = i + 1
         
 d = len(s) - lead + len(t) - lead
-
+# Print either Yes or No
 if k >= len(s) + len(t):
     print("Yes")
 elif d <= k and (d % 2) == (k % 2):
