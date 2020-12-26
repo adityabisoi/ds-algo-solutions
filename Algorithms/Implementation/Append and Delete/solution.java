@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the appendAndDelete function below.
     static String appendAndDelete(String s, String t, int k) {
