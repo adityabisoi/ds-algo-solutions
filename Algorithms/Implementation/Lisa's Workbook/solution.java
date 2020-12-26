@@ -1,5 +1,4 @@
 import java.io.*;
-import java.io.*;
 import java.math.*;
 import java.security.*;
 import java.text.*;
@@ -7,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the workbook function below.
     static int workbook(int n, int k, int[] arr) {
