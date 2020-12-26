@@ -6,13 +6,19 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the towerBreakers function below.
     static int towerBreakers(int n, int m) {
+        // every player wants to reduce tower height to 1 because 1 divides all numbers
+        // evenly
 
+        // if the heights of the tower is 1, player 1 has no moves hence player 2 wins
         if (m == 1)
             return 2;
+
+        // so if odd number of towers, 1 gets to make the last move hence 1 wins and
+        // vice-versa
         else {
             if (n % 2 == 0)
                 return 2;
