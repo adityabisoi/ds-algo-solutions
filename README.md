@@ -230,6 +230,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)|[View](/Algorithms/Greedy/Max%20Min/solution.py)|
 ||[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy||[View](/Algorithms/Strings/Super%20Reduced%20String/solution.java)||
 ||[Strong Password](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy||[View](/Algorithms/Strings/Strong%20Password/solution.java)||
+||[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|||[View](/Algorithms/Implementation/Drawing%20Book/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
