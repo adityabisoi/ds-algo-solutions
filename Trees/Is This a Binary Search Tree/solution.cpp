@@ -81,28 +81,44 @@ The Node struct is defined as follows:
     
     
     // Main function to check If the given Tree is a Binary Search Tree Or not.
-    
+    int Max_element(Node *root)
+    {
+	    if(root == NULL)
+		  return INT_MIN;
+	    if(root->left == NULL && root->right == NULL)
+	    {
+		    return root->data;
+	    }
+	    return max(root->data, max(Max_element(root->left), Max_element(root->right)));
+    }
+    int Min_element(Node*root)
+    {
+	    if(root == NULL)
+		return INT_MAX;
+	    if(root->left == NULL && root->right == NULL)
+		return root->data;
+	    return min(root->data, min( Min_element(root->left), Min_element(root->right)));
+	}
     bool checkBST(Node* root) 
     {
-        vector<int> v;                         // Vector v created for Storing Inorder Traversal
-        inorder_trvsl_vector(root,v);          // Calling function.
-        
-        int n = v.size();
-        int a[n];                 // Creating a duplicate array to be sorted and then compared
-        
-        for(int i =0;i<n;i++)
+        if(root == NULL)
+	{
+		return true;
+	}
+	if(root->left != NULL && Max_element(root->left) > root->data) 
+	{
+		return false;
+	}
+        if(root->right != NULL && Min_element(root->right) < root->data)
         {
-            a[i]=v[i];            // Duplicating Inorder Vector and Array; 
-        }
-        
-        quickSort(a,0,n-1);       // Sorting Array by usig quicksort function.
-        
-        for(int i = 0;i<n;i++)
-        {
-            if(a[i]!=v[i] || a[i]==a[i+1])          // *** If array after sorting is not equal to the Inorder vector means Inorder vector is Unsorted - Not a BST
-                return false;                       // *** If a duplicate present - Not a BST { a[i]==a[i+1] }
-        }
-        return true;                                // Else it is a BST returning true;
+	        return false;
+	}
+	if(!checkBST(root->left) && !checkBST(root->right))
+	{
+		return false;
+	}
+	return true;
+	// Else it is a BST returning true;
     }
     
     // Time complexity - O(number of nodes) = O(n)
