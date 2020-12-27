@@ -232,6 +232,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[View](/Algorithms/Implementation/Drawing%20Book/solution.cpp)|[View](/Algorithms/Implementation/Drawing%20Book/solution.java)|[View](/Algorithms/Implementation/Drawing%20Book/solution.py)|
 ||[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|Easy|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.cpp)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.java)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.py)|
 ||[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|Easy|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.cpp)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.java)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.py)|
+||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
