@@ -1,19 +1,68 @@
+<h1 align="center">
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="DS-ALGO-SOLUTIONS">
+  <br>
+   ✨DS - ALGO - SOLUTIONS✨
+  </h1>
+
+
+
+
+ <h4 align="center">
+     <a href="https://github.com/adityabisoi/ds-algo-solutions/stargazers"><img src="https://img.shields.io/github/stars/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+    <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/last-commit/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions"/></a>
+
+         
+<div align="center">
+
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+[![GitHub Issues](https://img.shields.io/github/issues/adityabisoi/ds-algo-solutions.svg)](https://github.com/adityabisoi/ds-algo-solutions/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/adityabisoi/ds-algo-solutions)](https://github.com/adityabisoi/ds-algo-solutions/pulls)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Join the chat at https://gitter.im/ds-algo-solutions/community](https://badges.gitter.im/ds-algo-solutions/community.svg)](https://gitter.im/ds-algo-solutions/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## ds-algo-solutions
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+</div>
+
+Be sure to ⭐ this repo so you can keep up to date on any daily progress!
+
+## Table of Contents
+
+* [About The Project](#about-the-project)
+* [Contribution Instructions](#contribution-instructions)
+* [HackerRank Solutions](#hackerrank)
+* [A cool & collective resource](#a-cool-and-collective-resource)
+* [Contributors](#contributors)
+* [Open source Events](#open-source-events)
+ 
+
+##  About the project
+
+<table>
+<tr>
+<td>
 
 A collection of solutions for HackerRank data structures and algorithm problems in Python, JAVA, and CPP. This community-owned project aims to bring together the solutions for the DS & Algo problems across various platforms, along with the resources for learning them. Problems from Leetcode will be included soon in the project.
 
+</td>
+</tr>
+</table>
+
 ## Contribution Instructions
 
-Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
+- Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
 
 ## HackerRank
 
-> HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.
+> HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. 🚀
 
 | Topic | Question  | Difficulty | CPP | JAVA  | Python |                                                    
 | ---------- | --------- | ---------- | --- | ----- | ------ |
@@ -146,7 +195,6 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|Medium|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.cpp)|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.java)|[View](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/solution.py)|
 ||[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|Easy|[View](Algorithms/Implementation/Halloween%20Sale/solution.cpp)|[View](Algorithms/Implementation/Halloween%20Sale/solution.java)|[View](Algorithms/Implementation/Halloween%20Sale/solution.py)|
 ||[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|Easy|[View](Algorithms/Implementation/Chocolate%20Feast/solution.cpp)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.java)|[View](Algorithms/Implementation/Chocolate%20Feast/solution.py)|
-||[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|Easy|[View](/Algorithms/Sorting/Big%20Sorting/solution.java)|||
 ||[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|Easy|[View](Algorithms/Implementation/Save%20the%20Prisoner!/solution.cpp)|[View](Algorithms/Implementation/Save%20the%20Prisoner!/solution.java)|[View](Algorithms/Implementation/Save%20the%20Prisoner!/solution.py)|
 ||[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|Easy|[View](Algorithms/Implementation/Library%20Fine/solution.cpp)|[View](Algorithms/Implementation/Library%20Fine/solution.java)|[View](Algorithms/Implementation/Library%20Fine/solution.py)|
 ||[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Medium|[view](Algorithms/Implementation/Non-Divisible%20Subset/solution.cpp)|[View](Algorithms/Implementation/Non-Divisible%20Subset/solution.java)|[View](Algorithms/Implementation/Non-Divisible%20Subset/solution.py)|
@@ -165,8 +213,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)|Medium|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.cpp)|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.java)|[View](Algorithms/Dynamic%20Programming/Knapsack/solution.py)|
 ||[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|Medium|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.cpp)|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.java)|[View](Algorithms/Implementation/The%20Bomberman%20Game/solution.py)|
 ||[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|Easy|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.cpp)|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.java)|[View](Algorithms/Implementation/Organizing%20Containers%20of%20Balls/solution.py)|
-||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy|[View](Algorithms/Strings/Two%20Strings/solution.cpp)||[View](Algorithms/Strings/Two%20Strings/solution.py)|
-||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.cpp)||[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.py)|
+||[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|Easy|[View](Algorithms/Strings/Two%20Strings/solution.cpp)|[View](Algorithms/Strings/Two%20Strings/solution.java)|[View](Algorithms/Strings/Two%20Strings/solution.py)|
+||[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|Easy|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.cpp)|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.java)|[View](Algorithms/Strings/Game%20of%20Thrones%20-%20I/solution.py)|
 ||[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|Easy|[View](Algorithms/Strings/String%20Construction/solution.cpp)|[View](Algorithms/Strings/String%20Construction/solution.java)|[View](Algorithms/Strings/String%20Construction/solution.py)|
 ||[Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)|Medium|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.cpp)|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.java)|[View](Algorithms/Strings/Highest%20Value%20Palindrome/solution.py)|	
 ||[Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)|Medium|[View](Algorithms/Sorting/Lily's%20Homework/solution.cpp)|[View](Algorithms/Sorting/Lily's%20Homework/solution.java)|[View](Algorithms/Sorting/Lily's%20Homework/solution.py)|
@@ -174,13 +222,16 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|Easy|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.cpp)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.java)|[View](/Algorithms/Implementation/Manasa%20and%20Stones/solution.py)|
 ||[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|Easy|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.cpp)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.java)|[View](/Algorithms/Implementation/Happy%20Ladybugs/solution.py)|
 ||[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|Easy|[View](/Algorithms/Implementation/Cavity%20Map/solution.cpp)|[View](/Algorithms/Implementation/Cavity%20Map/solution.java)|[View](/Algorithms/Implementation/Cavity%20Map/solution.py)|
-||[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|Easy|[View](/Algorithms/Sorting/Big%20Sorting/solution.cpp)||[View](/Algorithms/Sorting/Big%20Sorting/solution.py)|
+||[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|Easy|[View](/Algorithms/Sorting/Big%20Sorting/solution.cpp)|[View](/Algorithms/Sorting/Big%20Sorting/solution.java)|[View](/Algorithms/Sorting/Big%20Sorting/solution.py)|
 ||[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|Easy|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.cpp)|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.java)|[View](/Algorithms/Sorting/Quicksort%201%20-%20Partition/solution.py)|
-||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)|Advanced|||[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.py)|
-||[Goodland Electricity](https://www.hackerrank.com/challenges/pylons/problem)|Medium|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.cpp)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.java)||
-||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)||
+||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)|Advanced|[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.cpp)||[View](/Algorithms/Greedy/Reverse%20Shuffle%20Merge/solution.py)|
+||[Goodland Electricity](https://www.hackerrank.com/challenges/pylons/problem)|Medium|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.cpp)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.java)|[View](/Algorithms/Greedy/Goodland%20Electricity/solution.py)|
+||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[View](/Algorithms/Greedy/Max%20Min/solution.cpp)|[View](/Algorithms/Greedy/Max%20Min/solution.java)|[View](/Algorithms/Greedy/Max%20Min/solution.py)|
 ||[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy||[View](/Algorithms/Strings/Super%20Reduced%20String/solution.java)||
 ||[Strong Password](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy||[View](/Algorithms/Strings/Strong%20Password/solution.java)||
+||[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[View](/Algorithms/Implementation/Drawing%20Book/solution.cpp)|[View](/Algorithms/Implementation/Drawing%20Book/solution.java)|[View](/Algorithms/Implementation/Drawing%20Book/solution.py)|
+||[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|Easy|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.cpp)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.java)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.py)|
+||[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|Easy|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.cpp)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.java)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
@@ -189,13 +240,13 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.java)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
 
-### A cool & collective resource
-https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
+### A cool and collective resource
+📋 [Click Me!](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing)
 
 
-## Contributors ✨
+## Contributors 
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -293,3 +344,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+##  Open Source Events 
+
+  <h2> <img width="20" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS"> KWoC <img width="20" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS">
+  </h2>
+
+
+ <img  src="https://vchrombiediary.files.wordpress.com/2017/12/screenshot-from-2017-12-05-17-02-03-another-copy-e1512483232128.png" href="https://kwoc.kossiitkgp.org/" alt="DS-ALGO-SOLUTIONS">
+
+
+ 
