@@ -80,45 +80,50 @@ The Node struct is defined as follows:
     }
     
     
-    // Main function to check If the given Tree is a Binary Search Tree Or not.
+    //recursive function to find the maximum element in a given tree
     int Max_element(Node *root)
     {
 	    if(root == NULL)
 		  return INT_MIN;
 	    if(root->left == NULL && root->right == NULL)
 	    {
-		    return root->data;
+		    return root->data;	//if it is leaf node then return its value
 	    }
-	    return max(root->data, max(Max_element(root->left), Max_element(root->right)));
+	    return max(root->data, max(Max_element(root->left), Max_element(root->right)));	//returns maximum of (root->data, root->left, root->right)
     }
+
+    //recursive function to find the maximum element in a given tree
     int Min_element(Node*root)
     {
 	    if(root == NULL)
 		return INT_MAX;
-	    if(root->left == NULL && root->right == NULL)
-		return root->data;
-	    return min(root->data, min( Min_element(root->left), Min_element(root->right)));
-	}
+	    if(root->left == NULL && root->right == NULL)	
+		return root->data;		//if it is leaf node then return its value
+	    return min(root->data, min( Min_element(root->left), Min_element(root->right)));	//returns minimum of (root->data, root->left, root->right)
+    }
+
+// Main function to check If the given Tree is a Binary Search Tree Or not.
     bool checkBST(Node* root) 
     {
         if(root == NULL)
 	{
 		return true;
 	}
-	if(root->left != NULL && Max_element(root->left) > root->data) 
+	if(root->left != NULL && Max_element(root->left) > root->data) 	//if root->left is not NULL and any element in left subtree is greater than root->data then it is not BST
 	{
 		return false;
 	}
-        if(root->right != NULL && Min_element(root->right) < root->data)
+        if(root->right != NULL && Min_element(root->right) < root->data)  //if root->right is not NULL and any element in right subtree is lesser than root->data then it is not BST
         {
 	        return false;
 	}
-	if(!checkBST(root->left) && !checkBST(root->right))
+	if(!checkBST(root->left) && !checkBST(root->right))   //checking for next subtrees
 	{
 		return false;
 	}
-	return true;
-	// Else it is a BST returning true;
+	    // Else it is a BST returning true;
+	return true;	
+	
     }
     
     // Time complexity - O(number of nodes) = O(n)
