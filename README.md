@@ -106,7 +106,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|Easy|[View](Heap/QHEAP1/solution.cpp)|[View](Heap/QHEAP1/solution.java)|[View](Heap/QHEAP1/solution.py)|
 ||[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|Easy|[View](Heap/Jesse%20and%20Cookies/solution.cpp)|[View](Heap/Jesse%20and%20Cookies/solution.java)|[View](Heap/Jesse%20and%20Cookies/solution.py)|
 ||[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|Hard|[View](Heap/Find%20the%20Running%20Median/solution.cpp)|[View](Heap/Find%20the%20Running%20Median/solution.java)|[View](Heap/Find%20the%20Running%20Median/solution.py)|
-||[Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)|Hard|||[View](/Heap/Minimum%20Average%20Waiting%20Time/solution.py)|
+||[Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)|Hard|[View](/Heap/Minimum%20Average%20Waiting%20Time/solution.cpp)||[View](/Heap/Minimum%20Average%20Waiting%20Time/solution.py)|
 | Trees |
 ||[Tree - Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|Easy|[View](Trees/Tree-Top%20View/solution.cpp)|[View](Trees/Tree-Top%20View/solution.java)|[View](Trees/Tree-Top%20View/solution.py)|
 ||[Tree - Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|Easy|[View](/Trees/Tree-Preorder%20Traversal/solution.cpp)|[View](/Trees/Tree-Preorder%20Traversal/solution.java)|[View](/Trees/Tree-Preorder%20Traversal/solution.py)|
@@ -232,9 +232,12 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[View](/Algorithms/Implementation/Drawing%20Book/solution.cpp)|[View](/Algorithms/Implementation/Drawing%20Book/solution.java)|[View](/Algorithms/Implementation/Drawing%20Book/solution.py)|
 ||[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|Easy|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.cpp)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.java)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.py)|
 ||[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|Easy|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.cpp)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.java)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.py)|
+<<<<<<< HEAD
 ||[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|Easy||[View](/Algorithms/Game%20Theory/Tower%20Breakers/solution.java)||
 ||[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|Easy||[View](/Algorithms/Game%20Theory/Game%20of%20Stones/solution.java)||
 ||[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|Easy||[View](/Algorithms/Game%20Theory/A%20Chessboard%20Game/solution.java)||
+||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy|||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
+||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy|||[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
