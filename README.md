@@ -232,7 +232,6 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[View](/Algorithms/Implementation/Drawing%20Book/solution.cpp)|[View](/Algorithms/Implementation/Drawing%20Book/solution.java)|[View](/Algorithms/Implementation/Drawing%20Book/solution.py)|
 ||[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|Easy|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.cpp)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.java)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.py)|
 ||[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|Easy|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.cpp)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.java)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.py)|
-<<<<<<< HEAD
 ||[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|Easy||[View](/Algorithms/Game%20Theory/Tower%20Breakers/solution.java)||
 ||[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|Easy||[View](/Algorithms/Game%20Theory/Game%20of%20Stones/solution.java)||
 ||[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|Easy||[View](/Algorithms/Game%20Theory/A%20Chessboard%20Game/solution.java)||
