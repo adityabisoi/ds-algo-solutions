@@ -14,5 +14,6 @@ maxi = 0
 arr = list(d.keys())
 for i in range(1,99):
     maxi = max(maxi,d[i]+d[i+1])
+# print the length of the longest subarray that meets the criteria
 print(maxi)
     
