@@ -12,6 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 public class result {
 
+    // main function
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt(); // the number of elements in array a
@@ -41,6 +42,7 @@ public class result {
         System.out.println(count);
     }
     
+    // hasFactors function
     public static boolean hasFactors(int num, int[] arr){
         // check if elements of array are factor of num
         for(int i=0;i<arr.length;i++){
@@ -51,6 +53,7 @@ public class result {
         return true;
     }
    
+   // isFactor function
     public static boolean isFactor(int num, int[] arr){
         // check if your num is factor
         for(int i=0;i<arr.length;i++){
