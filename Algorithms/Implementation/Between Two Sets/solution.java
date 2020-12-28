@@ -14,18 +14,19 @@ public class result {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        int m = in.nextInt();
+        int n = in.nextInt(); // the number of elements in array a
+        int m = in.nextInt(); // the number of elements in array b
         int[] a = new int[n];
-      
+        // taking elements of array a
         for(int a_i=0; a_i < n; a_i++){
             a[a_i] = in.nextInt();
         }
-     
+        // taking elements of array a
         int[] b = new int[m];
         for(int b_i=0; b_i < m; b_i++){
             b[b_i] = in.nextInt();
         }
+        // sort both arrays in increasing order
         Arrays.sort(a);
         Arrays.sort(b);
         int min = a[0];
@@ -36,10 +37,12 @@ public class result {
                 count++;
             }
         }
+        // number of integers that are between the sets
         System.out.println(count);
     }
     
     public static boolean hasFactors(int num, int[] arr){
+        // check if elements of array are factor of num
         for(int i=0;i<arr.length;i++){
             if(num%arr[i]!=0){
                 return false;
@@ -47,8 +50,9 @@ public class result {
         }
         return true;
     }
-    
+   
     public static boolean isFactor(int num, int[] arr){
+        // check if your num is factor
         for(int i=0;i<arr.length;i++){
             if(arr[i]%num!=0){
                 return false;
