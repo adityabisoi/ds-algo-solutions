@@ -1,6 +1,8 @@
+# The first line contains the number of queries
 def f(st):
     l = len(st)
     i = 0
+    # Each of the next lines contains a query string 
     while(st[i]==st[l-1-i] and i<l-1-i): i+=1
     if(i>=l-1-i): return -1
     ls = i
