@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-class Result {
+class solution {
 
     /*
      * Complete the 'pickingNumbers' function below.
