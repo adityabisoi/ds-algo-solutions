@@ -232,10 +232,10 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[View](/Algorithms/Implementation/Drawing%20Book/solution.cpp)|[View](/Algorithms/Implementation/Drawing%20Book/solution.java)|[View](/Algorithms/Implementation/Drawing%20Book/solution.py)|
 ||[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|Easy|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.cpp)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.java)|[View](/Algorithms/Implementation/Lisa's%20Workbook/solution.py)|
 ||[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|Easy|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.cpp)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.java)|[View](/Algorithms/Implementation/Append%20and%20Delete/solution.py)|
-||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy|||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
-||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy|||[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 ||[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|Easy|[View](/Algorithms/Strings/Separate%20the%20Numbers/solution.cpp)|||
 ||[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|Easy|[View](/Algorithms/Strings/Palindrome%20Index/solution.cpp)|||
+||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.java)|[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
+||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
