@@ -1,6 +1,9 @@
+#imports
 import sys
 
+# input the size of array
 n = int(input().strip())
+# input elements of array
 a = [int(a_temp) for a_temp in input().strip().split(' ')]
 d = {x:0 for x in range(1,100)}
 
