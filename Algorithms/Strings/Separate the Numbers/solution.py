@@ -1,4 +1,7 @@
+# loop through the number of strings to
 for _ in range(int(input())):
+     
+    # an integer string s to query
     s = input().strip()
     n = len(s)
     x = ''
