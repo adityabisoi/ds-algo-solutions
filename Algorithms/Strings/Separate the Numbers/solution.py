@@ -9,6 +9,8 @@ for _ in range(int(input())):
         x += i
         y = int(x)
         z = ''
+        # For each query, print its answer on a new line
+        # either YES x where x is the smallest first number of the increasing sequence, or NO
         while len(z) < n:
             z += str(y)
             y += 1
