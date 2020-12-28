@@ -6,6 +6,8 @@
                 if say string length is m then m contains x a's so n length dtring s will contain (x*n)/m
              - There might be a case when n is not divisible by m and leaves remainder k
              - Then we will traverse upto k in string s and add number of a in string s upto length k
+
+             
 */
 
 import java.io.*;
