@@ -235,7 +235,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|Easy|[View](/Algorithms/Implementation/Day%20of%20the%20Programmer/solution.cpp)|||
 ||[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|Easy|[View](/Algorithms/Implementation/Picking%20Numbers/solution.cpp)|||
 ||[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|Easy|[View](Algorithms/Game%20Theory/A%20Chessboard%20Game/solution.cpp)|[View](/Algorithms/Game%20Theory/A%20Chessboard%20Game/solution.java)|[View](/Algorithms/Game%20Theory/A%20Chessboard%20Game/solution.py)|
-||[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|Easy|[View](Algorithms/Game%20Theory/Game%20of%20Stones/solution.cpp)|[View](/Algorithms/Game%20Theory/Game%20of%20Stones/solution.java)||
+||[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|Easy|[View](Algorithms/Game%20Theory/Game%20of%20Stones/solution.cpp)|[View](/Algorithms/Game%20Theory/Game%20of%20Stones/solution.java)|[View](/Algorithms/Game%20Theory/Game%20of%20Stones/solution.py)|
 ||[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|Easy|[View](Algorithms/Game%20Theory/Tower%20Breakers/solution.cpp)|[View](/Algorithms/Game%20Theory/Tower%20Breakers/solution.java)||
 ||[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|Easy|[View](/Algorithms/Strings/Separate%20the%20Numbers/solution.cpp)|||
 ||[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|Easy|[View](/Algorithms/Strings/Palindrome%20Index/solution.cpp)|||
