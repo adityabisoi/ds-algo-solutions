@@ -1,3 +1,4 @@
+#input the year
 y = int(input())
 if y < 1918:
     ftext = "13.09.{}" if y & 3 else "12.09.{}"
