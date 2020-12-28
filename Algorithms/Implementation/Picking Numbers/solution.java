@@ -17,14 +17,20 @@ class Result {
 
     public static int pickingNumbers(List<Integer> a) {
         // Write your code here
+
+        // sort the list
         Collections.sort(a);
         int start = 0;
         int i = 0;
         int ans = 0;
         while (i < a.size()) {
+
+            // if the difference is greater than 1, move the start index to the position of
+            // i
             if (Math.abs(a.get(start) - a.get(i)) > 1) {
                 start = i;
             }
+            // keep storing the max
             ans = Math.max(ans, i - start + 1);
             i++;
         }
