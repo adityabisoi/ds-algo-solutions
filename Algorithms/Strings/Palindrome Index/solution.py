@@ -12,4 +12,5 @@ def f(st):
     return None
 
 for t in range(int(input())):
+    # output the index of the character to remove or -1
     print(f(input()))
