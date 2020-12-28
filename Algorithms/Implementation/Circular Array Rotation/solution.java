@@ -10,7 +10,6 @@ public class Solution {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(); // number of elements in the integer array
         int k = sc.nextInt()%n;// because every n rotations we receive the same array
-        // k is rotation count
         int q = sc.nextInt(); // number of queries
         int[] a = new int[n];
         for(int i=0; i < n; i++){
