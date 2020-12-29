@@ -1,5 +1,7 @@
+# input the number of elements in the integer array, the rotation count and the number of queries
 n,k,q=input().split()
 n,k,q=[int(n),int(k),int(q)]
+# input array to rotate
 a=list(map(int, input().split()))
 k=k%n
 b=a[n-k:]
