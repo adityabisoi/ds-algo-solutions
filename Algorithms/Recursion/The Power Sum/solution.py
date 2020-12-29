@@ -1,6 +1,9 @@
+# imports
 import sys
 
+# input the integer to sum to
 x = int(input().strip())
+# input the integer power to raise numbers to
 n = int(input().strip())
 
 def fun(a,min):
@@ -16,4 +19,5 @@ def fun(a,min):
         current += 1
     return count
 
+# print a single integer, the number of possible combinations caclulated
 print(fun(x,1))
