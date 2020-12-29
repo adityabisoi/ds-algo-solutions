@@ -13,10 +13,13 @@ public class solution {
 
     // Complete the divisibleSumPairs function below.
     static int divisibleSumPairs(int n, int k, int[] ar) {
-        int count=0;
+        int count=0; // to store count of such pairs
+        //Traverse through the array
         for(int i=0;i<n; i++){
             int j=i+1;
+            // make sure j is greater than i
             while(j<n){
+                // if sum of elements present at index at i & j is divisible by k increase the count
                 if((ar[i]+ar[j])%k==0){
                     count++;
                 }
