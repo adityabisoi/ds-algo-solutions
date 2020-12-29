@@ -9,3 +9,7 @@ for lst in (horizontal, vertical):
       if c == '-' and len(l) > 1:
         lst.append([row, l[0], l[-1]])
   A = list(map(list, zip(*A)))
+
+  intersections = [(i, column[0] - row[1], j, row[0] - column[1]) \
+                 for i, row in enumerate(horizontal) for j, column in enumerate(vertical) \
+                 if row[1] <= column[0] <= row[2] and column[1] <= row[0] <= column[2]]
