@@ -1,5 +1,6 @@
 import itertools
 
+# identify all words slots (horizontal & vertical)
 A = [input() for i in range(10)]
 horizontal, vertical = [], []
 for lst in (horizontal, vertical):
@@ -10,9 +11,14 @@ for lst in (horizontal, vertical):
         lst.append([row, l[0], l[-1]])
   A = list(map(list, zip(*A)))
 
+# find all intersections
 intersections = [(i, column[0] - row[1], j, row[0] - column[1]) \
                  for i, row in enumerate(horizontal) for j, column in enumerate(vertical) \
                  if row[1] <= column[0] <= row[2] and column[1] <= row[0] <= column[2]]
+
+# find an answer
+# Since 10 is a small enough number to allow an O(n!) solution, I will go through all possible
+# permutations without branch-cutting here. This can save me writing some search code.
 
 words = input().split(';')
 result = None
@@ -23,6 +29,7 @@ for l in itertools.permutations(words, len(words)):
     result = l
     break
 
+# fill in the answer
 for i, x in enumerate(horizontal):
   A[x[0]][x[1]:x[2]+1] = result[i]
 A = list(map(list, zip(*A)))
