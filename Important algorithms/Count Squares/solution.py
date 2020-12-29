@@ -1,3 +1,6 @@
+#Question link
+#https://practice.geeksforgeeks.org/problems/count-squares3649/1
+
 
 class Solution:
     def countSquares(self, N):

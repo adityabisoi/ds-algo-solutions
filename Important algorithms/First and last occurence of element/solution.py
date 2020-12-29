@@ -1,3 +1,8 @@
+#Question link
+#https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0
+
+
+
 t=int(input())
 for _ in range(t):
     (n,s)=map(int,input().split())

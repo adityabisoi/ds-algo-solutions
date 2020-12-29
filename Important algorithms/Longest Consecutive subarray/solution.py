@@ -1,3 +1,7 @@
+#Question link
+#https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0
+
+
 
 # arr[] : the input array
 # N : size of the array arr[]
