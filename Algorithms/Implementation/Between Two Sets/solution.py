@@ -16,4 +16,4 @@ if __name__=='__main__':
                     break
         if flag:
             ans+=1
-    print(answer)
+    print(ans)
