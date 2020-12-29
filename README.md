@@ -241,7 +241,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|Easy|[View](/Algorithms/Strings/Palindrome%20Index/solution.cpp)|||
 ||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.java)|[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
 ||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
-[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](Algorithms\Implementation\Between Two Sets\solution.py)|
+||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](Algorithms\Implementation\Between Two Sets\solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
