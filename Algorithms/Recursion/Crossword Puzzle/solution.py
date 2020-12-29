@@ -23,3 +23,11 @@ for l in itertools.permutations(words, len(words)):
     result = l
     break
 
+for i, x in enumerate(horizontal):
+  A[x[0]][x[1]:x[2]+1] = result[i]
+A = list(map(list, zip(*A)))
+for i, x in enumerate(vertical):
+  A[x[0]][x[1]:x[2]+1] = result[i + len(horizontal)]
+A = list(map(list, zip(*A)))
+
+print(*(''.join(x) for x in A), sep='\n')
