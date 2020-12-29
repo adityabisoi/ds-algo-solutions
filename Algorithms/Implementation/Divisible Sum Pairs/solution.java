@@ -9,7 +9,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class solution {
 
     // Complete the divisibleSumPairs function below.
     static int divisibleSumPairs(int n, int k, int[] ar) {
