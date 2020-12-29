@@ -1,5 +1,8 @@
+# main module
 if __name__=='__main__':
+    # input number of elements in array a and b
     n,m = map(int,input().split())
+    # input the elements of arrays a and b
     a = list(map(int,input().split()))
     b = list(map(int,input().split()))
     ans = 0
