@@ -63,3 +63,66 @@ public class Solution {
         return (((a&b)^(a|b))&(a^b));
     }
 }
+
+class Stk {
+
+    private int[] stkArr = null;
+
+    private static int[] stkMaxArr = null;
+
+    private static int maxPointer = 0;
+
+    private int currentPointer = -1;
+
+    private int size = 0;
+
+    private int total = 0;
+
+    public Stk(int size) { 
+        super();
+        this.size = size;
+        stkArr = new int[size];
+    }
+
+    public void push(int x) {
+        currentPointer++;
+        stkArr[currentPointer] = x;
+
+        total = total + x;
+
+    }
+
+    public int getTotal() {
+        return total;
+    }
+
+    public int pop() {
+        int val = stkArr[currentPointer];
+        stkArr[currentPointer] = 0;
+        currentPointer--;
+
+        total = total - val;
+
+        return val;
+
+    }
+
+    public int peep() {
+        if (currentPointer > -1)
+            return stkArr[currentPointer];
+        else
+            return -99;
+    }
+
+    public int getCurrentPointer() {
+        return currentPointer;
+    }
+
+    public int getSize() {
+        return size;
+    }
+
+    public int getMax() {
+        return stkMaxArr[maxPointer];
+    }
+}
