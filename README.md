@@ -239,6 +239,8 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|Easy|[View](Algorithms/Game%20Theory/Tower%20Breakers/solution.cpp)|[View](/Algorithms/Game%20Theory/Tower%20Breakers/solution.java)|[View](/Algorithms/Game%20Theory/Tower%20Breakers/solution.py)|
 ||[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|Easy|[View](/Algorithms/Strings/Separate%20the%20Numbers/solution.cpp)|||
 ||[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|Easy|[View](/Algorithms/Strings/Palindrome%20Index/solution.cpp)|||
+||[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|Easy|[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.cpp)|||
+||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.cpp)|||
 ||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.java)|[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
 ||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 | Contest Problems |
