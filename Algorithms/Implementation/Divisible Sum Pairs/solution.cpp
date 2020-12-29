@@ -14,17 +14,20 @@ vector<string> split_string(string);
 
 // Complete the divisibleSumPairs function below.
 int divisibleSumPairs(int n, int k, vector<int> ar) {
-    int count=0; // to store count
+    int count=0; // to store count of such pairs
+        //Traverse through the array
         for(int i=0;i<n; i++){
             int j=i+1;
+            // make sure j is greater tha i
             while(j<n){
+                // if sum of elements present at index at i & j is divisible by k increase the count
                 if((ar[i]+ar[j])%k==0){
                     count++;
                 }
                 j++;
             }
         }
-        return count;
+        return count; // return the answer
 
 }
 
