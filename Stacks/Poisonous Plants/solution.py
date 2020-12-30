@@ -8,3 +8,6 @@ def solve(ar):
         max_days = max(days, max_days)
         stack.append([x, days])
     print(max_days)
+
+N, ar = int(input()), [int(x) for x in input().split()]
+solve(ar)
