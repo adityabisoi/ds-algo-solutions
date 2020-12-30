@@ -126,7 +126,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Trie |
 ||[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|Medium|[View](/Trie/Contacts/solution.cpp)|[View](/Trie/Contacts/solution.java)|[View](/Trie/Contacts/solution.py)|
-||[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)|Hard|[View](/Trie/No%20Prefix%20Set/solution.cpp)||[View](/Trie/No%20Prefix%20Set/solution.py)|
+||[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)|Hard|[View](/Trie/No%20Prefix%20Set/solution.cpp)|[View](/Trie/No%20Prefix%20Set/solution.java)|[View](/Trie/No%20Prefix%20Set/solution.py)|
 | Algorithms |
 ||[Mark and Toys]( https://www.hackerrank.com/challenges/mark-and-toys/problem)|Easy|[View](Algorithms/Greedy/Mark%20and%20Toys/solution.cpp)|[View](Algorithms/Greedy/Mark%20and%20Toys/solution.java)|[View](Algorithms/Greedy/Mark%20and%20Toys/solution.py)|
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](Algorithms/Implementation/Grading%20Students/solution.cpp)|[View](Algorithms/Implementation/Grading%20Students/solution.java)|[View](Algorithms/Implementation/Grading%20Students/solution.py)|
@@ -246,6 +246,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 ||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.cpp)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.java)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.py)|
 ||[Circular Array Rotation](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.java)|[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.py)|
+||[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|Easy|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.cpp)|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
