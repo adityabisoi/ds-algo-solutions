@@ -1,3 +1,7 @@
+#Question link
+#https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+
+
 def areRotations(string1, string2): 
     size1 = len(string1) 
     size2 = len(string2) 
