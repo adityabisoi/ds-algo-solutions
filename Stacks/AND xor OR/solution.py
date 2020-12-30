@@ -1,6 +1,9 @@
+# input size of array
 size = int(input())
+# input elements of array
 ints = [int(x) for x in input().split()]
 
+# initialize stack 
 stack = []
 stack.append(ints[0])
 max = -1
