@@ -19,9 +19,11 @@ class Result {
         int n = prices.size();
         long maxSoFar = prices.get(n - 1), profit = 0;
         for (int i = n - 2; i >= 0; i--) {
+            // if current price is greater than max,update max
             if (prices.get(i) > maxSoFar)
                 maxSoFar = prices.get(i);
             else
+                // profit will be after selling the stock at lower price
                 profit += maxSoFar - prices.get(i);
         }
         return profit;
@@ -31,7 +33,7 @@ class Result {
 
 }
 
-public class Solution {
+public class solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
