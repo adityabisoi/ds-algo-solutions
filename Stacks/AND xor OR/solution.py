@@ -8,6 +8,8 @@ stack = []
 stack.append(ints[0])
 max = -1
 
+# Taking the two max elements and puttin them into the given formula 
+# perform the operations using the bitwise operators AND, OR and XOR 
 for i in range(1, size):
     while(len(stack) > 0 and ints[i] <= stack[len(stack)-1]):
         top = stack.pop()
