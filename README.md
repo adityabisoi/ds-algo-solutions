@@ -96,8 +96,8 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|Medium|[View](Stacks/Largest%20Rectangle/solution.cpp)|[View](Stacks/Largest%20Rectangle/solution.java)|[View](Stacks/Largest%20Rectangle/solution.py)|
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|[View](Stacks/Simple%20Text%20Editor/solution.cpp)|[View](Stacks/Simple%20Text%20Editor/solution.java)|[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|[View](Stacks/Waiter/solution.cpp)|[View](Stacks/Waiter/solution.java)|[View](Stacks/Waiter/solution.py)|
-||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|Hard||[View](Stacks/Poisonous%20Plants/solution.java)||
-||[AND xor OR](https://www.hackerrank.com/challenges/and-xor-or/problem)|Hard||[View](Stacks/AND%20xor%20OR/solution.java)||
+||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|Hard|[View](Stacks/Poisonous%20Plants/solution.cpp)|[View](Stacks/Poisonous%20Plants/solution.java)||
+||[AND xor OR](https://www.hackerrank.com/challenges/and-xor-or/problem)|Hard|[View](Stacks/AND%20xor%20OR/solution.cpp)|[View](Stacks/AND%20xor%20OR/solution.java)||
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queue%20using%20two%20stacks/solution.cpp)|[View](Queues/Queue%20using%20two%20stacks/solution.java)|[View](Queues/Queue%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)|[View](Queues/Castle%20on%20the%20grid/solution.java)|[View](Queues/Castle%20on%20the%20grid/solution.py)|
@@ -126,7 +126,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem)|Advanced|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.cpp)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.java)|[View](Trees/Kitty's%20Calculations%20on%20a%20Tree/solution.py)|
 | Trie |
 ||[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|Medium|[View](/Trie/Contacts/solution.cpp)|[View](/Trie/Contacts/solution.java)|[View](/Trie/Contacts/solution.py)|
-||[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)|Hard|[View](/Trie/No%20Prefix%20Set/solution.cpp)||[View](/Trie/No%20Prefix%20Set/solution.py)|
+||[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)|Hard|[View](/Trie/No%20Prefix%20Set/solution.cpp)|[View](/Trie/No%20Prefix%20Set/solution.java)|[View](/Trie/No%20Prefix%20Set/solution.py)|
 | Algorithms |
 ||[Mark and Toys]( https://www.hackerrank.com/challenges/mark-and-toys/problem)|Easy|[View](Algorithms/Greedy/Mark%20and%20Toys/solution.cpp)|[View](Algorithms/Greedy/Mark%20and%20Toys/solution.java)|[View](Algorithms/Greedy/Mark%20and%20Toys/solution.py)|
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](Algorithms/Implementation/Grading%20Students/solution.cpp)|[View](Algorithms/Implementation/Grading%20Students/solution.java)|[View](Algorithms/Implementation/Grading%20Students/solution.py)|
@@ -182,8 +182,8 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|Easy|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.cpp)|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.java)|[View](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/solution.py)|
 ||[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.cpp)||[View](Algorithms/Implementation/The%20Hurdle%20Race/solution.py)|
 ||[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|Easy|[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.cpp)||[View](Algorithms/Implementation/Designer%20PDF%20Viewer/solution.py)|
-||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)||
-||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.java)||
+||[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|Medium|[View](Algorithms/Recursion/The%20Power%20Sum/solution.cpp)|[View](Algorithms/Recursion/The%20Power%20Sum/solution.java)|[View](/Algorithms/Recursion/The%20Power%20Sum/solution.py)|
+||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)|Medium|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.cpp)|[View](Algorithms/Recursion/Crossword%20Puzzle/solution.java)|[View](/Algorithms/Recursion/Crossword%20Puzzle/solution.py)|
 ||[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|Easy|[View](Algorithms/Sorting/Closest%20Numbers/solution.cpp)|[View](Algorithms/Sorting/Closest%20Numbers/solution.java)|[View](Algorithms/Sorting/Closest%20Numbers/solution.py)|
 ||[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[View](Algorithms/Strings/CamelCase/solution.cpp)|[View](Algorithms/Strings/CamelCase/solution.java)|[View](Algorithms/Strings/CamelCase/solution.py)|
 ||[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|Easy|[View](Algorithms/Bit%20Manipulation/Lonely%20Integer/solution.cpp)|[View](Algorithms/Bit%20Manipulation/Lonely%20Integer/solution.java)|[View](Algorithms/Bit%20Manipulation/Lonely%20Integer/solution.py)|
@@ -246,7 +246,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 ||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.cpp)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.java)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.py)|
 ||[Circular Array Rotation](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.java)|[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.py)|
-
+||[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|Easy|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.cpp)|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
