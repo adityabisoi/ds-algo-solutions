@@ -1,22 +1,25 @@
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+/*
+    In this question we need to find the character with maximum value,maxx in given word 
+    If we have that number then we will just print word.length()*maxx 
+*/
 
-public class Solution {
+
+import java.io.*;
+import java.util.*;
+
+public class solution {
 
     // Complete the designerPdfViewer function below.
     static int designerPdfViewer(int[] h, String word) {
-        int maxx=0;
+        int maxx=0; // To store the maximum value in h array
+        // This loop will traverse through given word and update maxx if there is character with greater
+        //value than maxx
         for(int i=0; i<word.length(); i++){
             if(h[word.charAt(i)-97]>maxx){
                 maxx=h[word.charAt(i)-97];
             }
         }
-        return maxx*word.length();
+        return maxx*word.length(); //return the required output maxx*word.length()
         
     }
 
