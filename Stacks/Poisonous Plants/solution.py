@@ -8,6 +8,7 @@ def solve(ar):
         max_days = max(days, max_days)
         stack.append([x, days])
     print(max_days)
-
+# input size of array and elements of array
 N, ar = int(input()), [int(x) for x in input().split()]
+#  print the number of days until plants no longer die from pesticide
 solve(ar)
