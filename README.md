@@ -242,6 +242,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.java)|[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
 ||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 ||[Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Red%20John%20is%20Back/solution.java)||
+||[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)|Medium||[View](/Algorithms/Dynamic%20Programming/Stock%20Maximize/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
