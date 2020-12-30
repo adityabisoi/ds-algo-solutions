@@ -9,7 +9,7 @@ import java.util.regex.*;
 public class Solution {
 
     // Complete the redJohn function below.
-    public int redJohn(int n) {
+    static int redJohn(int n) {
         // solve if n >= 4
         if (n < 4)
             return 0;
@@ -23,7 +23,7 @@ public class Solution {
         return noOfPrimes(dp[n]);
     }
 
-    public int noOfPrimes(int n) {
+    static int noOfPrimes(int n) {
         if (n < 2)
             return 0;
         boolean[] prime = new boolean[n + 1];
@@ -43,7 +43,7 @@ public class Solution {
 
     }
 
-    public int func(int[] dp, int n) {
+    static int func(int[] dp, int n) {
         if (dp[n] > 0)
             return dp[n];
 
@@ -62,8 +62,7 @@ public class Solution {
         for (int tItr = 0; tItr < t; tItr++) {
             int n = scanner.nextInt();
             scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
-            Solution obj = new Solution();
-            int result = obj.redJohn(n);
+            int result = redJohn(n);
 
             bufferedWriter.write(String.valueOf(result));
             bufferedWriter.newLine();
