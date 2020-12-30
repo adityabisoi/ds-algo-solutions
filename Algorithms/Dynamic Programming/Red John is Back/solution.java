@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the redJohn function below.
     static int redJohn(int n) {
