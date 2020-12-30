@@ -10,9 +10,10 @@ public class solution {
 
     // Complete the redJohn function below.
     static int redJohn(int n) {
-        // solve if n >= 4
+
         if (n < 4)
             return 0;
+        // solve if n >= 4
         int[] dp = new int[n + 1];
         dp[0] = 0;
         dp[1] = 1;
@@ -44,6 +45,7 @@ public class solution {
     }
 
     static int func(int[] dp, int n) {
+        // check if we have already stored the solution
         if (dp[n] > 0)
             return dp[n];
 
