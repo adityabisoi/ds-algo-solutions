@@ -1,3 +1,7 @@
+#Question link
+#https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0
+
+
 def window(arr,n, k):
     left=0
     right=0
