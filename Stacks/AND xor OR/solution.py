@@ -20,4 +20,5 @@ for i in range(1, size):
         if s > max:
             max = s
     stack.append(ints[i])
+# print the value of maximum possible value 
 print(max)
