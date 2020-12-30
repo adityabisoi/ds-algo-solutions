@@ -97,7 +97,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|Medium|[View](Stacks/Simple%20Text%20Editor/solution.cpp)|[View](Stacks/Simple%20Text%20Editor/solution.java)|[View](Stacks/Simple%20Text%20Editor/solution.py)|
 ||[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|Medium|[View](Stacks/Waiter/solution.cpp)|[View](Stacks/Waiter/solution.java)|[View](Stacks/Waiter/solution.py)|
 ||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|Hard|[View](Stacks/Poisonous%20Plants/solution.cpp)|[View](Stacks/Poisonous%20Plants/solution.java)|[View](/Stacks/Poisonous%20Plants/solution.py)|
-||[AND xor OR](https://www.hackerrank.com/challenges/and-xor-or/problem)|Hard|[View](Stacks/AND%20xor%20OR/solution.cpp)|[View](Stacks/AND%20xor%20OR/solution.java)||
+||[AND xor OR](https://www.hackerrank.com/challenges/and-xor-or/problem)|Hard|[View](Stacks/AND%20xor%20OR/solution.cpp)|[View](Stacks/AND%20xor%20OR/solution.java)|[View](Stacks\AND xor OR\solution.py)|
 | Queues|
 ||[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|Medium|[View](Queues/Queue%20using%20two%20stacks/solution.cpp)|[View](Queues/Queue%20using%20two%20stacks/solution.java)|[View](Queues/Queue%20using%20two%20stacks/solution.py)|
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|Medium|[View](Queues/Castle%20on%20the%20grid/solution.cpp)|[View](Queues/Castle%20on%20the%20grid/solution.java)|[View](Queues/Castle%20on%20the%20grid/solution.py)|
