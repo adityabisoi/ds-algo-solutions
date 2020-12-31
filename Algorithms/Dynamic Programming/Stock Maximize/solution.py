@@ -1,6 +1,9 @@
+# input number of testcases
 test=int(input())
 for i in range(test):
+    # input the number of predicted prices for WOT
     n=int(input())
+    # input array of predicted stock price
     a=list(map(int,input().split()))
     c=0
     i=len(a)-1
