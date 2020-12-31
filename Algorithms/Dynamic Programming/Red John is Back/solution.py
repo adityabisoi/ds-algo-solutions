@@ -11,5 +11,15 @@ def nbComb(N) :
    nbCombMem[1].append(c)
    return c
     
-
+def getPrimesUnder(n) :
+   r = [2]
+   n2 = n // 2
+   l = list(True for i in range(0,n2))
+   l[0] = False
+   for i in range(1,n2) :
+      if l[i] :
+         r.append(2*i+1)
+         for m in range(2*i*(i+1),n2,2*i+1) :
+            l[m] = False
+   return r
 
