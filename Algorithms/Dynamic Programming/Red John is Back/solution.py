@@ -1,4 +1,4 @@
-
+# return the number of combinaison for a wall of length N. Use memoization
 nbCombMem = ([],[])
 def nbComb(N) :
    if N in nbCombMem[0] :
@@ -10,7 +10,8 @@ def nbComb(N) :
    nbCombMem[0].append(N)
    nbCombMem[1].append(c)
    return c
-    
+
+# return the primes (strictly) under n. Use a sieve of erathostene
 def getPrimesUnder(n) :
    r = [2]
    n2 = n // 2
@@ -23,7 +24,7 @@ def getPrimesUnder(n) :
             l[m] = False
    return r
 
-
+# main module
 T = int(input())
 Cs = [nbComb(int(input())) for t in range(0,T)]
 
