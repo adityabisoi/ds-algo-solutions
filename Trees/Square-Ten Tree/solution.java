@@ -100,3 +100,47 @@ public class Solution {
         }
     }
 }
+// BigInt numbers may be stored with leading 0s
+// BigInt only works with non-negative integers
+class BigInt {
+    public static final BigInt ZERO = new BigInt("0");
+    public static final BigInt ONE  = new BigInt("1");
+    
+    public final byte[] digits; // will use 8 bits per digit for simplicity, even though 4 bits is enough
+    
+    // Constructor
+    public BigInt(String str) {
+        digits = new byte[str.length()];
+        for (int i = 0; i < digits.length; i++) {
+            digits[i] = Byte.valueOf(str.substring(i, i + 1));
+        }
+    }
+    
+    // Constructor
+    public BigInt(byte [] digits) {
+        this.digits = digits;
+    }
+    
+    public static BigInt tenToPower(int exponent) {
+        byte [] digits = new byte[exponent + 1];
+        digits[0] = 1;
+        return new BigInt(digits);
+    }
+    
+    public BigInt add(BigInt other) {
+        byte [] digitsA = digits;
+        byte [] digitsB = other.digits;
+        
+        // Create new Array to hold answer
+        int newLength = Math.max(digitsA.length, digitsB.length);
+        if (!(digitsA[0] == 0 && digitsB[0] == 0)) {
+            newLength++;
+        }
+        byte [] result = new byte[newLength];
+        
+        // Do the addition
+        int carry = 0;
+        int ptrA = digitsA.length - 1;
+        int ptrB = digitsB.length - 1;
+        int ptrR = result.length  - 1;
+        
