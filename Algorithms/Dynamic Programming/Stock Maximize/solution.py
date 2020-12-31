@@ -16,4 +16,5 @@ for i in range(test):
             i-=1
         c+=(l-i)*a[l]-p
         continue
+    # print 'test' lines each containing the maximum profit which can be obtained for the corresponding test case
     print (c)
