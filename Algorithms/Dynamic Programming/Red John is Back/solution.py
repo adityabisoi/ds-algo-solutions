@@ -33,5 +33,6 @@ Ps = getPrimesUnder(max(Cs)+1)
 for t in range(0,T) :
     c = 0
     while c < len(Ps) and Ps[c] <= Cs[t] : c += 1
+    # Print the integer on a separate line for each test case
     print(c)
 
