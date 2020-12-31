@@ -23,3 +23,14 @@ def getPrimesUnder(n) :
             l[m] = False
    return r
 
+
+T = int(input())
+Cs = [nbComb(int(input())) for t in range(0,T)]
+
+Ps = getPrimesUnder(max(Cs)+1)
+
+for t in range(0,T) :
+    c = 0
+    while c < len(Ps) and Ps[c] <= Cs[t] : c += 1
+    print(c)
+
