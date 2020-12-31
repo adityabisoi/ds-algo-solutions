@@ -144,3 +144,96 @@ class BigInt {
         int ptrB = digitsB.length - 1;
         int ptrR = result.length  - 1;
         
+        while (ptrA >= 0 || ptrB >= 0 || carry > 0) {
+            int sum = carry;
+            if (ptrA >= 0) {
+                sum += digitsA[ptrA--];
+            }
+            if (ptrB >= 0) {
+                sum += digitsB[ptrB--];
+            }
+            result[ptrR--] = (byte) (sum % 10);
+            carry          = sum / 10;
+        }
+        return new BigInt(result);
+    }
+    
+    public BigInt subtract(BigInt other) { // assumes "other" is smaller than this BigInt
+        byte [] digitsB = other.digits;
+        byte [] result  = Arrays.copyOf(digits, digits.length); // copy of "digitsA"
+        
+        // Do the subtraction
+        int ptrB = digitsB.length - 1;
+        int ptrR = result.length  - 1;
+        while (ptrB >= 0 && ptrR >= 0) {
+            result[ptrR] -= digitsB[ptrB];
+            // if necessary, do the "borrow"
+            if (result[ptrR] < 0) {
+                result[ptrR] += 10;
+                int ptrBorrow = ptrR - 1;
+                while (result[ptrBorrow] == 0) {
+                    result[ptrBorrow--] = 9;
+                }
+                result[ptrBorrow]--;
+            }
+            ptrB--;
+            ptrR--;
+        }
+        return new BigInt(result);
+    }
+    
+    @Override
+    public boolean equals(Object other) {
+        if (!(other instanceof BigInt)) {
+            return false;
+        }
+        
+        byte [] digitsA = digits;
+        byte [] digitsB = ((BigInt) other).digits;
+
+        int indexA = 0;
+        int indexB = 0;
+        
+        // Remove leading 0s
+        while (indexA < digitsA.length && digitsA[indexA] == 0) {
+            indexA++;
+        }
+        while (indexB < digitsB.length && digitsB[indexB] == 0) {
+            indexB++;
+        }
+        
+        int lenA = digitsA.length - indexA;
+        int lenB = digitsB.length - indexB;
+        
+        if (lenA != lenB) {
+            return false;
+        }
+        
+        // Check to see if all digits match for the 2 BigInts
+        while (indexA < digitsA.length && indexB < digitsB.length) {
+            if (digitsA[indexA++] != digitsB[indexB++]) {
+                return false;
+            }
+        }
+        return true;
+    }
+    
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        int i = 0;
+       
+        while (i < digits.length && digits[i] == 0) {
+            i++;
+        }
+        
+        if (i == digits.length) {
+            return "0";
+        }
+     
+        for (  ; i < digits.length; i++) {
+            sb.append(digits[i]);
+        }
+        return sb.toString();
+    }
+}
