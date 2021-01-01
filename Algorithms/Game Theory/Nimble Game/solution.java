@@ -12,6 +12,8 @@ public class solution {
     static String nimbleGame(int[] s) {
 
         int result = 0;
+        // the odd coins are the deciding factor as the blocks having
+        // even coins can be nullifed by the opponent's move
         for (int i = 0; i < s.length; i++) {
             if (s[i] % 2 == 1)
                 result = result ^ i;
