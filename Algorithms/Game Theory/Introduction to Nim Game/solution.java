@@ -11,6 +11,8 @@ public class solution {
     // Complete the nimGame function below.
     static String nimGame(int[] pile) {
         int nim_sum = 0;
+        // Here we can simply find the XOR sum and because both players play optimally
+        // if nim sum is zero player 1 will win
         for (int i = 0; i < pile.length; i++) {
             nim_sum = nim_sum ^ pile[i];
         }
