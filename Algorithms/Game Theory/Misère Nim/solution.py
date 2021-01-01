@@ -6,6 +6,7 @@ for _ in range(test):
     # input number of stones in each pile
     ar = list(map(int,input().strip().split()))
     xor = 0
+    # print the name of the winner on a new line for every testcase
     for n in ar:
         xor = xor^n
     if ar == [1]*len(ar):
