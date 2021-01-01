@@ -1,6 +1,9 @@
+# input number of testcases
 test = int(input())
 for _ in range(test):
+    # input number of piles
     pile = int(input())
+    # input number of stones in each pile
     ar = list(map(int,input().strip().split()))
     xor = 0
     for n in ar:
