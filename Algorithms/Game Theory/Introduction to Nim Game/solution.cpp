@@ -13,15 +13,18 @@ using namespace std;
 
 int main()
 {
-    int t; cin >> t;
+    int t;  //for number of testcases
+    cin >> t;
     while(t--)
     {
-       int n, tmp; cin >> n;
-       int res=0;
+       int n; //to store number of piles of stone
+       cin >> n;
+       int res=0; //to store the xor sum
+       int a;
        for (int i=0;i<n;i++)
        {
-          cin >> tmp;
-          res^=tmp;
+          cin >> a;
+          res^=a;
        }
        if (res) cout << "First";
        else cout << "Second";
