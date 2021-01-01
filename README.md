@@ -249,6 +249,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.cpp)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.java)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.py)|
 ||[Circular Array Rotation](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.java)|[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.py)|
 ||[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|Easy|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.cpp)|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.java)|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.py)|
+||[Nimble Game](https://www.hackerrank.com/challenges/nimble-game/problem)|easy||[View](Algorithms/Implementation/Nimble%20Game/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
