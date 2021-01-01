@@ -252,7 +252,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.cpp)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.java)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.py)|
 ||[Circular Array Rotation](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.java)|[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.py)|
 ||[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|Easy|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.cpp)|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.java)|[View](Algorithms/Implementation/Divisible%20Sum%20Pairs/solution.py)|
-||[Nimble Game](https://www.hackerrank.com/challenges/nimble-game/problem)|Easy||[View](Algorithms/Game%20Theory/Nimble%20Game/solution.java)||
+||[Nimble Game](https://www.hackerrank.com/challenges/nimble-game/problem)|Easy|[View](Algorithms/Game%20Theory/Nimble%20Game/solution.cpp)|[View](Algorithms/Game%20Theory/Nimble%20Game/solution.java)||
 ||[Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem)|Easy||[View](Algorithms/Game%20Theory/Misère%20 Nim/solution.java)||
 ||[Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|Easy||[View](Algorithms/Game%20Theory/Introduction%20to%20Nim%20Game/solution.java)||
 | Contest Problems |
