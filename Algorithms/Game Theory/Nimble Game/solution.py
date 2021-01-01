@@ -5,6 +5,7 @@ for _ in range(test):
     n = int(input())
     # input number of coins in each square
     ar = list(map(int,input().strip().split()))
+    # print the name of the winner for each testcase
     result = []
     for i in range(len(ar)):
         result.append(ar[i]%2)
