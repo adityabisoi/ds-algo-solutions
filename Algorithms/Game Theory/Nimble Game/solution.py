@@ -5,3 +5,10 @@ for _ in range(test):
     result = []
     for i in range(len(ar)):
         result.append(ar[i]%2)
+    xor = 0
+    for i,n in enumerate(result):
+        xor = xor ^(i*n)
+    if xor==0:
+        print('Second')
+    else:
+        print('First')
