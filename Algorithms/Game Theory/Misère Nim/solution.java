@@ -11,7 +11,7 @@ public class Solution {
     // Complete the misereNim function below.
     static String misereNim(int[] s) {
         int n = s.length;
-
+        // if there is only 1 pile AND it has more than 1 element => First player wins
         if (n == 1) {
             return s[0] > 1 ? "First" : "Second";
         }
@@ -22,11 +22,17 @@ public class Solution {
             total += s[i];
             xor ^= s[i];
         }
-
+        /*
+         * If sum of all stones equals the total piles, all piles have a single (1)
+         * stone. For even number of piles, first player will always win.
+         */
         if (total == n) {
             return total % 2 == 0 ? "First" : "Second";
         }
-
+        /*
+         * For all other cases, the xor value determines winner. If xor value = 0, then
+         * second player will always win as all piles (stones) can be paired.
+         */
         return xor > 0 ? "First" : "Second";
 
     }
