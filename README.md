@@ -247,7 +247,6 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|Easy||[View](/Algorithms/Sorting/Counting%20Sort%201/solution.java)|[View](/Algorithms/Sorting/Counting%20Sort%201/solution.py)|
 ||[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|Easy||[View](/Algorithms/Sorting/Find%20the%20Median/solution.java)|[View](/Algorithms/Sorting/Find%20the%20Median/solution.py)|
 ||[Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back/problem)|Medium|[View](/Algorithms/Dynamic%20Programming/Red%20John%20is%20Back/solution.cpp)|[View](/Algorithms/Dynamic%20Programming/Red%20John%20is%20Back/solution.java)|[View](/Algorithms/Dynamic%20Programming/Red%20John%20is%20Back/solution.py)
-|
 ||[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)|Medium|[View](/Algorithms/Dynamic%20Programming/Stock%20Maximize/solution.cpp)|[View](/Algorithms/Dynamic%20Programming/Stock%20Maximize/solution.java)|[View](/Algorithms/Dynamic%20Programming/Stock%20Maximize/solution.py)|
 ||[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.cpp)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.java)|[View](/Algorithms/Implementation/Between%20Two%20Sets/solution.py)|
 ||[Circular Array Rotation](https://www.hackerrank.com/challenges/between-two-sets/problem)|Easy||[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.java)|[View](/Algorithms/Implementation/Circular%20Array%20Rotation/solution.py)|
@@ -262,6 +261,8 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.java)|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.py)|
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.cpp)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.java)|[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
+| Strings|
+||[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|Easy|[View](Strings/Seperate%20the%20Numberss/solution.cpp)|[View](Strings/Seperate%20the%20Numberss/solution.java)|[View](Strings/Seperate%20the%20Numberss/solution.py)|
 
 ### A cool and collective resource
 📋 [Click Me!](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing)
