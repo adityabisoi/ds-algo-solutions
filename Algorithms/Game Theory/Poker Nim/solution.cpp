@@ -20,7 +20,7 @@ int main()
         int x;
         for(int i=0;i<n;i++)
         {
-            cin>>x;
+            cin>>x; //input
             ans^=x;
         }
         if(ans!=0)
