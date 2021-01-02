@@ -1,6 +1,10 @@
+# input length of string
 n=int(input())
+# input the string 
 s=list(input())
 ans=0
+# print an integer that denotes the longest
+# string that can be formed, or 0 if it cannot be done
 for i in set(s):
     for j in set(s):
         if(j!=i):
