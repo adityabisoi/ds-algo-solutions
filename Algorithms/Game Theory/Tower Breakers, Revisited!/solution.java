@@ -49,5 +49,20 @@ public class Solution {
             }
         }
     }
+
+    public static int getNoOfPrimeFactors(int num, int[] mem, int[] primes){
+        int count = 0;
+        for(int i=0;i<primes.length;i++){
+            while(num != 1 && num%primes[i]==0){
+                num = num/primes[i];
+                count++;
+            }
+            if(num == 1){
+                break;
+            }
+        }
+        if(num>1)count++;
+        return count;
+    }
     
 }
