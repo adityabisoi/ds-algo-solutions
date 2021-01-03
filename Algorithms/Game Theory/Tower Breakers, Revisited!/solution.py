@@ -6,12 +6,13 @@ def nim_sum(a,n):
         ans = ans^a[i]
         
     return ans
-
+# input number of testcases
 t = int(input())
 while(t != 0):
     t -= 1
-    
+    # input number of towers
     n = int(input())
+    # input height of each tower
     a= [int(i) for i in input().split()]
     
     b = [0 for i in range(n)]
@@ -34,9 +35,9 @@ while(t != 0):
                 
             if(a[i] != 1):
                 b[i] += 1
-                
+
     ans = nim_sum(b, n)
-    
+    # for each test case print an integer denoting to a winner
     if(ans != 0):
         print("1")
     else:
