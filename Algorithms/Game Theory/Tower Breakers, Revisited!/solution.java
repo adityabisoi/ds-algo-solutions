@@ -30,5 +30,24 @@ public class Solution {
             }
         }
     }
+
+    public static void computeNoOfPrimeFactors(int[] mem, int n, int[] primes){
+        Arrays.fill(mem,1);
+        for(int i=4; i<n; i++){
+            for(int j=2;j<i;j++){
+                if(i%j==0){
+                    mem[i] = 1+mem[i/j];
+                    break;
+                }
+            }
+        }
+        
+        int count = 0;
+        for(int i=2;i<n;i++){
+            if(mem[i]==1){
+                primes[count++] = i;
+            }
+        }
+    }
     
 }
