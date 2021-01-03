@@ -3,6 +3,7 @@ import java.util.*;
 
 public class Solution {
 
+    // main function
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = 1001;
@@ -30,7 +31,8 @@ public class Solution {
             }
         }
     }
-
+    
+    // function to compute number of prime factors
     public static void computeNoOfPrimeFactors(int[] mem, int n, int[] primes){
         Arrays.fill(mem,1);
         for(int i=4; i<n; i++){
@@ -49,7 +51,8 @@ public class Solution {
             }
         }
     }
-
+    
+    // function to get number of prime factors
     public static int getNoOfPrimeFactors(int num, int[] mem, int[] primes){
         int count = 0;
         for(int i=0;i<primes.length;i++){
@@ -64,5 +67,4 @@ public class Solution {
         if(num>1)count++;
         return count;
     }
-    
 }
