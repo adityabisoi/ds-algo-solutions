@@ -34,4 +34,10 @@ while(t != 0):
                 
             if(a[i] != 1):
                 b[i] += 1
-            
+                
+    ans = nim_sum(b, n)
+    
+    if(ans != 0):
+        print("1")
+    else:
+        print("2")
