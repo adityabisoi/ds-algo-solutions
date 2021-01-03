@@ -254,6 +254,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Nimble Game](https://www.hackerrank.com/challenges/nimble-game/problem)|Easy|[View](Algorithms/Game%20Theory/Nimble%20Game/solution.cpp)|[View](Algorithms/Game%20Theory/Nimble%20Game/solution.java)|[View](/Algorithms/Game%20Theory/Nimble%20Game/solution.py)|
 ||[Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem)|Easy|[View](Algorithms/Game%20Theory/Misère%20Nim/solution.cpp)|[View](Algorithms/Game%20Theory/Misère%20Nim/solution.java)|[View](/Algorithms/Game%20Theory/Misère%20Nim/solution.py)|
 ||[Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|Easy|[View](Algorithms/Game%20Theory/Introduction%20to%20Nim%20Game/solution.cpp)|[View](Algorithms/Game%20Theory/Introduction%20to%20Nim%20Game/solution.java)|[View](/Algorithms/Game%20Theory/Introduction%20to%20Nim%20Game/solution.py)|
+||[Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem)|Medium|||[View](Algorithms\Game Theory\Alice and Bob's Silly Game\solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
