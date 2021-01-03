@@ -10,3 +10,8 @@ for i in range(2, 100000):
             sieve[j] = i
     else:
         prime_pre[i] = prime_pre[i-1]
+
+g = int(input().strip())
+for a0 in range(g):
+    n = int(input().strip())
+    print("Bob" if prime_pre[n]%2 == 0 else "Alice")
