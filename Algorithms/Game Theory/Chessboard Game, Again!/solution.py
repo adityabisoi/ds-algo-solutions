@@ -16,4 +16,6 @@ for _ in range(int(input())):
     for _ in range(int(input())):
         # input the coordinates of the location of the coin
         k ^= grundy(*map(int, input().split()))
+    # for each test case, print First if the first player is the winner
+    #  otherwise, print Second
     print("First" if k else "Second")
