@@ -15,4 +15,5 @@ while T > 0:
                 sb2 = sorted(sb2)
                 if sb == sb2:
                     ans += 1
+    #  output the number of unordered anagrammatic pairs of substrings in string s
     print(str(ans))
