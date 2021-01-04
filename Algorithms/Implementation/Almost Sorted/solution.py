@@ -1,6 +1,8 @@
+# input array size
 input()
+# input array elements
 array = [int(x) for x in input().split(" ")]
-
+# store the sorted array
 sorted_array = sorted(array)
 
 if array == sorted_array:
