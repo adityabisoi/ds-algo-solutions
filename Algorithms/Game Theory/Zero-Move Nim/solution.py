@@ -18,4 +18,6 @@ for a0 in range(g):
             res = res ^ gx
     
     john = res != 0
+    # For each game, print W on a new line if John will win
+    # otherwise, print L instead
     print('W' if john else 'L')
