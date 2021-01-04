@@ -8,6 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
+    // main function
     public static void main(String[] args) {
         // getting size
         Scanner scan = new Scanner(System.in);
