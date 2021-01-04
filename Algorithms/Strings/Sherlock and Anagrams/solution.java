@@ -35,7 +35,7 @@ public class Solution {
                     // Increament the times we've seen the string
                     map.put(currentSubString, value + 1);
                 } else {
-
+                    // if we are seeing it for the first time set it's value as 1
                     map.put(currentSubString, 1);
                 }
             }
