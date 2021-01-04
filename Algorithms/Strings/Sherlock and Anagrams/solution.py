@@ -8,4 +8,9 @@ while T > 0:
         for j in range(l - i):
             sb = S[i: (i + j + 1)]
             sb = sorted(sb)
-            
+            for k in range(i + 1, l - j):
+                sb2 = S[k: (k + j + 1)]
+                sb2 = sorted(sb2)
+                if sb == sb2:
+                    ans += 1
+    print(str(ans))
