@@ -6,7 +6,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-
+    // solveMeFirst function
     static int solveMeFirst(int a, int b) {
       	int sum=0; 
         sum=a+b; // a+b
@@ -14,7 +14,8 @@ public class Solution {
 
    }
 
- public static void main(String[] args) {
+    // main function
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a;
         a = in.nextInt(); // first integer

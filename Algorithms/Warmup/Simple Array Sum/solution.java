@@ -6,6 +6,7 @@ import java.util.regex.*;
 
 public class Solution {
 
+    // simpleArraySum function
     static int simpleArraySum(int[] ar) {
         int sum = 0;
 
@@ -20,6 +21,7 @@ public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);
 
+    // main function
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
