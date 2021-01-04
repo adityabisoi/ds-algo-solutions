@@ -11,3 +11,12 @@ for ele in lists:
             m+=1
         else:
             z+=1
+p=p/T
+m=m/T
+z=z/T
+round(p,3)
+round(m,3)
+round(z,3)
+print(p)
+print(m)
+print(z)
