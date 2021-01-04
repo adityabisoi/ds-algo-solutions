@@ -269,7 +269,6 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Chessboard Game, Again!](https://www.hackerrank.com/challenges/chessboard-game-again-1/problem)|Medium|||[View](/Algorithms/Game%20Theory/Chessboard%20Game,%20Again!/solution.py)|
 ||[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|Medium|||[View](/Algorithms/Implementation/Almost%20Sorted/solution.py)|
 ||[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|Medium|||[View](/Algorithms/Strings/Sherlock%20and%20Anagrams/solution.py)|
->>>>>>> 46f4748e7c20332cfa817f45133081f691b9ca9f
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
