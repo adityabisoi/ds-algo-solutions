@@ -259,6 +259,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1/problem)|Medium|[View](Algorithms/Game%20Theory/Tower%20Breakers,%20Revisited!/solution.cpp)||[View](/Algorithms/Game%20Theory/Tower%20Breakers,%20Revisited!/solution.py)|
 ||[Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1/problem)|Easy|[View](Algorithms/Game%20Theory/Poker%20Nim/solution.cpp)||[View](/Algorithms/Game%20Theory/Poker%20Nim/solution.py)|
 ||[Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1/problem)|Medium|||[View](/Algorithms/Game%20Theory/Tower%20Breakers,%20Again!/solution.py)|
+||[Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem)|Medium|||[View](Algorithms\Game Theory\Zero-Move Nim\solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
