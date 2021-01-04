@@ -11,8 +11,9 @@ public class Solution {
     // aVeryBigSum function
     static long aVeryBigSum(long[] ar) {
         long sum=0;
+        // iterating elements of array
         for(long val : ar)
-        sum+= val;
+        sum+= val; // adding elements of array
         return sum; 
 
     }
@@ -22,7 +23,7 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
-        int arCount = scanner.nextInt();
+        int arCount = scanner.nextInt(); // array size
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
         long[] ar = new long[arCount];
@@ -35,7 +36,7 @@ public class Solution {
             ar[i] = arItem;
         }
 
-        long result = aVeryBigSum(ar);
+        long result = aVeryBigSum(ar); // function call
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
