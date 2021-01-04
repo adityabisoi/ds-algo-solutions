@@ -9,11 +9,12 @@ public class Solution {
     static int simpleArraySum(int[] ar) {
         int sum = 0;
 
+        // iterating through array
         for(int count = 0; count < ar.length; count++) {
-            sum = sum + ar[count];
+            sum = sum + ar[count]; // addding all elements of array
         }
 
-        return sum;
+        return sum; // return total sum
 
     }
 
@@ -22,7 +23,7 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
-        int arCount = Integer.parseInt(scanner.nextLine().trim());
+        int arCount = Integer.parseInt(scanner.nextLine().trim()); // size of array
 
         int[] ar = new int[arCount];
 
