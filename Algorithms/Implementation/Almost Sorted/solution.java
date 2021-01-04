@@ -61,7 +61,7 @@ public class solution {
         int[] b = new int[n];
         for (int i = 0; i < n; i++)
             b[i] = arr[i];
-        Arrays.sort(b, 0, n);
+        Arrays.sort(b);
         int r = 0, l = 0;
         int ct = 0;
         for (int i = 0; i < n; i++)
