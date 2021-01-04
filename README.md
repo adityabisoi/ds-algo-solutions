@@ -267,7 +267,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1/problem)|Medium|||[View](/Algorithms/Game%20Theory/Tower%20Breakers,%20Again!/solution.py)|
 ||[Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim/problem)|Medium|||[View](/Algorithms/Game%20Theory/Zero-Move%20Nim/solution.py)|
 ||[Chessboard Game, Again!](https://www.hackerrank.com/challenges/chessboard-game-again-1/problem)|Medium|||[View](/Algorithms/Game%20Theory/Chessboard%20Game,%20Again!/solution.py)|
-||[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|Medium||View](/Algorithms/Implementation/Almost%20Sorted/solution.java)|[View](/Algorithms/Implementation/Almost%20Sorted/solution.py)|
+||[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|Medium||[View](/Algorithms/Implementation/Almost%20Sorted/solution.java)|[View](/Algorithms/Implementation/Almost%20Sorted/solution.py)|
 ||[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|Medium||[View](/Algorithms/Strings/Sherlock%20and%20Anagrams/solution.java)|[View](/Algorithms/Strings/Sherlock%20and%20Anagrams/solution.py)|
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
