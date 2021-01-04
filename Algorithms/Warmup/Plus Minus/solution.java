@@ -6,6 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+<<<<<<< HEAD
 public class solution {
 
     // Complete the plusMinus function below.
@@ -22,10 +23,31 @@ public class solution {
             } else if (arr[i] < 0) {
                 negatives++;
                 // increase count of zero if number is zero
+=======
+public class Solution {
+
+    // main function
+    public static void main(String[] args) {
+        // getting size
+        Scanner scan = new Scanner(System.in);
+        int size = scan.nextInt();
+        
+        // Count instances of +,-,0
+        double positives = 0;
+        double negatives = 0;
+        double zeroes    = 0;
+        for (int i = 0; i < size; i++) {
+            int value = scan.nextInt();
+            if (value > 0) {
+                positives++;
+            } else if (value < 0) {
+                negatives++;
+>>>>>>> 46f4748e7c20332cfa817f45133081f691b9ca9f
             } else {
                 zeroes++;
             }
         }
+<<<<<<< HEAD
         System.out.println(positives / arr.length);
         System.out.println(negatives / arr.length);
         System.out.println(zeroes / arr.length);
@@ -50,5 +72,13 @@ public class solution {
         plusMinus(arr);
 
         scanner.close();
+=======
+        scan.close();
+        
+        // Print ratios
+        System.out.println(positives / size);
+        System.out.println(negatives / size);
+        System.out.println(zeroes / size);
+>>>>>>> 46f4748e7c20332cfa817f45133081f691b9ca9f
     }
 }
