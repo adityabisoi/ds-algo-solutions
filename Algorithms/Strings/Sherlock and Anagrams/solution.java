@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class solution {
 
     // Complete the sherlockAndAnagrams function below.
     static int sherlockAndAnagrams(String s) {
