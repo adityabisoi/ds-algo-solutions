@@ -1,3 +1,5 @@
+
+// Never seen it before = insert and set to 1 to indiciate we've now seen it
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -12,23 +14,28 @@ public class Solution {
     static int sherlockAndAnagrams(String s) {
         HashMap<String, Integer> map = new HashMap<String, Integer>();
 
+        // total anagrams
         int totalCount = 0;
 
         for (int i = 0; i < s.length(); i++) {
             for (int j = i + 1; j <= s.length(); j++) {
                 String currentSubString = s.substring(i, j);
 
+                // Sort all strings E.g. ab & ba both == ab
                 char[] chars = currentSubString.toCharArray();
                 Arrays.sort(chars);
                 currentSubString = String.valueOf(chars);
 
+                // If sorted substring has been seen before
                 if (map.containsKey(currentSubString)) {
-
+                    // Check how many times we've seen it and add that amount to the count
                     int value = map.get(currentSubString);
                     totalCount = totalCount + value;
 
+                    // Increament the times we've seen the string
                     map.put(currentSubString, value + 1);
                 } else {
+
                     map.put(currentSubString, 1);
                 }
             }
