@@ -10,10 +10,10 @@ public class Solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String time = sc.next(); 
-        int hour = Integer.parseInt(time.substring(0,2))%12; // getting hour
+        int hour = Integer.parseInt(time.substring(0,2))%12; // getting hours
         if(time.contains("PM")) // if time contains "pm"
             hour += 12;
         // printing time in 24 hour format
-        System.out.printf("%02d%s",hour,time.substring(2,8));
+        System.out.print("%02d%s",hour,time.substring(2,8));
     }
 }
