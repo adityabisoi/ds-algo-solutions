@@ -12,3 +12,7 @@ else:
             wrong.append(i)
         if len(wrong) > 2:
             break
+    if len(wrong) == 2:
+        print("yes")
+        print("swap", wrong[0]+1, wrong[1]+1)
+    
