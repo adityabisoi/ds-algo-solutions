@@ -1,9 +1,13 @@
+# imports
 import sys
 from functools import reduce
+# input number of games 
 g = int(input().strip())
-
+# loop through the number of games 
 for a0 in range(g):
+    # input number of heaps
     n = int(input().strip())
+    # input n space seperated integers
     p = [int(p_temp) for p_temp in input().strip().split(' ')]
     res = 0
     for el in p:
