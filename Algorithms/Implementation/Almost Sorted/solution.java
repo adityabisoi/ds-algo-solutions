@@ -70,7 +70,7 @@ public class solution {
                 l = ct == 1 ? i + 1 : l;
                 ct++;
             }
-        /swap r and l when flag is 2 
+        // swap r and l when flag is 2
         if (ct == 2)
             System.out.println("yes \nswap " + r + " " + l);
         // if there is no operation required
