@@ -1,0 +1,1 @@
+ins = input().strip()
