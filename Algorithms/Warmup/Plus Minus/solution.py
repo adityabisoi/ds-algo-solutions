@@ -1,4 +1,6 @@
+# input the number of testcases
 T=int(input())
+# input array size and array elements
 lists=[int(_) for _ in input().split()]
 p=0
 m=0
