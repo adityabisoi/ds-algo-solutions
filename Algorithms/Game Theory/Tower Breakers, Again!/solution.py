@@ -1,3 +1,4 @@
+# input number of test cases
 g = [0]
 for N in range(1, 10**5 + 1):
     i = N
@@ -15,10 +16,11 @@ for N in range(1, 10**5 + 1):
     if N>1:
         c += 1
     g.append(c+twos)
-
+# input number of towers and then the height of each tower
 for _ in range(int(input())):
     input()
     r = 0
     for h in map(int, input().split()):
         r ^= g[h]
+    # print a single integer denoting the winner for each test case
     print(1 if r else 2)
