@@ -11,18 +11,19 @@ public class Solution {
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int n = sc.nextInt(); // number of rows
 
-        StringBuilder builder = new StringBuilder();
+        StringBuilder builder = new StringBuilder(); // StringBuilder used
         for (int i = 0; i <n ; i++) 
-            builder.append(" ");
+            builder.append(" "); // append space
+        
         int j = 0;
-
         for (int i = 1; i <=n; i++) {
+            // adding "#"
             builder.replace(builder.length()-i,          
             builder.length() - j, "#");
-            System.out.println(builder);
-            j++;
+            System.out.println(builder); // print each row
+            j++; // increase j by 1
         }
 
     }
