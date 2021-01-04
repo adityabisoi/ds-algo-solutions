@@ -9,3 +9,8 @@ def grundy(x, y):
             grun[x, y] = k
         return grun[x, y]
     return -1
+for _ in range(int(input())):
+    k = 0
+    for _ in range(int(input())):
+        k ^= grundy(*map(int, input().split()))
+    print("First" if k else "Second")
