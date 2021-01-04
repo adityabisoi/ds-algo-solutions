@@ -254,7 +254,7 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 ||[Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem)|Easy||[View](Algorithms/Game%20Theory/Misère%20 Nim/solution.java)||
 ||[Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|Easy||[View](Algorithms/Game%20Theory/Introduction%20to%20Nim%20Game/solution.java)||
 ||[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|Easy||[View](Algorithms/Warmup/Plus%20Minus/solution.java)||
-||[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|Easy||[View](Algorithms/Warmup/Almost%20Sorted/solution.java)||
+||[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|Easy||[View](Algorithms/Implementation/Almost%20Sorted/solution.java)||
 | Contest Problems |
 ||[Squares of a Sorted Array](https://www.hackerrank.com/contests/coding-gym-mo0419/challenges/squares-of-a-sorted-array)|Medium|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.cpp)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.java)|[View](/Contest%20Problems/Squares%20of%20a%20Sorted%20Array/solution.py)|
 | Disjoint Sets |
