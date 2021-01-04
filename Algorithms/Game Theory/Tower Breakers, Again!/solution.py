@@ -15,4 +15,10 @@ for N in range(1, 10**5 + 1):
     if N>1:
         c += 1
     g.append(c+twos)
-    
+
+for _ in range(int(input())):
+    input()
+    r = 0
+    for h in map(int, input().split()):
+        r ^= g[h]
+    print(1 if r else 2)
