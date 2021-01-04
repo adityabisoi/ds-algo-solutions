@@ -48,6 +48,35 @@ public class Solution {
         return true;
     }
 
+    static int checkSorted(int n, int arr[]) {
+        return 0;
+    }
+
+    static void almostSorted(int[] arr) {
+        int n = arr.length;
+
+        int[] b = new int[n];
+        for (int i = 0; i < n; i++)
+            b[i] = arr[i];
+        Arrays.sort(b, 0, n);
+        int r = 0, l = 0;
+        int ct = 0;
+        for (int i = 0; i < n; i++)
+            if (arr[i] != b[i]) {
+                r = (ct == 0) ? i + 1 : r;
+                l = ct == 1 ? i + 1 : l;
+                ct++;
+            }
+
+        if (ct == 2)
+            System.out.println("yes \nswap " + r + " " + l);
+        else if (ct == 0)
+            System.out.println("yes");
+        else
+            checkReverse(arr, arr.length);
+
+    }
+
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
