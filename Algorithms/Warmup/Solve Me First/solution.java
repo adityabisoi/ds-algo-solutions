@@ -9,7 +9,7 @@ public class Solution {
 
     static int solveMeFirst(int a, int b) {
       	int sum=0; 
-        sum=a+b; 
+        sum=a+b; // a+b
         return sum;
 
    }
@@ -17,11 +17,11 @@ public class Solution {
  public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a;
-        a = in.nextInt();
+        a = in.nextInt(); // first integer
         int b;
-        b = in.nextInt();
+        b = in.nextInt(); // second integer
         int sum;
-        sum = solveMeFirst(a, b);
-        System.out.println(sum);
+        sum = solveMeFirst(a, b); // function call
+        System.out.println(sum); // printing sum
    }
 }
