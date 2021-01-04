@@ -6,24 +6,6 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-<<<<<<< HEAD
-public class solution {
-
-    // Complete the plusMinus function below.
-    static void plusMinus(int[] arr) {
-
-        double positives = 0;
-        double negatives = 0;
-        double zeroes = 0;
-        // increase count of positives if number is positive
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] > 0) {
-                positives++;
-                // increase count of negatives if number is negative
-            } else if (arr[i] < 0) {
-                negatives++;
-                // increase count of zero if number is zero
-=======
 public class Solution {
 
     // main function
