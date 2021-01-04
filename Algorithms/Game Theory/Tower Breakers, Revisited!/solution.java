@@ -32,7 +32,7 @@ public class Solution {
         }
     }
     
-    // function to compute number of prime factors
+    // computeNoOfPrimeFactors function to compute number of prime factors
     public static void computeNoOfPrimeFactors(int[] mem, int n, int[] primes){
         Arrays.fill(mem,1);
         for(int i=4; i<n; i++){
@@ -52,7 +52,7 @@ public class Solution {
         }
     }
     
-    // function to get number of prime factors
+    // getNoOfPrimeFactors function to get number of prime factors
     public static int getNoOfPrimeFactors(int num, int[] mem, int[] primes){
         int count = 0;
         for(int i=0;i<primes.length;i++){
