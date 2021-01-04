@@ -1,38 +1,25 @@
-/*
-    This problem is identical to standard nim game. 
-    If the current player is in winning position and the opponent adds some chips, 
-    the current player can remove those chips in his move and remain in winning position. 
-    As the current player can mirror his opponent's "add" move all the time, that move has no value.
-    Now you can find xor sum like standard nim game and determine who will win the game.
-*/
-
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+
 public class Solution {
 
-    public static void main(String[] args) throws IOException {
-         Scanner sc = new Scanner(System.in);
-
-       int t=sc.nextInt();
-        while(t-->0)
-        {
-            int n=sc.nextInt();
-            int k=sc.nextInt();
-            int b=0;
-            while(n-->0)
-            {
-                b^=sc.nextInt();
+    // main function
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt(); // number of test cases
+        for(int i=0; i<t; i++){
+            int n = sc.nextInt(); // the number of piles
+            int k = sc.nextInt(); // the maximum number of times an individual player can add chips to some pile i
+            int p = 0;
+            for(int j=0; j<n; j++){
+                int q = sc.nextInt();
+                p = p^q; // power
             }
-
-            if(b==0)
+            if(p==0){
                 System.out.println("Second");
-            else
+            }else{
                 System.out.println("First");
+            }
         }
     }
 }

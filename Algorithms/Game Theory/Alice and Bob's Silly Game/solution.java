@@ -1,44 +1,46 @@
-/*
-    During each move, a player chooses one prime number and removes it (as well as its multiples) from the set. 
-    Because a player cannot move unless there is at least one prime number in the set and a single prime number is removed during each turn,
-     we simply need to count the number of primes in the inclusive range . 
-     If the number of primes is odd, Alice will remove the last prime number and win the game;
-      otherwise, this number is even and Bob will choose the last prime number, winning the game.
-
-    You can get a 50% score if you generate prime numbers using a naive method. 
-    For a full score, you should use a Sieve of Eratosthenes algorithm.
-*/
-
 import java.io.*;
-import java.util.*;
-import java.text.*;
 import java.math.*;
+import java.text.*;
+import java.util.*;
 import java.util.regex.*;
 
-public class solution {
-    static int sieve(int grens){
-        int primes = 0;
-        boolean[] catch_the_sieve = new boolean[grens+1];
-        for (int x = 2; x <= grens; x++){
-            if (catch_the_sieve[x] == false){
-                primes++;
-                for (int i = x; i <= grens; i += x){
-                    catch_the_sieve[i] = true;
+public class Solution {
+
+    // sillyGame function
+    static String sillyGame(int n) {
+        int tmp = 0;
+        boolean[] arr = new boolean[n+1]; // boolean array of length n+1
+        for (int x = 2; x <= n; x++){
+            if (arr[x] == false){ // if element of array is false
+                tmp++;
+                for (int i = x; i <= n; i += x){
+                    arr[i] = true;
                     }
                 }
             }
-        return primes;
+        if(tmp % 2 == 0) // if even
+            return "Bob";
+        else                // if odd 
+            return "Alice";
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+    
+    // main function
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int g = Integer.parseInt(scanner.nextLine().trim());
+
+        for (int gItr = 0; gItr < g; gItr++) {
+            int n = Integer.parseInt(scanner.nextLine().trim());
+
+            String result = sillyGame(n);
+
+            bufferedWriter.write(result);
+            bufferedWriter.newLine();
         }
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int g = in.nextInt();
-        for(int a0 = 0; a0 < g; a0++){
-            int n = in.nextInt();
-            //    System.out.println(sieve(n));
-            if(sieve(n) % 2 == 0)
-                System.out.println("Bob");
-            else
-                System.out.println("Alice"); 
-        }
+
+        bufferedWriter.close();
     }
 }
