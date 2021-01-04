@@ -23,7 +23,9 @@ public class Solution {
                 zeroes++;
             }
         }
-
+        System.out.println(positives / arr.length);
+        System.out.println(negatives / arr.length);
+        System.out.println(zeroes / arr.length);
     }
 
     private static final Scanner scanner = new Scanner(System.in);
