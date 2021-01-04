@@ -13,10 +13,11 @@ public class solution {
         for (int i = 0; i < n; i++) {
             temp[i] = arr[i];
         }
-
+        // we'll create a temp array and sort it for comparision with the original array
         Arrays.sort(temp);
 
         int front;
+        // break at the point where the arrays aren't are equal
         for (front = 0; front < n; front++) {
             if (temp[front] != arr[front]) {
                 break;
@@ -24,12 +25,13 @@ public class solution {
         }
 
         int back;
+        // break at the point where the arrays aren't are equal
         for (back = n - 1; back >= 0; back--) {
             if (temp[back] != arr[back]) {
                 break;
             }
         }
-
+        // the arrays aren't sorted beacause front >back so we can reverse
         if (front >= back) {
             System.out.println("yes \nreverse " + front + " " + back);
             return true;
@@ -38,6 +40,7 @@ public class solution {
         int r = front, l = back;
         do {
             front++;
+            // more operations will be needed and array can't be sorted in single operation
             if (arr[front - 1] < arr[front]) {
                 System.out.println("no");
                 return false;
