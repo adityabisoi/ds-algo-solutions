@@ -135,6 +135,8 @@ Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the p
 ||[Components in a Graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|Medium|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.cpp)|[View](/Disjoint%20Sets/Components%20in%20a%20graph/solution.java)||
 ||[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|Hard|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.cpp)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.java)|[View](/Disjoint%20Sets/Super%20Maximum%20Cost%20Queries/solution.py)|
 ||[Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem)|Hard|||[View](/Disjoint%20Sets/Kundu%20and%20Tree/solution.py)|
+||[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|Medium|||[View](/Algorithms/Implementation/Almost%20Sorted/solution.cpp)|
+||[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|Medium|||[View](/Algorithms/Strings/Sherlock%20and%20Anagrams/solution.cpp)|
 
 ### A cool & collective resource🔻
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
