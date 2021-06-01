@@ -1,5 +1,5 @@
 /*This is a simple problem where we just count the no of occurance 
-of each no in the imput and print it afterwards*/
+of each no in the input and print it afterwards*/
 
 #include<bits/stdc++.h>
 using namespace std ;
