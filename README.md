@@ -384,10 +384,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ##  Open Source Events 
 
-  <h2> <img width="20" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS"> KWoC <img width="20" src="https://www.sangam.dev/assets/img/kwoc_logo.png" alt="DS-ALGO-SOLUTIONS">
-  </h2>
-
-
  <img  src="https://vchrombiediary.files.wordpress.com/2017/12/screenshot-from-2017-12-05-17-02-03-another-copy-e1512483232128.png" href="https://kwoc.kossiitkgp.org/" alt="DS-ALGO-SOLUTIONS">
 
 
