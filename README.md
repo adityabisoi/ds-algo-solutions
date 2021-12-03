@@ -381,6 +381,10 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+	
+## Help & support
+
+If you are stuck somewhere or do not understand what to do, feel free to reach out to mentors in the official [Gitter Channel](https://gitter.im/ds-algo-solutions/community).
 
 ##  Open Source Events 
 
