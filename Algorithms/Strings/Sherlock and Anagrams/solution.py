@@ -1,19 +1,25 @@
-# input number of queries
-T = int(input())
-while T > 0:
-    T -= 1
-    # input the strings
-    S = input()
-    l = len(S)
-    ans = 0
-    for i in range(l - 1):
-        for j in range(l - i):
-            sb = S[i: (i + j + 1)]
-            sb = sorted(sb)
-            for k in range(i + 1, l - j):
-                sb2 = S[k: (k + j + 1)]
-                sb2 = sorted(sb2)
-                if sb == sb2:
-                    ans += 1
-    #  output the number of unordered anagrammatic pairs of substrings in string s
-    print(str(ans))
+def sherlockAndAnagrams(s):
+    
+    anagrams = 0
+    slen = len(s)
+
+    for i in range(slen):
+        for j in range(i+1, slen):
+
+            substr = ''.join(sorted(s[i:j]))
+            sublen = len(substr)
+
+            for x in range(i+1, slen):
+
+                if x + sublen > slen:
+                    break
+
+                substr2 = ''.join(sorted(s[x:x+sublen]))
+
+                if substr == substr2:
+                    anagrams += 1
+
+    return anagrams
+
+for _ in range(int(input())):
+    print(sherlockAndAnagrams(input()))
